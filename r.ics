@@ -1,0 +1,488 @@
+BEGIN:VCALENDAR
+NAME:Radarr Movies Calendar
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:In the wake of the devastating war against the RDA and the los
+ s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
+ ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
+ thless Varang. Jake's family must fight for their survival and the future
+  of Pandora in a conflict that pushes them to their emotional and physica
+ l limits.
+DTEND;VALUE=DATE:20251218
+DTSTAMP:20251130T205639Z
+DTSTART;VALUE=DATE:20251217
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Fire and Ash (Theatrical Release)
+UID:Radarr_movie_6448_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Studio Ghibli
+DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer 
+ Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
+ orld War II fighter plane.
+DTEND;VALUE=DATE:20130721
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20130720
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Wind Rises (Theatrical Release)
+UID:Radarr_movie_8234_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Studio Ghibli
+DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer 
+ Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
+ orld War II fighter plane.
+DTEND;VALUE=DATE:20251214
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251213
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Wind Rises (Digital Release)
+UID:Radarr_movie_8234_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Studio Ghibli
+DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer 
+ Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
+ orld War II fighter plane.
+DTEND;VALUE=DATE:20140326
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20140325
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Wind Rises (Physical Release)
+UID:Radarr_movie_8234_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Toho Pictures
+DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
+ s through the city\, the government scrambles to save its citizens.  A ra
+ g-tag team of volunteers cuts through a web of red tape to uncover the mo
+ nster's weakness and its mysterious ties to a foreign superpower.  But ti
+ me is not on their side - the greatest catastrophe to ever befall the wor
+ ld is about to evolve right before their very eyes.
+DTEND;VALUE=DATE:20160730
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20160729
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shin Godzilla (Theatrical Release)
+UID:Radarr_movie_8945_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Toho Pictures
+DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
+ s through the city\, the government scrambles to save its citizens.  A ra
+ g-tag team of volunteers cuts through a web of red tape to uncover the mo
+ nster's weakness and its mysterious ties to a foreign superpower.  But ti
+ me is not on their side - the greatest catastrophe to ever befall the wor
+ ld is about to evolve right before their very eyes.
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251130
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shin Godzilla (Digital Release)
+UID:Radarr_movie_8945_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Toho Pictures
+DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
+ s through the city\, the government scrambles to save its citizens.  A ra
+ g-tag team of volunteers cuts through a web of red tape to uncover the mo
+ nster's weakness and its mysterious ties to a foreign superpower.  But ti
+ me is not on their side - the greatest catastrophe to ever befall the wor
+ ld is about to evolve right before their very eyes.
+DTEND;VALUE=DATE:20171205
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20171204
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shin Godzilla (Physical Release)
+UID:Radarr_movie_8945_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Super Cool ManChu
+DESCRIPTION:Quentin Tarantinoâs complete cut combining Kill Bill: Vol. 1 a
+ nd Vol. 2 follows The Bride\, a former assassin who awakens from a four-y
+ ear coma after being shot by her mentor and lover\, Bill. She embarks on 
+ a vengeful quest to eliminate Bill and the Deadly Viper Assassination Squ
+ ad who betrayed her.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251205
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
+UID:Radarr_movie_9301_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:
+DESCRIPTION:The line between the good guys and the bad guys blurs as ruthl
+ ess bounty hunters No Name and Dynamite Davenport shoot their way through
+  the Wild West\, collecting rewards and making more enemies than friends.
+  With the outlaw John Wilkes Booth on the run and gold hidden in the hill
+ s\, justice must be served.
+DTEND;VALUE=DATE:20220222
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20220221
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:No Name and Dynamite (Theatrical Release)
+UID:Radarr_movie_9625_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:
+DESCRIPTION:The line between the good guys and the bad guys blurs as ruthl
+ ess bounty hunters No Name and Dynamite Davenport shoot their way through
+  the Wild West\, collecting rewards and making more enemies than friends.
+  With the outlaw John Wilkes Booth on the run and gold hidden in the hill
+ s\, justice must be served.
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:No Name and Dynamite (Digital Release)
+UID:Radarr_movie_9625_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Walt Disney Pictures
+DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
+ gital world into the real world on a dangerous mission\, marking humankin
+ d's first encounter with A.I. beings.
+DTEND;VALUE=DATE:20251009
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251008
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TRON: Ares (Theatrical Release)
+UID:Radarr_movie_8030_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Walt Disney Pictures
+DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
+ gital world into the real world on a dangerous mission\, marking humankin
+ d's first encounter with A.I. beings.
+DTEND;VALUE=DATE:20251202
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251201
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TRON: Ares (Digital Release)
+UID:Radarr_movie_8030_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Walt Disney Pictures
+DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
+ gital world into the real world on a dangerous mission\, marking humankin
+ d's first encounter with A.I. beings.
+DTEND;VALUE=DATE:20260107
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20260106
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TRON: Ares (Physical Release)
+UID:Radarr_movie_8030_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:A ping pong drama set in New York City during the 1950s where 
+ up-and-coming table tennis star Marty Mauser goes to hell and back in pur
+ suit of greatness.
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251225
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Marty Supreme (Theatrical Release)
+UID:Radarr_movie_11799_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Angel Studios
+DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
+ ng his own painful past and the fears of his family\, he enters a high-st
+ akes bullriding competition as the oldest contestant ever. Along the way\
+ , he reconciles old wounds with his estranged daughter and proves that tr
+ ue courage is found in the fight for family.
+DTEND;VALUE=DATE:20250523
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20250522
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Last Rodeo (Theatrical Release)
+UID:Radarr_movie_12047_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Angel Studios
+DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
+ ng his own painful past and the fears of his family\, he enters a high-st
+ akes bullriding competition as the oldest contestant ever. Along the way\
+ , he reconciles old wounds with his estranged daughter and proves that tr
+ ue courage is found in the fight for family.
+DTEND;VALUE=DATE:20251202
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251201
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Last Rodeo (Digital Release)
+UID:Radarr_movie_12047_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lionsgate
+DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
+  still alive\, they return to finish what theyâve started.
+DTEND;VALUE=DATE:20250926
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20250925
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Strangers: Chapter 2 (Theatrical Release)
+UID:Radarr_movie_10085_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lionsgate
+DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
+  still alive\, they return to finish what theyâve started.
+DTEND;VALUE=DATE:20251015
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251014
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Strangers: Chapter 2 (Digital Release)
+UID:Radarr_movie_10085_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lionsgate
+DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
+  still alive\, they return to finish what theyâve started.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Strangers: Chapter 2 (Physical Release)
+UID:Radarr_movie_10085_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Element Pictures
+DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
+ of a major company\, convinced that she is an alien intent on destroying 
+ planet Earth.
+DTEND;VALUE=DATE:20251024
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251023
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bugonia (Theatrical Release)
+UID:Radarr_movie_12241_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Element Pictures
+DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
+ of a major company\, convinced that she is an alien intent on destroying 
+ planet Earth.
+DTEND;VALUE=DATE:20251125
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251124
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bugonia (Digital Release)
+UID:Radarr_movie_12241_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Element Pictures
+DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
+ of a major company\, convinced that she is an alien intent on destroying 
+ planet Earth.
+DTEND;VALUE=DATE:20251224
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251223
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bugonia (Physical Release)
+UID:Radarr_movie_12241_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Walt Disney Animation Studios
+DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
+  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of 
+ a great mystery when Gary DeâSnake arrives and turns the animal metropoli
+ s upside down. To crack the case\, Judy and Nick must go undercover to un
+ expected new parts of town\, where their growing partnership is tested li
+ ke never before.
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zootopia 2 (Theatrical Release)
+UID:Radarr_movie_8036_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EuropaCorp
+DESCRIPTION:When a 15th-century prince denounces God after the devastating
+  loss of his wife\, he inherits an eternal curse: he becomes Dracula. Con
+ demned to wander the centuries\, he defies fate and death itself\, guided
+  by a single hope â to be reunited with his lost love.
+DTEND;VALUE=DATE:20250731
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20250730
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dracula (Theatrical Release)
+UID:Radarr_movie_12302_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EuropaCorp
+DESCRIPTION:When a 15th-century prince denounces God after the devastating
+  loss of his wife\, he inherits an eternal curse: he becomes Dracula. Con
+ demned to wander the centuries\, he defies fate and death itself\, guided
+  by a single hope â to be reunited with his lost love.
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251130
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dracula (Digital Release)
+UID:Radarr_movie_12302_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EuropaCorp
+DESCRIPTION:When a 15th-century prince denounces God after the devastating
+  loss of his wife\, he inherits an eternal curse: he becomes Dracula. Con
+ demned to wander the centuries\, he defies fate and death itself\, guided
+  by a single hope â to be reunited with his lost love.
+DTEND;VALUE=DATE:20251223
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251222
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dracula (Physical Release)
+UID:Radarr_movie_12302_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ACE Entertainment
+DESCRIPTION:Two down-on-their-luck hourly workers team up to rob a posh Lo
+ ndon department store on Christmas Eve. Will they steal each other's hear
+ ts along the way?
+DTEND;VALUE=DATE:20251126
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jingle Bell Heist (Digital Release)
+UID:Radarr_movie_12303_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Capstone Pictures
+DESCRIPTION:An ex-black ops team reunite to pull off a desperate heist in 
+ order to save the life of their leaderâs eight-year-old daughter.
+DTEND;VALUE=DATE:20251120
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251119
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wildcat (Theatrical Release)
+UID:Radarr_movie_12304_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Capstone Pictures
+DESCRIPTION:An ex-black ops team reunite to pull off a desperate heist in 
+ order to save the life of their leaderâs eight-year-old daughter.
+DTEND;VALUE=DATE:20251126
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wildcat (Digital Release)
+UID:Radarr_movie_12304_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Detour Filmproduction
+DESCRIPTION:On the evening of March 31\, 1943\, legendary lyricist Lorenz 
+ Hart confronts his shattered self-confidence in Sardiâs bar as his former
+  collaborator Richard Rodgers celebrates the opening night of his ground-
+ breaking hit musical âOklahoma!â.
+DTEND;VALUE=DATE:20251025
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251024
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Blue Moon (Theatrical Release)
+UID:Radarr_movie_12306_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Detour Filmproduction
+DESCRIPTION:On the evening of March 31\, 1943\, legendary lyricist Lorenz 
+ Hart confronts his shattered self-confidence in Sardiâs bar as his former
+  collaborator Richard Rodgers celebrates the opening night of his ground-
+ breaking hit musical âOklahoma!â.
+DTEND;VALUE=DATE:20251126
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Blue Moon (Digital Release)
+UID:Radarr_movie_12306_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Harbinger Pictures
+DESCRIPTION:Morgan Grant and her daughter Clara explore what's left behind
+  after a devastating accident reveals a shocking betrayal and forces them
+  to confront family secrets\, redefine love\, and rediscover each other.
+DTEND;VALUE=DATE:20251023
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Regretting You (Theatrical Release)
+UID:Radarr_movie_12307_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Harbinger Pictures
+DESCRIPTION:Morgan Grant and her daughter Clara explore what's left behind
+  after a devastating accident reveals a shocking betrayal and forces them
+  to confront family secrets\, redefine love\, and rediscover each other.
+DTEND;VALUE=DATE:20251125
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251124
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Regretting You (Digital Release)
+UID:Radarr_movie_12307_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Cinema
+DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in 
+ a small English townâs chaotic Christmas pantomime\, where a straight-tal
+ king dance instructor and his estranged daughter just might help him redi
+ scover the magic of the season.
+DTEND;VALUE=DATE:20251205
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251204
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tinsel Town (Theatrical Release)
+UID:Radarr_movie_12310_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Cinema
+DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in 
+ a small English townâs chaotic Christmas pantomime\, where a straight-tal
+ king dance instructor and his estranged daughter just might help him redi
+ scover the magic of the season.
+DTEND;VALUE=DATE:20251129
+DTSTAMP:20251130T205642Z
+DTSTART;VALUE=DATE:20251128
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tinsel Town (Digital Release)
+UID:Radarr_movie_12310_digital
+END:VEVENT
+END:VCALENDAR
