@@ -4,6 +4,64 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Zucker Brothers Productions
+DESCRIPTION:When she receives word that her longtime platonic pal Michael 
+ O'Neal is getting married to debutante Kimberly Wallace\, food critic Jul
+ ianne Potter realizes her true feelings for Michael -- and sets out to sa
+ botage the wedding.
+DTEND;VALUE=DATE:19970620
+DTSTAMP:20251203T030502Z
+DTSTART;VALUE=DATE:19970619
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:My Best Friend's Wedding (Theatrical Release)
+UID:Radarr_movie_5561_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Zucker Brothers Productions
+DESCRIPTION:When she receives word that her longtime platonic pal Michael 
+ O'Neal is getting married to debutante Kimberly Wallace\, food critic Jul
+ ianne Potter realizes her true feelings for Michael -- and sets out to sa
+ botage the wedding.
+DTEND;VALUE=DATE:20251204
+DTSTAMP:20251203T030502Z
+DTSTART;VALUE=DATE:20251203
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:My Best Friend's Wedding (Digital Release)
+UID:Radarr_movie_5561_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:United Artists
+DESCRIPTION:Bored billionaire executive Thomas Crown entertains himself by
+  stealing a Monet from a reputed museum with an elaborate diversion. When
+  Catherine Banning\, the insurance company's investigator\, takes an inte
+ rest in Crown\, he may have met his match\, and a complicated back-and-fo
+ rth game with seductive undertones begins between them.
+DTEND;VALUE=DATE:19990807
+DTSTAMP:20251203T030502Z
+DTSTART;VALUE=DATE:19990806
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Thomas Crown Affair (Theatrical Release)
+UID:Radarr_movie_6064_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:United Artists
+DESCRIPTION:Bored billionaire executive Thomas Crown entertains himself by
+  stealing a Monet from a reputed museum with an elaborate diversion. When
+  Catherine Banning\, the insurance company's investigator\, takes an inte
+ rest in Crown\, he may have met his match\, and a complicated back-and-fo
+ rth game with seductive undertones begins between them.
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20251203T030502Z
+DTSTART;VALUE=DATE:20251207
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Thomas Crown Affair (Digital Release)
+UID:Radarr_movie_6064_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:20th Century Studios
 DESCRIPTION:In the wake of the devastating war against the RDA and the los
  s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
@@ -12,7 +70,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,7 +83,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20130721
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20130720
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +96,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20251214
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251213
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +109,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20140326
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20140325
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -67,7 +125,7 @@ DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
  me is not on their side - the greatest catastrophe to ever befall the wor
  ld is about to evolve right before their very eyes.
 DTEND;VALUE=DATE:20160730
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20160729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,7 +141,7 @@ DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
  me is not on their side - the greatest catastrophe to ever befall the wor
  ld is about to evolve right before their very eyes.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -99,7 +157,7 @@ DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
  me is not on their side - the greatest catastrophe to ever befall the wor
  ld is about to evolve right before their very eyes.
 DTEND;VALUE=DATE:20171205
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20171204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -114,7 +172,7 @@ DESCRIPTION:Quentin Tarantinoâs complete cut combining Kill Bill: Vol. 1 a
  a vengeful quest to eliminate Bill and the Deadly Viper Assassination Squ
  ad who betrayed her.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -129,7 +187,7 @@ DESCRIPTION:The line between the good guys and the bad guys blurs as ruthl
   With the outlaw John Wilkes Booth on the run and gold hidden in the hill
  s\, justice must be served.
 DTEND;VALUE=DATE:20220222
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20220221
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -144,7 +202,7 @@ DESCRIPTION:The line between the good guys and the bad guys blurs as ruthl
   With the outlaw John Wilkes Booth on the run and gold hidden in the hill
  s\, justice must be served.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -157,7 +215,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -170,7 +228,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -183,7 +241,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20260107
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20260106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -196,7 +254,7 @@ DESCRIPTION:A ping pong drama set in New York City during the 1950s where
  up-and-coming table tennis star Marty Mauser goes to hell and back in pur
  suit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -211,7 +269,7 @@ DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
  , he reconciles old wounds with his estranged daughter and proves that tr
  ue courage is found in the fight for family.
 DTEND;VALUE=DATE:20250523
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -226,7 +284,7 @@ DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
  , he reconciles old wounds with his estranged daughter and proves that tr
  ue courage is found in the fight for family.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -238,7 +296,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -250,7 +308,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20251015
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -262,7 +320,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -275,7 +333,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -288,7 +346,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251125
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -301,46 +359,12 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Bugonia (Physical Release)
 UID:Radarr_movie_12241_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
- ds is convinced by The Running Man's charming but ruthless producer to en
- ter the deadly competition game as a last resort. But Ben's defiance\, in
- stincts\, and grit turn him into an unexpected fan favorite - and a threa
- t to the entire system. As ratings skyrocket\, so does the danger\, and B
- en must outwit not just the Hunters\, but a nation addicted to watching h
- im fall.
-DTEND;VALUE=DATE:20251112
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251111
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Running Man (Theatrical Release)
-UID:Radarr_movie_12291_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
- ds is convinced by The Running Man's charming but ruthless producer to en
- ter the deadly competition game as a last resort. But Ben's defiance\, in
- stincts\, and grit turn him into an unexpected fan favorite - and a threa
- t to the entire system. As ratings skyrocket\, so does the danger\, and B
- en must outwit not just the Hunters\, but a nation addicted to watching h
- im fall.
-DTEND;VALUE=DATE:20251217
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251216
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Running Man (Digital Release)
-UID:Radarr_movie_12291_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Walt Disney Animation Studios
@@ -351,7 +375,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -365,7 +389,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20250731
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20250730
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -379,7 +403,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -393,77 +417,12 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Dracula (Physical Release)
 UID:Radarr_movie_12302_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ACE Entertainment
-DESCRIPTION:Two down-on-their-luck hourly workers team up to rob a posh Lo
- ndon department store on Christmas Eve. Will they steal each other's hear
- ts along the way?
-DTEND;VALUE=DATE:20251126
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251125
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Jingle Bell Heist (Digital Release)
-UID:Radarr_movie_12303_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Capstone Pictures
-DESCRIPTION:An ex-black ops team reunite to pull off a desperate heist in 
- order to save the life of their leaderâs eight-year-old daughter.
-DTEND;VALUE=DATE:20251120
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251119
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Wildcat (Theatrical Release)
-UID:Radarr_movie_12304_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Capstone Pictures
-DESCRIPTION:An ex-black ops team reunite to pull off a desperate heist in 
- order to save the life of their leaderâs eight-year-old daughter.
-DTEND;VALUE=DATE:20251126
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251125
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Wildcat (Digital Release)
-UID:Radarr_movie_12304_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Detour Filmproduction
-DESCRIPTION:On the evening of March 31\, 1943\, legendary lyricist Lorenz 
- Hart confronts his shattered self-confidence in Sardiâs bar as his former
-  collaborator Richard Rodgers celebrates the opening night of his ground-
- breaking hit musical âOklahoma!â.
-DTEND;VALUE=DATE:20251025
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251024
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Blue Moon (Theatrical Release)
-UID:Radarr_movie_12306_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Detour Filmproduction
-DESCRIPTION:On the evening of March 31\, 1943\, legendary lyricist Lorenz 
- Hart confronts his shattered self-confidence in Sardiâs bar as his former
-  collaborator Richard Rodgers celebrates the opening night of his ground-
- breaking hit musical âOklahoma!â.
-DTEND;VALUE=DATE:20251126
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251125
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Blue Moon (Digital Release)
-UID:Radarr_movie_12306_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Cinema
@@ -472,7 +431,7 @@ DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in
  king dance instructor and his estranged daughter just might help him redi
  scover the magic of the season.
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -486,7 +445,7 @@ DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in
  king dance instructor and his estranged daughter just might help him redi
  scover the magic of the season.
 DTEND;VALUE=DATE:20251129
-DTSTAMP:20251202T030505Z
+DTSTAMP:20251203T030502Z
 DTSTART;VALUE=DATE:20251128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -498,9 +457,9 @@ CATEGORIES:Motion Blur
 DESCRIPTION:When a dangerous new troll unleashes devastation across their 
  homeland\, Nora\, Andreas and Major Kris embark on their most perilous mi
  ssion yet.
-DTEND;VALUE=DATE:20251202
-DTSTAMP:20251202T030505Z
-DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20251203T030502Z
+DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Troll 2 (Digital Release)
