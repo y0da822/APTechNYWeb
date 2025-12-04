@@ -10,7 +10,7 @@ DESCRIPTION:When she receives word that her longtime platonic pal Michael
  ianne Potter realizes her true feelings for Michael -- and sets out to sa
  botage the wedding.
 DTEND;VALUE=DATE:19970620
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:19970619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +24,7 @@ DESCRIPTION:When she receives word that her longtime platonic pal Michael
  ianne Potter realizes her true feelings for Michael -- and sets out to sa
  botage the wedding.
 DTEND;VALUE=DATE:20251204
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -39,7 +39,7 @@ DESCRIPTION:Bored billionaire executive Thomas Crown entertains himself by
  rest in Crown\, he may have met his match\, and a complicated back-and-fo
  rth game with seductive undertones begins between them.
 DTEND;VALUE=DATE:19990807
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:19990806
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -54,7 +54,7 @@ DESCRIPTION:Bored billionaire executive Thomas Crown entertains himself by
  rest in Crown\, he may have met his match\, and a complicated back-and-fo
  rth game with seductive undertones begins between them.
 DTEND;VALUE=DATE:20251208
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251207
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -70,7 +70,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -83,7 +83,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20130721
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20130720
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -96,7 +96,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20251214
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251213
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +109,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20140326
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20140325
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -125,7 +125,7 @@ DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
  me is not on their side - the greatest catastrophe to ever befall the wor
  ld is about to evolve right before their very eyes.
 DTEND;VALUE=DATE:20160730
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20160729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -141,7 +141,7 @@ DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
  me is not on their side - the greatest catastrophe to ever befall the wor
  ld is about to evolve right before their very eyes.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -157,7 +157,7 @@ DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
  me is not on their side - the greatest catastrophe to ever befall the wor
  ld is about to evolve right before their very eyes.
 DTEND;VALUE=DATE:20171205
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20171204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -172,7 +172,7 @@ DESCRIPTION:Quentin Tarantinoâs complete cut combining Kill Bill: Vol. 1 a
  a vengeful quest to eliminate Bill and the Deadly Viper Assassination Squ
  ad who betrayed her.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -180,42 +180,12 @@ SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
 UID:Radarr_movie_9301_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:
-DESCRIPTION:The line between the good guys and the bad guys blurs as ruthl
- ess bounty hunters No Name and Dynamite Davenport shoot their way through
-  the Wild West\, collecting rewards and making more enemies than friends.
-  With the outlaw John Wilkes Booth on the run and gold hidden in the hill
- s\, justice must be served.
-DTEND;VALUE=DATE:20220222
-DTSTAMP:20251203T030502Z
-DTSTART;VALUE=DATE:20220221
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:No Name and Dynamite (Theatrical Release)
-UID:Radarr_movie_9625_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:
-DESCRIPTION:The line between the good guys and the bad guys blurs as ruthl
- ess bounty hunters No Name and Dynamite Davenport shoot their way through
-  the Wild West\, collecting rewards and making more enemies than friends.
-  With the outlaw John Wilkes Booth on the run and gold hidden in the hill
- s\, justice must be served.
-DTEND;VALUE=DATE:20251127
-DTSTAMP:20251203T030502Z
-DTSTART;VALUE=DATE:20251126
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:No Name and Dynamite (Digital Release)
-UID:Radarr_movie_9625_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Walt Disney Pictures
 DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -228,7 +198,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -241,7 +211,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20260107
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20260106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -250,11 +220,10 @@ UID:Radarr_movie_8030_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:A24
-DESCRIPTION:A ping pong drama set in New York City during the 1950s where 
- up-and-coming table tennis star Marty Mauser goes to hell and back in pur
- suit of greatness.
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -269,7 +238,7 @@ DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
  , he reconciles old wounds with his estranged daughter and proves that tr
  ue courage is found in the fight for family.
 DTEND;VALUE=DATE:20250523
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -284,7 +253,7 @@ DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
  , he reconciles old wounds with his estranged daughter and proves that tr
  ue courage is found in the fight for family.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -296,7 +265,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -308,7 +277,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20251015
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -320,7 +289,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -333,7 +302,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -346,7 +315,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251125
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -359,7 +328,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -367,20 +336,64 @@ SUMMARY:Bugonia (Physical Release)
 UID:Radarr_movie_12241_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Walt Disney Animation Studios
-DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
-  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of 
- a great mystery when Gary DeâSnake arrives and turns the animal metropoli
- s upside down. To crack the case\, Judy and Nick must go undercover to un
- expected new parts of town\, where their growing partnership is tested li
- ke never before.
-DTEND;VALUE=DATE:20251127
-DTSTAMP:20251203T030502Z
-DTSTART;VALUE=DATE:20251126
+CATEGORIES:20th Century Studios
+DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
+ ly in a damaged android and embarks on a treacherous journey in search of
+  the ultimate adversary.
+DTEND;VALUE=DATE:20251106
+DTSTAMP:20251204T030501Z
+DTSTART;VALUE=DATE:20251105
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Zootopia 2 (Theatrical Release)
-UID:Radarr_movie_8036_cinemas
+SUMMARY:Predator: Badlands (Theatrical Release)
+UID:Radarr_movie_12273_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
+ ly in a damaged android and embarks on a treacherous journey in search of
+  the ultimate adversary.
+DTEND;VALUE=DATE:20251210
+DTSTAMP:20251204T030501Z
+DTSTART;VALUE=DATE:20251209
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Predator: Badlands (Digital Release)
+UID:Radarr_movie_12273_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount Pictures
+DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
+ ds is convinced by The Running Man's charming but ruthless producer to en
+ ter the deadly competition game as a last resort. But Ben's defiance\, in
+ stincts\, and grit turn him into an unexpected fan favorite - and a threa
+ t to the entire system. As ratings skyrocket\, so does the danger\, and B
+ en must outwit not just the Hunters\, but a nation addicted to watching h
+ im fall.
+DTEND;VALUE=DATE:20251112
+DTSTAMP:20251204T030501Z
+DTSTART;VALUE=DATE:20251111
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Running Man (Theatrical Release)
+UID:Radarr_movie_12291_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount Pictures
+DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
+ ds is convinced by The Running Man's charming but ruthless producer to en
+ ter the deadly competition game as a last resort. But Ben's defiance\, in
+ stincts\, and grit turn him into an unexpected fan favorite - and a threa
+ t to the entire system. As ratings skyrocket\, so does the danger\, and B
+ en must outwit not just the Hunters\, but a nation addicted to watching h
+ im fall.
+DTEND;VALUE=DATE:20251217
+DTSTAMP:20251204T030501Z
+DTSTART;VALUE=DATE:20251216
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Running Man (Digital Release)
+UID:Radarr_movie_12291_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:EuropaCorp
@@ -389,7 +402,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20250731
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20250730
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -403,7 +416,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -417,12 +430,42 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Dracula (Physical Release)
 UID:Radarr_movie_12302_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lionsgate
+DESCRIPTION:The original Four Horsemen reunite with a new generation of il
+ lusionists to take on powerful diamond heiress Veronika Vanderberg\, who 
+ leads a criminal empire built on money laundering and trafficking. The ne
+ w and old magicians must overcome their differences to work together on t
+ heir most ambitious heist yet.
+DTEND;VALUE=DATE:20251113
+DTSTAMP:20251204T030501Z
+DTSTART;VALUE=DATE:20251112
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Now You See Me: Now You Don't (Theatrical Release)
+UID:Radarr_movie_7000_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lionsgate
+DESCRIPTION:The original Four Horsemen reunite with a new generation of il
+ lusionists to take on powerful diamond heiress Veronika Vanderberg\, who 
+ leads a criminal empire built on money laundering and trafficking. The ne
+ w and old magicians must overcome their differences to work together on t
+ heir most ambitious heist yet.
+DTEND;VALUE=DATE:20251217
+DTSTAMP:20251204T030501Z
+DTSTART;VALUE=DATE:20251216
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Now You See Me: Now You Don't (Digital Release)
+UID:Radarr_movie_7000_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky Cinema
@@ -431,7 +474,7 @@ DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in
  king dance instructor and his estranged daughter just might help him redi
  scover the magic of the season.
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -445,7 +488,7 @@ DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in
  king dance instructor and his estranged daughter just might help him redi
  scover the magic of the season.
 DTEND;VALUE=DATE:20251129
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -458,7 +501,7 @@ DESCRIPTION:When a dangerous new troll unleashes devastation across their
  homeland\, Nora\, Andreas and Major Kris embark on their most perilous mi
  ssion yet.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251203T030502Z
+DTSTAMP:20251204T030501Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
