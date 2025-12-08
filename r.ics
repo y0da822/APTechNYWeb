@@ -10,7 +10,7 @@ DESCRIPTION:When she receives word that her longtime platonic pal Michael
  ianne Potter realizes her true feelings for Michael -- and sets out to sa
  botage the wedding.
 DTEND;VALUE=DATE:19970620
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:19970619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +24,7 @@ DESCRIPTION:When she receives word that her longtime platonic pal Michael
  ianne Potter realizes her true feelings for Michael -- and sets out to sa
  botage the wedding.
 DTEND;VALUE=DATE:20251204
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -39,7 +39,7 @@ DESCRIPTION:Bored billionaire executive Thomas Crown entertains himself by
  rest in Crown\, he may have met his match\, and a complicated back-and-fo
  rth game with seductive undertones begins between them.
 DTEND;VALUE=DATE:19990807
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:19990806
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -54,7 +54,7 @@ DESCRIPTION:Bored billionaire executive Thomas Crown entertains himself by
  rest in Crown\, he may have met his match\, and a complicated back-and-fo
  rth game with seductive undertones begins between them.
 DTEND;VALUE=DATE:20251208
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251207
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -70,7 +70,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -83,7 +83,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20130721
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20130720
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -96,7 +96,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20251214
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251213
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,60 +109,12 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20140326
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20140325
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Wind Rises (Physical Release)
 UID:Radarr_movie_8234_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Toho Pictures
-DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
- s through the city\, the government scrambles to save its citizens.  A ra
- g-tag team of volunteers cuts through a web of red tape to uncover the mo
- nster's weakness and its mysterious ties to a foreign superpower.  But ti
- me is not on their side - the greatest catastrophe to ever befall the wor
- ld is about to evolve right before their very eyes.
-DTEND;VALUE=DATE:20160730
-DTSTAMP:20251207T030503Z
-DTSTART;VALUE=DATE:20160729
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Shin Godzilla (Theatrical Release)
-UID:Radarr_movie_8945_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Toho Pictures
-DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
- s through the city\, the government scrambles to save its citizens.  A ra
- g-tag team of volunteers cuts through a web of red tape to uncover the mo
- nster's weakness and its mysterious ties to a foreign superpower.  But ti
- me is not on their side - the greatest catastrophe to ever befall the wor
- ld is about to evolve right before their very eyes.
-DTEND;VALUE=DATE:20251201
-DTSTAMP:20251207T030503Z
-DTSTART;VALUE=DATE:20251130
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Shin Godzilla (Digital Release)
-UID:Radarr_movie_8945_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Toho Pictures
-DESCRIPTION:When a massive\, gilled monster emerges from the deep and tear
- s through the city\, the government scrambles to save its citizens.  A ra
- g-tag team of volunteers cuts through a web of red tape to uncover the mo
- nster's weakness and its mysterious ties to a foreign superpower.  But ti
- me is not on their side - the greatest catastrophe to ever befall the wor
- ld is about to evolve right before their very eyes.
-DTEND;VALUE=DATE:20171205
-DTSTAMP:20251207T030503Z
-DTSTART;VALUE=DATE:20171204
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Shin Godzilla (Physical Release)
-UID:Radarr_movie_8945_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Super Cool ManChu
@@ -172,7 +124,7 @@ DESCRIPTION:Quentin Tarantinoâs complete cut combining Kill Bill: Vol. 1 a
  a vengeful quest to eliminate Bill and the Deadly Viper Assassination Squ
  ad who betrayed her.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -185,7 +137,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -198,7 +150,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -211,7 +163,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20260107
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20260106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -223,7 +175,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -238,7 +190,7 @@ DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
  , he reconciles old wounds with his estranged daughter and proves that tr
  ue courage is found in the fight for family.
 DTEND;VALUE=DATE:20250523
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20250522
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -253,7 +205,7 @@ DESCRIPTION:A retired rodeo legend risks it all to save his grandson. Faci
  , he reconciles old wounds with his estranged daughter and proves that tr
  ue courage is found in the fight for family.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -266,7 +218,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -279,7 +231,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260103
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20260102
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -292,7 +244,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260120
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20260119
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -304,7 +256,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -316,7 +268,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20251015
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -328,7 +280,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what theyâve started.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -341,7 +293,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -354,7 +306,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251125
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -367,7 +319,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -384,7 +336,7 @@ DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
  en must outwit not just the Hunters\, but a nation addicted to watching h
  im fall.
 DTEND;VALUE=DATE:20251112
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -401,7 +353,7 @@ DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
  en must outwit not just the Hunters\, but a nation addicted to watching h
  im fall.
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -415,7 +367,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20250731
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20250730
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -429,7 +381,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -443,7 +395,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -458,7 +410,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251113
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251112
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -473,7 +425,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -487,7 +439,7 @@ DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in
  king dance instructor and his estranged daughter just might help him redi
  scover the magic of the season.
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -501,25 +453,12 @@ DESCRIPTION:A washed-up Hollywood action hero is tricked into starring in
  king dance instructor and his estranged daughter just might help him redi
  scover the magic of the season.
 DTEND;VALUE=DATE:20251129
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251128
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Tinsel Town (Digital Release)
 UID:Radarr_movie_12310_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Motion Blur
-DESCRIPTION:When a dangerous new troll unleashes devastation across their 
- homeland\, Nora\, Andreas and Major Kris embark on their most perilous mi
- ssion yet.
-DTEND;VALUE=DATE:20251201
-DTSTAMP:20251207T030503Z
-DTSTART;VALUE=DATE:20251130
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Troll 2 (Digital Release)
-UID:Radarr_movie_9096_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Warner Bros. Pictures
@@ -528,7 +467,7 @@ DESCRIPTION:30 years after the events of The Brothers McMullen\, romantic
  mething kids\, as well as his brother Patrick and widowed sister-in-law M
  olly\, who are also facing similar unexpected hurdles.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -542,7 +481,7 @@ DESCRIPTION:30 years after the events of The Brothers McMullen\, romantic
  mething kids\, as well as his brother Patrick and widowed sister-in-law M
  olly\, who are also facing similar unexpected hurdles.
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20251207T030503Z
+DTSTAMP:20251208T030502Z
 DTSTART;VALUE=DATE:20251204
 SEQUENCE:0
 STATUS:CONFIRMED
