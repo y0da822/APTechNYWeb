@@ -12,10 +12,10 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Avatar: Fire and Ash (Theatrical Release)
 UID:Radarr_movie_6448_cinemas
 END:VEVENT
@@ -25,7 +25,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20130721
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20130720
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +38,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20251214
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251213
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +51,7 @@ DESCRIPTION:A lifelong love of flight inspires Japanese aviation engineer
  Jiro Horikoshi\, whose storied career includes the creation of the A-6M W
  orld War II fighter plane.
 DTEND;VALUE=DATE:20140326
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20140325
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -59,12 +59,48 @@ SUMMARY:The Wind Rises (Physical Release)
 UID:Radarr_movie_8234_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Premiere Entertainment Group
+DESCRIPTION:An attorney with a military past hunts down the gang who kille
+ d his wife and took his daughter.
+DTEND;VALUE=DATE:20251218
+DTSTAMP:20251218T030502Z
+DTSTART;VALUE=DATE:20251217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Due Justice (Theatrical Release)
+UID:Radarr_movie_9521_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Premiere Entertainment Group
+DESCRIPTION:An attorney with a military past hunts down the gang who kille
+ d his wife and took his daughter.
+DTEND;VALUE=DATE:20231125
+DTSTAMP:20251218T030502Z
+DTSTART;VALUE=DATE:20231124
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Due Justice (Digital Release)
+UID:Radarr_movie_9521_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Premiere Entertainment Group
+DESCRIPTION:An attorney with a military past hunts down the gang who kille
+ d his wife and took his daughter.
+DTEND;VALUE=DATE:20240329
+DTSTAMP:20251218T030502Z
+DTSTART;VALUE=DATE:20240328
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Due Justice (Physical Release)
+UID:Radarr_movie_9521_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Walt Disney Pictures
 DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -77,7 +113,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -90,7 +126,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20260107
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20260106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -105,7 +141,7 @@ DESCRIPTION:Russell Hatch\, an Interpol operative who takes on the role of
  s grandfather from a group of merciless gangs in an all-out turf war\, st
  opping at nothing to protect Jayden and fight anyone getting in his way.
 DTEND;VALUE=DATE:20251219
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251218
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -120,7 +156,7 @@ DESCRIPTION:Russell Hatch\, an Interpol operative who takes on the role of
  s grandfather from a group of merciless gangs in an all-out turf war\, st
  opping at nothing to protect Jayden and fight anyone getting in his way.
 DTEND;VALUE=DATE:20240508
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20240507
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +171,7 @@ DESCRIPTION:Russell Hatch\, an Interpol operative who takes on the role of
  s grandfather from a group of merciless gangs in an all-out turf war\, st
  opping at nothing to protect Jayden and fight anyone getting in his way.
 DTEND;VALUE=DATE:20240606
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20240605
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -147,7 +183,7 @@ CATEGORIES:A24
 DESCRIPTION:In 1950s New York\, Marty Mauser\, a young man with a dream no
   one respects\, goes to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -164,7 +200,7 @@ DESCRIPTION:After working as a secret agent in the FBI for ten years\, Jac
  mie calls him for help\, launching Cash right back into a world of danger
  \, corruption and intrigue.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -181,7 +217,7 @@ DESCRIPTION:After working as a secret agent in the FBI for ten years\, Jac
  mie calls him for help\, launching Cash right back into a world of danger
  \, corruption and intrigue.
 DTEND;VALUE=DATE:20250902
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20250901
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -194,7 +230,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -207,7 +243,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260203
-DTSTAMP:20251217T030505Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20260202
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -220,7 +256,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -233,7 +269,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -246,7 +282,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251125
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -259,7 +295,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -271,12 +307,12 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
  ds is convinced by The Running Man's charming but ruthless producer to en
  ter the deadly competition game as a last resort. But Ben's defiance\, in
- stincts\, and grit turn him into an unexpected fan favorite - and a threa
+ stincts\, and grit turn him into an unexpected fan favorite â and a threa
  t to the entire system. As ratings skyrocket\, so does the danger\, and B
  en must outwit not just the Hunters\, but a nation addicted to watching h
  im fall.
 DTEND;VALUE=DATE:20251112
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -288,12 +324,12 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
  ds is convinced by The Running Man's charming but ruthless producer to en
  ter the deadly competition game as a last resort. But Ben's defiance\, in
- stincts\, and grit turn him into an unexpected fan favorite - and a threa
+ stincts\, and grit turn him into an unexpected fan favorite â and a threa
  t to the entire system. As ratings skyrocket\, so does the danger\, and B
  en must outwit not just the Hunters\, but a nation addicted to watching h
  im fall.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -307,7 +343,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20250731
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20250730
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -321,7 +357,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -335,7 +371,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -350,7 +386,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251113
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251112
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -365,7 +401,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -381,7 +417,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -397,7 +433,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251217T030506Z
+DTSTAMP:20251218T030502Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
