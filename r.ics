@@ -9,7 +9,7 @@ DESCRIPTION:There is a new criminal mastermind at large (Professor Moriart
  y) and not only is he Holmesâ intellectual equal\, but his capacity for e
  vil and lack of conscience may give him an advantage over the  detective.
 DTEND;VALUE=DATE:20111123
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20111122
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -22,7 +22,7 @@ DESCRIPTION:There is a new criminal mastermind at large (Professor Moriart
  y) and not only is he Holmesâ intellectual equal\, but his capacity for e
  vil and lack of conscience may give him an advantage over the  detective.
 DTEND;VALUE=DATE:20251230
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251229
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,7 +35,7 @@ DESCRIPTION:There is a new criminal mastermind at large (Professor Moriart
  y) and not only is he Holmesâ intellectual equal\, but his capacity for e
  vil and lack of conscience may give him an advantage over the  detective.
 DTEND;VALUE=DATE:20120505
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20120504
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -48,7 +48,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -61,7 +61,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -74,57 +74,12 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20260107
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20260106
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TRON: Ares (Physical Release)
 UID:Radarr_movie_8030_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:VMI WorldWide
-DESCRIPTION:Russell Hatch\, an Interpol operative who takes on the role of
-  father figure to Jayden\, the son of an informant killed in a routine ra
- id gone wrong. Years later\, Hatch finds himself protecting Jayden and hi
- s grandfather from a group of merciless gangs in an all-out turf war\, st
- opping at nothing to protect Jayden and fight anyone getting in his way.
-DTEND;VALUE=DATE:20251219
-DTSTAMP:20251225T030502Z
-DTSTART;VALUE=DATE:20251218
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Darkness of Man (Theatrical Release)
-UID:Radarr_movie_11276_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:VMI WorldWide
-DESCRIPTION:Russell Hatch\, an Interpol operative who takes on the role of
-  father figure to Jayden\, the son of an informant killed in a routine ra
- id gone wrong. Years later\, Hatch finds himself protecting Jayden and hi
- s grandfather from a group of merciless gangs in an all-out turf war\, st
- opping at nothing to protect Jayden and fight anyone getting in his way.
-DTEND;VALUE=DATE:20240508
-DTSTAMP:20251225T030502Z
-DTSTART;VALUE=DATE:20240507
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Darkness of Man (Digital Release)
-UID:Radarr_movie_11276_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:VMI WorldWide
-DESCRIPTION:Russell Hatch\, an Interpol operative who takes on the role of
-  father figure to Jayden\, the son of an informant killed in a routine ra
- id gone wrong. Years later\, Hatch finds himself protecting Jayden and hi
- s grandfather from a group of merciless gangs in an all-out turf war\, st
- opping at nothing to protect Jayden and fight anyone getting in his way.
-DTEND;VALUE=DATE:20240606
-DTSTAMP:20251225T030502Z
-DTSTART;VALUE=DATE:20240605
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Darkness of Man (Physical Release)
-UID:Radarr_movie_11276_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
@@ -134,7 +89,7 @@ DESCRIPTION:As an angry mob rises against the Wicked Witch\, Glinda and El
  h other\, with honesty and empathy\, if they are to change themselves\, a
  nd all of Oz\, for good.
 DTEND;VALUE=DATE:20251120
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251119
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -149,7 +104,7 @@ DESCRIPTION:As an angry mob rises against the Wicked Witch\, Glinda and El
  h other\, with honesty and empathy\, if they are to change themselves\, a
  nd all of Oz\, for good.
 DTEND;VALUE=DATE:20260101
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251231
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -164,7 +119,7 @@ DESCRIPTION:As an angry mob rises against the Wicked Witch\, Glinda and El
  h other\, with honesty and empathy\, if they are to change themselves\, a
  nd all of Oz\, for good.
 DTEND;VALUE=DATE:20260101
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251231
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -176,10 +131,10 @@ CATEGORIES:A24
 DESCRIPTION:In 1950s New York City\, Marty Mauser\, a young man with a dre
  am no one respects\, goes to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Marty Supreme (Theatrical Release)
 UID:Radarr_movie_11799_cinemas
 END:VEVENT
@@ -191,7 +146,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -206,7 +161,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20251114
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -221,7 +176,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20260120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -234,7 +189,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -247,7 +202,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260203
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20260202
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -260,7 +215,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  ise - they hunt. Ava searches for her missing husband\, but what she find
  s is far more terrifying.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -273,7 +228,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -285,9 +240,9 @@ CATEGORIES:20th Century Studios
 DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
-DTEND;VALUE=DATE:20251224
-DTSTAMP:20251225T030502Z
-DTSTART;VALUE=DATE:20251223
+DTEND;VALUE=DATE:20251223
+DTSTAMP:20251226T030502Z
+DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Springsteen: Deliver Me from Nowhere (Digital Release)
@@ -299,7 +254,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -312,7 +267,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251125
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -325,7 +280,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -339,7 +294,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20250731
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20250730
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -353,7 +308,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -367,7 +322,7 @@ DESCRIPTION:When a 15th-century prince denounces God after the devastating
  demned to wander the centuries\, he defies fate and death itself\, guided
   by a single hope â to be reunited with his lost love.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -381,7 +336,7 @@ DESCRIPTION:In postwar Germany\, an American psychiatrist must determine w
  imself in a complex battle of intellect and ethics with Hermann GÃ¶ring\, 
  Hitler's right-hand man.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -395,11 +350,39 @@ DESCRIPTION:In postwar Germany\, an American psychiatrist must determine w
  imself in a complex battle of intellect and ethics with Hermann GÃ¶ring\, 
  Hitler's right-hand man.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20251225T030502Z
+DTSTAMP:20251226T030502Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Nuremberg (Digital Release)
 UID:Radarr_movie_12309_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:In an afterlife where souls have one week to decide where to s
+ pend eternity\, Joan is faced with the impossible choice between the man 
+ she spent her life with and her first love\, who died young and has waite
+ d decades for her to arrive.
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251226T030502Z
+DTSTART;VALUE=DATE:20251126
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eternity (Theatrical Release)
+UID:Radarr_movie_12337_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:In an afterlife where souls have one week to decide where to s
+ pend eternity\, Joan is faced with the impossible choice between the man 
+ she spent her life with and her first love\, who died young and has waite
+ d decades for her to arrive.
+DTEND;VALUE=DATE:20251223
+DTSTAMP:20251226T030502Z
+DTSTART;VALUE=DATE:20251222
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eternity (Digital Release)
+UID:Radarr_movie_12337_digital
 END:VEVENT
 END:VCALENDAR
