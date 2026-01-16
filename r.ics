@@ -9,7 +9,7 @@ DESCRIPTION:While a diamond advocate attempts to steal a collection of dia
  monds\, troubles arise when he realises heâs not the only one after the c
  ollection.
 DTEND;VALUE=DATE:19880716
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030505Z
 DTSTART;VALUE=DATE:19880715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -22,7 +22,7 @@ DESCRIPTION:While a diamond advocate attempts to steal a collection of dia
  monds\, troubles arise when he realises heâs not the only one after the c
  ollection.
 DTEND;VALUE=DATE:20260120
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260119
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,7 +35,7 @@ DESCRIPTION:While a diamond advocate attempts to steal a collection of dia
  monds\, troubles arise when he realises heâs not the only one after the c
  ollection.
 DTEND;VALUE=DATE:19930702
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:19930701
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -50,7 +50,7 @@ DESCRIPTION:An ocean of blood. The only hope left after The Quiet Rapture.
   soul inside to pilot it. But hope in this void is as illusionary as the 
  starlight. This is not an expedition. It's an execution.
 DTEND;VALUE=DATE:20260130
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -64,7 +64,7 @@ DESCRIPTION:In the late 1990s\, up-and-coming mixed martial artist Mark Ke
   also battle his opioid dependence and a volatile relationship with his g
  irlfriend Dawn.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -78,7 +78,7 @@ DESCRIPTION:In the late 1990s\, up-and-coming mixed martial artist Mark Ke
   also battle his opioid dependence and a volatile relationship with his g
  irlfriend Dawn.
 DTEND;VALUE=DATE:20251104
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -92,7 +92,7 @@ DESCRIPTION:In the late 1990s\, up-and-coming mixed martial artist Mark Ke
   also battle his opioid dependence and a volatile relationship with his g
  irlfriend Dawn.
 DTEND;VALUE=DATE:20260117
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260116
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -107,7 +107,7 @@ DESCRIPTION:As an angry mob rises against the Wicked Witch\, Glinda and El
  h other\, with honesty and empathy\, if they are to change themselves\, a
  nd all of Oz\, for good.
 DTEND;VALUE=DATE:20251120
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251119
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -122,7 +122,7 @@ DESCRIPTION:As an angry mob rises against the Wicked Witch\, Glinda and El
  h other\, with honesty and empathy\, if they are to change themselves\, a
  nd all of Oz\, for good.
 DTEND;VALUE=DATE:20251230
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251229
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -137,38 +137,12 @@ DESCRIPTION:As an angry mob rises against the Wicked Witch\, Glinda and El
  h other\, with honesty and empathy\, if they are to change themselves\, a
  nd all of Oz\, for good.
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260120
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Wicked: For Good (Physical Release)
 UID:Radarr_movie_8332_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:A24
-DESCRIPTION:In 1950s New York\, table tennis player Marty Mauser\, a young
-  man with a dream no one respects\, goes to Hell and back in pursuit of g
- reatness.
-DTEND;VALUE=DATE:20251226
-DTSTAMP:20260115T030502Z
-DTSTART;VALUE=DATE:20251225
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Marty Supreme (Theatrical Release)
-UID:Radarr_movie_11799_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:A24
-DESCRIPTION:In 1950s New York\, table tennis player Marty Mauser\, a young
-  man with a dream no one respects\, goes to Hell and back in pursuit of g
- reatness.
-DTEND;VALUE=DATE:20260204
-DTSTAMP:20260115T030502Z
-DTSTART;VALUE=DATE:20260203
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Marty Supreme (Digital Release)
-UID:Radarr_movie_11799_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Warner Bros. Pictures
@@ -178,7 +152,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -193,7 +167,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20251114
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -208,7 +182,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -223,7 +197,7 @@ DESCRIPTION:Ex-con Kris Chaney seizes the daughter of a Colombian gangster
  evenge\, Kris relies on everything he's ever learned to stay alive and ke
  ep his word.
 DTEND;VALUE=DATE:20250707
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20250706
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -238,7 +212,7 @@ DESCRIPTION:Ex-con Kris Chaney seizes the daughter of a Colombian gangster
  evenge\, Kris relies on everything he's ever learned to stay alive and ke
  ep his word.
 DTEND;VALUE=DATE:20250613
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20250612
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -253,7 +227,7 @@ DESCRIPTION:Ex-con Kris Chaney seizes the daughter of a Colombian gangster
  evenge\, Kris relies on everything he's ever learned to stay alive and ke
  ep his word.
 DTEND;VALUE=DATE:20260124
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260123
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -269,7 +243,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -285,7 +259,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260203
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -301,7 +275,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -313,7 +287,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:A well-meaning but rather inept angel named Gabriel meddles in
   the lives of a struggling gig worker and a wealthy capitalist.
 DTEND;VALUE=DATE:20251015
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -325,7 +299,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:A well-meaning but rather inept angel named Gabriel meddles in
   the lives of a struggling gig worker and a wealthy capitalist.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -337,7 +311,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:A well-meaning but rather inept angel named Gabriel meddles in
   the lives of a struggling gig worker and a wealthy capitalist.
 DTEND;VALUE=DATE:20260131
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -353,7 +327,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
  ned to solve the mystery and confront a killer who has grown more powerfu
  l in death and more significant to them than either could imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -369,7 +343,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
  ned to solve the mystery and confront a killer who has grown more powerfu
  l in death and more significant to them than either could imagine.
 DTEND;VALUE=DATE:20251104
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -385,7 +359,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
  ned to solve the mystery and confront a killer who has grown more powerfu
  l in death and more significant to them than either could imagine.
 DTEND;VALUE=DATE:20260123
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260122
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -398,7 +372,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -411,7 +385,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -424,7 +398,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20260207
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260206
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -436,7 +410,7 @@ CATEGORIES:iQIYI Pictures
 DESCRIPTION:Macau Police brings the tracking expert police officer out of 
  retirement to help catch a dangerous group of professional thieves.
 DTEND;VALUE=DATE:20250817
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20250816
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -448,7 +422,7 @@ CATEGORIES:iQIYI Pictures
 DESCRIPTION:Macau Police brings the tracking expert police officer out of 
  retirement to help catch a dangerous group of professional thieves.
 DTEND;VALUE=DATE:20251115
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251114
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -460,7 +434,7 @@ CATEGORIES:iQIYI Pictures
 DESCRIPTION:Macau Police brings the tracking expert police officer out of 
  retirement to help catch a dangerous group of professional thieves.
 DTEND;VALUE=DATE:20260130
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260129
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -474,7 +448,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20251219
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20251218
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -488,7 +462,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20260204
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -496,25 +470,12 @@ SUMMARY:The Housemaid (Digital Release)
 UID:Radarr_movie_12347_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:3000 Pictures
-DESCRIPTION:Poppy's a free spirit. Alex loves a plan. After years of summe
- r vacations\, these polar-opposite pals wonder if they could be a perfect
-  romantic match.
-DTEND;VALUE=DATE:20260109
-DTSTAMP:20260115T030502Z
-DTSTART;VALUE=DATE:20260108
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:People We Meet on Vacation (Digital Release)
-UID:Radarr_movie_12377_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Atlas Entertainment
 DESCRIPTION:In the near future\, a detective stands on trial accused of mu
  rdering his wife. He has 90 minutes to prove his innocence to the advance
  d A.I. Judge he once championed\, before it determines his fate.
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260115T030502Z
+DTSTAMP:20260116T030506Z
 DTSTART;VALUE=DATE:20260121
 SEQUENCE:0
 STATUS:TENTATIVE
