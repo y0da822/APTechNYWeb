@@ -4,19 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Markiplier Studios
-DESCRIPTION:In a post-apocalyptic future after "The Quiet Rapture" event\,
-  a convict explores a blood ocean on a desolate moon using a submarine ca
- lled the "Iron Lung" to search for missing stars and planets
-DTEND;VALUE=DATE:20260130
-DTSTAMP:20260205T030502Z
-DTSTART;VALUE=DATE:20260129
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Iron Lung (Theatrical Release)
-UID:Radarr_movie_9320_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Ruthless Studios
 DESCRIPTION:In the not-so-distant future\, a fearless crew aboard a starsh
  ip patrols the galaxy for threats. But when they stumble upon a planet ov
@@ -26,7 +13,7 @@ DESCRIPTION:In the not-so-distant future\, a fearless crew aboard a starsh
  an AI apocalypse. Will they conquer the singularity\, or become its victi
  ms in the epic showdown of the future? Welcome to Quantum Supremacy.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -43,7 +30,7 @@ DESCRIPTION:In the not-so-distant future\, a fearless crew aboard a starsh
  an AI apocalypse. Will they conquer the singularity\, or become its victi
  ms in the epic showdown of the future? Welcome to Quantum Supremacy.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -54,7 +41,7 @@ BEGIN:VEVENT
 CATEGORIES:Grey Ladder
 DESCRIPTION:
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -69,7 +56,7 @@ DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
  dney must face the horrors of her past to put an end to the bloodshed onc
  e and for all.
 DTEND;VALUE=DATE:20260226
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -84,12 +71,36 @@ DESCRIPTION:In the near future a new drug outlawed by the government calle
   took the drug. We follow Curio a mysterious loner that has to complete a
   mission no matter how many times he dies.
 DTEND;VALUE=DATE:20260228
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260227
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Cycle (Digital Release)
 UID:Radarr_movie_11705_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20260206T030504Z
+DTSTART;VALUE=DATE:20251225
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marty Supreme (Theatrical Release)
+UID:Radarr_movie_11799_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
+DTEND;VALUE=DATE:20260211
+DTSTAMP:20260206T030504Z
+DTSTART;VALUE=DATE:20260210
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marty Supreme (Digital Release)
+UID:Radarr_movie_11799_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Daughter Films
@@ -98,7 +109,7 @@ DESCRIPTION:Roger\, a writer\, navigates complicated relationships with hi
  e support of his best friend Alan. A modern romance set against the rapid
  ly changing landscape of Brooklyn\, New York.
 DTEND;VALUE=DATE:20250830
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20250829
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -112,7 +123,7 @@ DESCRIPTION:Roger\, a writer\, navigates complicated relationships with hi
  e support of his best friend Alan. A modern romance set against the rapid
  ly changing landscape of Brooklyn\, New York.
 DTEND;VALUE=DATE:20260203
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -128,7 +139,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -144,7 +155,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260203
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -160,7 +171,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -172,7 +183,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:A well-meaning but rather inept angel named Gabriel meddles in
   the lives of a struggling gig worker and a wealthy capitalist.
 DTEND;VALUE=DATE:20251015
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -184,7 +195,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:A well-meaning but rather inept angel named Gabriel meddles in
   the lives of a struggling gig worker and a wealthy capitalist.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -196,7 +207,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:A well-meaning but rather inept angel named Gabriel meddles in
   the lives of a struggling gig worker and a wealthy capitalist.
 DTEND;VALUE=DATE:20260131
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -209,7 +220,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -222,7 +233,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -235,7 +246,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20260207
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260206
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -248,7 +259,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20251106
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -261,7 +272,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20260106
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -274,7 +285,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -290,7 +301,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,7 +317,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -322,7 +333,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20260304
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260303
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -336,7 +347,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20251219
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251218
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -350,7 +361,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20260204
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -364,7 +375,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -377,7 +388,7 @@ DESCRIPTION:In the near future\, a detective stands on trial accused of mu
  rdering his wife. He has ninety minutes to prove his innocence to the adv
  anced AI Judge he once championed\, before it determines his fate.
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -390,7 +401,7 @@ DESCRIPTION:In the near future\, a detective stands on trial accused of mu
  rdering his wife. He has ninety minutes to prove his innocence to the adv
  anced AI Judge he once championed\, before it determines his fate.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -405,7 +416,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20251121
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -420,7 +431,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -435,7 +446,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -447,7 +458,7 @@ CATEGORIES:Hera Pictures
 DESCRIPTION:The powerful story of love and loss that inspired the creation
   of Shakespeare's timeless masterpiece\, Hamlet.
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -459,7 +470,7 @@ CATEGORIES:Hera Pictures
 DESCRIPTION:The powerful story of love and loss that inspired the creation
   of Shakespeare's timeless masterpiece\, Hamlet.
 DTEND;VALUE=DATE:20260204
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -476,7 +487,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20251204
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -493,7 +504,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -510,26 +521,12 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Five Nights at Freddy's 2 (Physical Release)
 UID:Radarr_movie_9881_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:StudioCanal
-DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
- cility\, two young employees â joined by a grizzled bioterror operative â
-  must survive the wildest night shift ever to save humanity from extincti
- on.
-DTEND;VALUE=DATE:20260130
-DTSTAMP:20260205T030502Z
-DTSTART;VALUE=DATE:20260129
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Cold Storage (Theatrical Release)
-UID:Radarr_movie_12400_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:First Love Films
@@ -538,7 +535,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -554,7 +551,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  ollaborate. Determined to crack the case\, a relentless detective closes 
  in on the operation\, raising the stakes even higher.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -567,10 +564,10 @@ DESCRIPTION:Tethered by a frightening conclusion\, Maya and the Strangers
  are locked on an unavoidable\, unforgiving collision course â a showdown 
  that proves theyâre far from strangers now.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Strangers: Chapter 3 (Theatrical Release)
 UID:Radarr_movie_10084_cinemas
 END:VEVENT
@@ -584,7 +581,7 @@ DESCRIPTION:Will\, a small goat with big dreams\, gets a once-in-a-lifetim
  ce and for all that 'smalls can ball'! He has to do something he has neve
  r done before.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -596,7 +593,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -611,7 +608,7 @@ DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
  gy\, uncovering mysteries within the animal world that are beyond anythin
  g she could have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -625,7 +622,7 @@ DESCRIPTION:When TV producer Leah Caldwell aims to become the first woman
  Leah stays focused on her career\, until chemistry with her ex challenges
   her priorities.
 DTEND;VALUE=DATE:20260205
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -638,7 +635,7 @@ DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
  ater polo camp\, his anxiety spiraling into psychological turmoil over th
  e summer.
 DTEND;VALUE=DATE:20260103
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260102
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -651,7 +648,7 @@ DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
  ater polo camp\, his anxiety spiraling into psychological turmoil over th
  e summer.
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260205T030502Z
+DTSTAMP:20260206T030504Z
 DTSTART;VALUE=DATE:20260223
 SEQUENCE:0
 STATUS:CONFIRMED
