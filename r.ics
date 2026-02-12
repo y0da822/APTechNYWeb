@@ -4,6 +4,44 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassinâknown only as The Brideâwakes up from a coma
+  after her former boss and lover\, Bill\, shoots her in the head and stea
+ ls her unborn child during her wedding rehearsal. She soon embarks on a b
+ loody quest for revenge\, hunting down her ex-colleagues of the Deadly Vi
+ per Assassination Squad before confronting Bill himself. Quentin Tarantin
+ oâs complete Kill Bill\, a combination of Volumes 1 and 2\, previously de
+ leted scenes\, alternate takes\, a full-color remaster of the Crazy 88 fi
+ ght\, a 7-minute anime sequence by Production I.G.\, and a built-in inter
+ mission.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20260212T030503Z
+DTSTART;VALUE=DATE:20251205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
+UID:Radarr_movie_9301_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassinâknown only as The Brideâwakes up from a coma
+  after her former boss and lover\, Bill\, shoots her in the head and stea
+ ls her unborn child during her wedding rehearsal. She soon embarks on a b
+ loody quest for revenge\, hunting down her ex-colleagues of the Deadly Vi
+ per Assassination Squad before confronting Bill himself. Quentin Tarantin
+ oâs complete Kill Bill\, a combination of Volumes 1 and 2\, previously de
+ leted scenes\, alternate takes\, a full-color remaster of the Crazy 88 fi
+ ght\, a 7-minute anime sequence by Production I.G.\, and a built-in inter
+ mission.
+DTEND;VALUE=DATE:20260218
+DTSTAMP:20260212T030503Z
+DTSTART;VALUE=DATE:20260217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Digital Release)
+UID:Radarr_movie_9301_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Ruthless Studios
 DESCRIPTION:In the not-so-distant future\, a fearless crew aboard a starsh
  ip patrols the galaxy for threats. But when they stumble upon a planet ov
@@ -13,7 +51,7 @@ DESCRIPTION:In the not-so-distant future\, a fearless crew aboard a starsh
  an AI apocalypse. Will they conquer the singularity\, or become its victi
  ms in the epic showdown of the future? Welcome to Quantum Supremacy.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -30,7 +68,7 @@ DESCRIPTION:In the not-so-distant future\, a fearless crew aboard a starsh
  an AI apocalypse. Will they conquer the singularity\, or become its victi
  ms in the epic showdown of the future? Welcome to Quantum Supremacy.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -41,7 +79,7 @@ BEGIN:VEVENT
 CATEGORIES:Grey Ladder
 DESCRIPTION:
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,7 +94,7 @@ DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
  dney must face the horrors of her past to put an end to the bloodshed onc
  e and for all.
 DTEND;VALUE=DATE:20260226
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -71,7 +109,7 @@ DESCRIPTION:In the near future a new drug outlawed by the government calle
   took the drug. We follow Curio a mysterious loner that has to complete a
   mission no matter how many times he dies.
 DTEND;VALUE=DATE:20260228
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260227
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -83,7 +121,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -95,7 +133,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -111,7 +149,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -127,7 +165,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260203
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -143,7 +181,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -156,7 +194,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -169,7 +207,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -182,7 +220,7 @@ DESCRIPTION:Bruce Springsteen\, a young musician on the cusp of global sup
  erstardom\, struggles to reconcile the pressures of success with the ghos
  ts of his past.
 DTEND;VALUE=DATE:20260207
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260206
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -195,7 +233,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20251106
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -208,7 +246,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20260106
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -221,12 +259,63 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Predator: Badlands (Physical Release)
 UID:Radarr_movie_12273_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount Pictures
+DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
+ ds is convinced by The Running Man's charming but ruthless producer to en
+ ter the deadly competition game as a last resort. But Ben's defiance\, in
+ stincts\, and grit turn him into an unexpected fan favorite â and a threa
+ t to the entire system. As ratings skyrocket\, so does the danger\, and B
+ en must outwit not just the Hunters\, but a nation addicted to watching h
+ im fall.
+DTEND;VALUE=DATE:20251112
+DTSTAMP:20260212T030503Z
+DTSTART;VALUE=DATE:20251111
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Running Man (Theatrical Release)
+UID:Radarr_movie_12291_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount Pictures
+DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
+ ds is convinced by The Running Man's charming but ruthless producer to en
+ ter the deadly competition game as a last resort. But Ben's defiance\, in
+ stincts\, and grit turn him into an unexpected fan favorite â and a threa
+ t to the entire system. As ratings skyrocket\, so does the danger\, and B
+ en must outwit not just the Hunters\, but a nation addicted to watching h
+ im fall.
+DTEND;VALUE=DATE:20251212
+DTSTAMP:20260212T030503Z
+DTSTART;VALUE=DATE:20251211
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Running Man (Digital Release)
+UID:Radarr_movie_12291_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount Pictures
+DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
+ ds is convinced by The Running Man's charming but ruthless producer to en
+ ter the deadly competition game as a last resort. But Ben's defiance\, in
+ stincts\, and grit turn him into an unexpected fan favorite â and a threa
+ t to the entire system. As ratings skyrocket\, so does the danger\, and B
+ en must outwit not just the Hunters\, but a nation addicted to watching h
+ im fall.
+DTEND;VALUE=DATE:20260312
+DTSTAMP:20260212T030503Z
+DTSTART;VALUE=DATE:20260311
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Running Man (Physical Release)
+UID:Radarr_movie_12291_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Walt Disney Animation Studios
@@ -237,7 +326,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -253,7 +342,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -269,7 +358,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20260304
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260303
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -284,7 +373,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251113
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251112
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -299,7 +388,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -314,7 +403,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -327,7 +416,7 @@ DESCRIPTION:In the near future\, a detective stands on trial accused of mu
  rdering his wife. He has ninety minutes to prove his innocence to the adv
  anced AI Judge he once championed\, before it determines his fate.
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -340,7 +429,7 @@ DESCRIPTION:In the near future\, a detective stands on trial accused of mu
  rdering his wife. He has ninety minutes to prove his innocence to the adv
  anced AI Judge he once championed\, before it determines his fate.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -355,7 +444,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20251121
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -370,7 +459,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -385,38 +474,12 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Rental Family (Physical Release)
 UID:Radarr_movie_12387_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
-  consequences that could change the world as they know it - and Spike's e
- ncounter with Jimmy Crystal becomes a nightmare he can't escape.
-DTEND;VALUE=DATE:20260115
-DTSTAMP:20260211T030502Z
-DTSTART;VALUE=DATE:20260114
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:28 Years Later: The Bone Temple (Theatrical Release)
-UID:Radarr_movie_12092_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
-  consequences that could change the world as they know it - and Spike's e
- ncounter with Jimmy Crystal becomes a nightmare he can't escape.
-DTEND;VALUE=DATE:20260218
-DTSTAMP:20260211T030502Z
-DTSTART;VALUE=DATE:20260217
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:28 Years Later: The Bone Temple (Digital Release)
-UID:Radarr_movie_12092_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Blumhouse Productions
@@ -428,7 +491,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20251204
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -445,7 +508,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -462,7 +525,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -476,7 +539,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -492,10 +555,10 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  ollaborate. Determined to crack the case\, a relentless detective closes 
  in on the operation\, raising the stakes even higher.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Crime 101 (Theatrical Release)
 UID:Radarr_movie_12404_cinemas
 END:VEVENT
@@ -505,7 +568,7 @@ DESCRIPTION:Tethered by a frightening conclusion\, Maya and the Strangers
  are locked on an unavoidable\, unforgiving collision course â a showdown 
  that proves theyâre far from strangers now.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -522,10 +585,10 @@ DESCRIPTION:Will\, a small goat with big dreams\, gets a once-in-a-lifetim
  ce and for all that 'smalls can ball'! He has to do something he has neve
  r done before.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:GOAT (Theatrical Release)
 UID:Radarr_movie_12416_cinemas
 END:VEVENT
@@ -534,10 +597,10 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:âWuthering Heightsâ (Theatrical Release)
 UID:Radarr_movie_12417_cinemas
 END:VEVENT
@@ -549,7 +612,7 @@ DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
  gy\, uncovering mysteries within the animal world that are beyond anythin
  g she could have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -562,7 +625,7 @@ DESCRIPTION:A 19-year-old criminal\, Tommy\, is kidnapped and forced into
  a rehabilitation process by a dysfunctional couple\, Chris and Kathryn\, 
  who try to make him a "good boy." Tommy must find a way to escape.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -575,7 +638,7 @@ DESCRIPTION:A 19-year-old criminal\, Tommy\, is kidnapped and forced into
  a rehabilitation process by a dysfunctional couple\, Chris and Kathryn\, 
  who try to make him a "good boy." Tommy must find a way to escape.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -583,26 +646,12 @@ SUMMARY:The Good Boy (Digital Release)
 UID:Radarr_movie_12421_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Amazon MGM Studios
-DESCRIPTION:When TV producer Leah Caldwell aims to become the first woman 
- running New York's top morning show\, her ex competes for the same role. 
- Leah stays focused on her career\, until chemistry with her ex challenges
-  her priorities.
-DTEND;VALUE=DATE:20260205
-DTSTAMP:20260211T030502Z
-DTSTART;VALUE=DATE:20260204
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Relationship Goals (Digital Release)
-UID:Radarr_movie_12423_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Spooky Pictures
 DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
  ater polo camp\, his anxiety spiraling into psychological turmoil over th
  e summer.
 DTEND;VALUE=DATE:20260103
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260102
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -615,7 +664,7 @@ DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
  ater polo camp\, his anxiety spiraling into psychological turmoil over th
  e summer.
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -628,7 +677,7 @@ DESCRIPTION:On one last grueling mission during Army Ranger training\, a c
  ombat engineer must lead his unit in a fight against a giant otherworldly
   killing machine.
 DTEND;VALUE=DATE:20260213
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260212
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -641,7 +690,7 @@ DESCRIPTION:On one last grueling mission during Army Ranger training\, a c
  ombat engineer must lead his unit in a fight against a giant otherworldly
   killing machine.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -654,7 +703,7 @@ DESCRIPTION:At the edge of postpartum psychosis\, new mother Harper moves
  in with her own mother at their family's rural farmhouse. Soon she finds 
  herself hunted by a threatening monster who has designs on her child.
 DTEND;VALUE=DATE:20260213
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260212
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -667,7 +716,7 @@ DESCRIPTION:At the edge of postpartum psychosis\, new mother Harper moves
  in with her own mother at their family's rural farmhouse. Soon she finds 
  herself hunted by a threatening monster who has designs on her child.
 DTEND;VALUE=DATE:20251021
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20251020
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -682,7 +731,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -697,7 +746,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -711,7 +760,7 @@ DESCRIPTION:When James receives a mysterious letter from his lost love Mar
  ess. As he searches for her\, James faces monstrous creatures and unravel
  s a terrifying truth that will push him to the edge of his sanity.
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -725,7 +774,7 @@ DESCRIPTION:When James receives a mysterious letter from his lost love Mar
  ess. As he searches for her\, James faces monstrous creatures and unravel
  s a terrifying truth that will push him to the edge of his sanity.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -738,9 +787,9 @@ DESCRIPTION:Gina hates her Valentine's Day birthday and travels to Greece
  to prevent her boyfriend's proposal. With help from vacationers Johnny an
  d his sister Mickey\, she schemes to delay it â while questioning her rel
  ationship.
-DTEND;VALUE=DATE:20260214
-DTSTAMP:20260211T030502Z
-DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260213
+DTSTAMP:20260212T030503Z
+DTSTART;VALUE=DATE:20260212
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:F Valentine's Day (Theatrical Release)
@@ -753,7 +802,7 @@ DESCRIPTION:Gina hates her Valentine's Day birthday and travels to Greece
  d his sister Mickey\, she schemes to delay it â while questioning her rel
  ationship.
 DTEND;VALUE=DATE:20260207
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260206
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -767,7 +816,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260211T030502Z
+DTSTAMP:20260212T030503Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
