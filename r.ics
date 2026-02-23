@@ -6,16 +6,20 @@ X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
 CATEGORIES:Miramax
 DESCRIPTION:A former assassinâknown only as The Brideâwakes up from a coma
-  after her former boss and lover\, Bill\, shoots her in the head and stea
- ls her unborn child during her wedding rehearsal. She soon embarks on a b
- loody quest for revenge\, hunting down her ex-colleagues of the Deadly Vi
- per Assassination Squad before confronting Bill himself. Quentin Tarantin
- oâs complete Kill Bill\, a combination of Volumes 1 and 2\, previously de
- leted scenes\, alternate takes\, a full-color remaster of the Crazy 88 fi
- ght\, a 7-minute anime sequence by Production I.G.\, and a built-in inter
- mission.
+  to wreak vengeance on her former boss and lover\, Bill\, and his team of
+  assassins\, The Deadly Viper Assassination Squad\, who betrayed her and 
+ left her for dead.  Quentin Tarantinoâs 'Kill Bill: The Whole Bloody Affa
+ ir' combines the two films\, Kill Bill: Volume 1 (2003) and Kill Bill: Vo
+ lume 2 (2004)\, into the single movie it was originally intended to be.  
+ This new version removes the cliffhanger ending from Kill Bill: Vol. 1 an
+ d the recap that began Kill Bill: Vol. 2\, and inserts a very brief inter
+ mission to separate the two volumes. It also includes a never-before-seen
+  7Â½-minute animated sequence\, and restores to colour the 'House of Blue 
+ Leaves' fight sequence that was first presented in black and white in the
+  U.S. theatrical cut to avoid an NC-17 rating. This unrated and unabridge
+ d version of the film has a runtime of 253 minutes.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -25,16 +29,20 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Miramax
 DESCRIPTION:A former assassinâknown only as The Brideâwakes up from a coma
-  after her former boss and lover\, Bill\, shoots her in the head and stea
- ls her unborn child during her wedding rehearsal. She soon embarks on a b
- loody quest for revenge\, hunting down her ex-colleagues of the Deadly Vi
- per Assassination Squad before confronting Bill himself. Quentin Tarantin
- oâs complete Kill Bill\, a combination of Volumes 1 and 2\, previously de
- leted scenes\, alternate takes\, a full-color remaster of the Crazy 88 fi
- ght\, a 7-minute anime sequence by Production I.G.\, and a built-in inter
- mission.
+  to wreak vengeance on her former boss and lover\, Bill\, and his team of
+  assassins\, The Deadly Viper Assassination Squad\, who betrayed her and 
+ left her for dead.  Quentin Tarantinoâs 'Kill Bill: The Whole Bloody Affa
+ ir' combines the two films\, Kill Bill: Volume 1 (2003) and Kill Bill: Vo
+ lume 2 (2004)\, into the single movie it was originally intended to be.  
+ This new version removes the cliffhanger ending from Kill Bill: Vol. 1 an
+ d the recap that began Kill Bill: Vol. 2\, and inserts a very brief inter
+ mission to separate the two volumes. It also includes a never-before-seen
+  7Â½-minute animated sequence\, and restores to colour the 'House of Blue 
+ Leaves' fight sequence that was first presented in black and white in the
+  U.S. theatrical cut to avoid an NC-17 rating. This unrated and unabridge
+ d version of the film has a runtime of 253 minutes.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +55,7 @@ DESCRIPTION:In a future threatened by rogue robots and an all-powerful AI\
  , Captain Monroe and his crew race to prevent humanity's downfall in Quan
  tum Supremacy.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +68,7 @@ DESCRIPTION:In a future threatened by rogue robots and an all-powerful AI\
  , Captain Monroe and his crew race to prevent humanity's downfall in Quan
  tum Supremacy.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +81,7 @@ DESCRIPTION:A young man's odyssey to erase his pain and nightmares leads h
  im to question his schizophrenia diagnosis. He seeks answers in Sicily\, 
  where spirits and curses still evoke fear among locals.
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -90,7 +98,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  m extinctionâ¦ but an unexpected friendship means he may not have to do it
   alone.
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -105,7 +113,7 @@ DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
  dney must face the horrors of her past to put an end to the bloodshed onc
  e and for all.
 DTEND;VALUE=DATE:20260226
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -120,7 +128,7 @@ DESCRIPTION:In the near future a new drug outlawed by the government calle
   took the drug. We follow Curio a mysterious loner that has to complete a
   mission no matter how many times he dies.
 DTEND;VALUE=DATE:20260228
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260227
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +145,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -154,7 +162,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251111
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -171,7 +179,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20260314
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260313
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -187,7 +195,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -203,7 +211,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260203
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -219,7 +227,7 @@ DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
  e undead are growing more violent\, more relentless\, and more dangerous 
  with every passing hour.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -232,7 +240,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20251106
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -245,7 +253,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20260106
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -258,7 +266,7 @@ DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
  ly in a damaged android and embarks on a treacherous journey in search of
   the ultimate adversary.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -275,7 +283,7 @@ DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
  en must outwit not just the Hunters\, but a nation addicted to watching h
  im fall.
 DTEND;VALUE=DATE:20251112
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -292,7 +300,7 @@ DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
  en must outwit not just the Hunters\, but a nation addicted to watching h
  im fall.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -309,7 +317,7 @@ DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
  en must outwit not just the Hunters\, but a nation addicted to watching h
  im fall.
 DTEND;VALUE=DATE:20260306
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260305
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -325,7 +333,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -341,7 +349,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -357,7 +365,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20260304
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260303
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -372,7 +380,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251113
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251112
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -387,7 +395,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -402,7 +410,7 @@ DESCRIPTION:The original Four Horsemen reunite with a new generation of il
  w and old magicians must overcome their differences to work together on t
  heir most ambitious heist yet.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -415,7 +423,7 @@ DESCRIPTION:In the near future\, a detective stands on trial accused of mu
  rdering his wife. He has ninety minutes to prove his innocence to the adv
  anced AI Judge he once championed\, before it determines his fate.
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -428,7 +436,7 @@ DESCRIPTION:In the near future\, a detective stands on trial accused of mu
  rdering his wife. He has ninety minutes to prove his innocence to the adv
  anced AI Judge he once championed\, before it determines his fate.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -443,7 +451,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20251121
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -458,7 +466,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -473,7 +481,7 @@ DESCRIPTION:An American actor in Tokyo struggles to find purpose until he
   worlds\, he begins to form genuine bonds that blur the lines between per
  formance and reality.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -486,7 +494,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260114
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -499,7 +507,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -511,7 +519,7 @@ CATEGORIES:Hera Pictures
 DESCRIPTION:The powerful story of love and loss that inspired the creation
   of Shakespeare's timeless masterpiece\, Hamlet.
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251204
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -523,7 +531,7 @@ CATEGORIES:Hera Pictures
 DESCRIPTION:The powerful story of love and loss that inspired the creation
   of Shakespeare's timeless masterpiece\, Hamlet.
 DTEND;VALUE=DATE:20260204
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -535,7 +543,7 @@ CATEGORIES:Hera Pictures
 DESCRIPTION:The powerful story of love and loss that inspired the creation
   of Shakespeare's timeless masterpiece\, Hamlet.
 DTEND;VALUE=DATE:20260304
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260303
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -552,7 +560,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20251204
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -569,7 +577,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20251224
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -586,7 +594,7 @@ DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's
  will reveal dark secrets about the real origin of Freddy's\, and unleash 
  a decades-hidden horror.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -601,7 +609,7 @@ DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
   her for survival and the battles to come. But when the world is about to
   break\, no place is safe.
 DTEND;VALUE=DATE:20251031
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251030
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -616,7 +624,7 @@ DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
   her for survival and the battles to come. But when the world is about to
   break\, no place is safe.
 DTEND;VALUE=DATE:20260308
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260307
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -630,7 +638,7 @@ DESCRIPTION:A group of friends facing mid-life crises head to the rainfore
   only to find themselves in a fight for their lives against natural disas
  ters\, giant snakes and violent criminals.
 DTEND;VALUE=DATE:20251225
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20251224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -644,7 +652,7 @@ DESCRIPTION:A group of friends facing mid-life crises head to the rainfore
   only to find themselves in a fight for their lives against natural disas
  ters\, giant snakes and violent criminals.
 DTEND;VALUE=DATE:20260128
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -658,7 +666,7 @@ DESCRIPTION:A group of friends facing mid-life crises head to the rainfore
   only to find themselves in a fight for their lives against natural disas
  ters\, giant snakes and violent criminals.
 DTEND;VALUE=DATE:20260318
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260317
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -671,7 +679,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -684,7 +692,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -698,7 +706,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -713,7 +721,7 @@ DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
  gy\, uncovering mysteries within the animal world that are beyond anythin
  g she could have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -726,7 +734,7 @@ DESCRIPTION:19-year-old criminal Tommy is kidnapped and forced into a reha
  bilitation process by dysfunctional couple Chris and Kathryn\, who try to
   make him a 'good boy'. Tommy must find a way to escape.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -739,7 +747,7 @@ DESCRIPTION:19-year-old criminal Tommy is kidnapped and forced into a reha
  bilitation process by dysfunctional couple Chris and Kathryn\, who try to
   make him a 'good boy'. Tommy must find a way to escape.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -752,7 +760,7 @@ DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
  ater polo camp\, his anxiety spiraling into psychological turmoil over th
  e summer.
 DTEND;VALUE=DATE:20260103
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260102
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -765,7 +773,7 @@ DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
  ater polo camp\, his anxiety spiraling into psychological turmoil over th
  e summer.
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -778,7 +786,7 @@ DESCRIPTION:On one last grueling mission during Army Ranger training\, a c
  ombat engineer must lead his unit in a fight against a giant otherworldly
   killing machine.
 DTEND;VALUE=DATE:20260213
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260212
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -791,7 +799,7 @@ DESCRIPTION:On one last grueling mission during Army Ranger training\, a c
  ombat engineer must lead his unit in a fight against a giant otherworldly
   killing machine.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -805,7 +813,7 @@ DESCRIPTION:When James receives a mysterious letter from his lost love Mar
  ess. As he searches for her\, James faces monstrous creatures and unravel
  s a terrifying truth that will push him to the edge of his sanity.
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -819,7 +827,7 @@ DESCRIPTION:When James receives a mysterious letter from his lost love Mar
  ess. As he searches for her\, James faces monstrous creatures and unravel
  s a terrifying truth that will push him to the edge of his sanity.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260222T030502Z
+DTSTAMP:20260223T030502Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
