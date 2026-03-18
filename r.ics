@@ -4,89 +4,90 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassinâknown only as The Brideâwakes up from a coma
-  to wreak vengeance on her former boss and lover\, Bill\, and his team of
-  assassins\, The Deadly Viper Assassination Squad\, who betrayed her and 
- left her for dead.  Quentin Tarantinoâs 'Kill Bill: The Whole Bloody Affa
- ir' combines the two films\, Kill Bill: Volume 1 (2003) and Kill Bill: Vo
- lume 2 (2004)\, into the single movie it was originally intended to be.  
- This new version removes the cliffhanger ending from Kill Bill: Vol. 1 an
- d the recap that began Kill Bill: Vol. 2\, and inserts a very brief inter
- mission to separate the two volumes. It also includes a never-before-seen
-  7Â½-minute animated sequence\, and restores to colour the 'House of Blue 
- Leaves' fight sequence that was first presented in black and white in the
-  U.S. theatrical cut to avoid an NC-17 rating. This unrated and unabridge
- d version of the film has a runtime of 253 minutes.
-DTEND;VALUE=DATE:20251206
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251205
+CATEGORIES:20th Century Studios
+DESCRIPTION:In the wake of the devastating war against the RDA and the los
+ s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
+ ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
+ thless Varang. Jake's family must fight for their survival and the future
+  of Pandora in a conflict that pushes them to their emotional and physica
+ l limits.
+DTEND;VALUE=DATE:20251218
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
-UID:Radarr_movie_9301_cinemas
+SUMMARY:Avatar: Fire and Ash (Theatrical Release)
+UID:Radarr_movie_6448_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassinâknown only as The Brideâwakes up from a coma
-  to wreak vengeance on her former boss and lover\, Bill\, and his team of
-  assassins\, The Deadly Viper Assassination Squad\, who betrayed her and 
- left her for dead.  Quentin Tarantinoâs 'Kill Bill: The Whole Bloody Affa
- ir' combines the two films\, Kill Bill: Volume 1 (2003) and Kill Bill: Vo
- lume 2 (2004)\, into the single movie it was originally intended to be.  
- This new version removes the cliffhanger ending from Kill Bill: Vol. 1 an
- d the recap that began Kill Bill: Vol. 2\, and inserts a very brief inter
- mission to separate the two volumes. It also includes a never-before-seen
-  7Â½-minute animated sequence\, and restores to colour the 'House of Blue 
- Leaves' fight sequence that was first presented in black and white in the
-  U.S. theatrical cut to avoid an NC-17 rating. This unrated and unabridge
- d version of the film has a runtime of 253 minutes.
-DTEND;VALUE=DATE:20260217
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260216
+CATEGORIES:20th Century Studios
+DESCRIPTION:In the wake of the devastating war against the RDA and the los
+ s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
+ ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
+ thless Varang. Jake's family must fight for their survival and the future
+  of Pandora in a conflict that pushes them to their emotional and physica
+ l limits.
+DTEND;VALUE=DATE:20260401
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Digital Release)
-UID:Radarr_movie_9301_digital
+SUMMARY:Avatar: Fire and Ash (Digital Release)
+UID:Radarr_movie_6448_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Ruthless Studios
-DESCRIPTION:In a future threatened by rogue robots and an all-powerful AI\
- , Captain Monroe and his crew race to prevent humanity's downfall in Quan
- tum Supremacy.
-DTEND;VALUE=DATE:20260217
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260216
+CATEGORIES:Bloody Disgusting
+DESCRIPTION:Unveiled through a made-for-TV documentary\, five chilling tal
+ es of found footage horror emerge to take viewers on a gore-filled journe
+ y through the grim underbelly of the forgotten 1980s.
+DTEND;VALUE=DATE:20231124
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20231123
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Quantum Supremacy (Digital Release)
-UID:Radarr_movie_11540_digital
+SUMMARY:V/H/S/85 (Theatrical Release)
+UID:Radarr_movie_7675_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Ruthless Studios
-DESCRIPTION:In a future threatened by rogue robots and an all-powerful AI\
- , Captain Monroe and his crew race to prevent humanity's downfall in Quan
- tum Supremacy.
-DTEND;VALUE=DATE:20260311
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260310
+CATEGORIES:Bloody Disgusting
+DESCRIPTION:Unveiled through a made-for-TV documentary\, five chilling tal
+ es of found footage horror emerge to take viewers on a gore-filled journe
+ y through the grim underbelly of the forgotten 1980s.
+DTEND;VALUE=DATE:20231007
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20231006
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Quantum Supremacy (Physical Release)
-UID:Radarr_movie_11540_physical
+SUMMARY:V/H/S/85 (Digital Release)
+UID:Radarr_movie_7675_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Grey Ladder
-DESCRIPTION:A young man's odyssey to erase his pain and nightmares leads h
- im to question his schizophrenia diagnosis. He seeks answers in Sicily\, 
- where spirits and curses still evoke fear among locals.
-DTEND;VALUE=DATE:20260224
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260223
+CATEGORIES:Bloody Disgusting
+DESCRIPTION:Unveiled through a made-for-TV documentary\, five chilling tal
+ es of found footage horror emerge to take viewers on a gore-filled journe
+ y through the grim underbelly of the forgotten 1980s.
+DTEND;VALUE=DATE:20260328
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260327
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:V/H/S/85 (Physical Release)
+UID:Radarr_movie_7675_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Illumination
+DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
+ \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
+ ned to liberate his father from captivity and restore the family legacy. 
+ Alongside companions new and old\, the brothers travel across the stars t
+ o stop the young heir's crusade.
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Lo Scuru (Theatrical Release)
-UID:Radarr_movie_11594_cinemas
+SUMMARY:The Super Mario Galaxy Movie (Theatrical Release)
+UID:Radarr_movie_11700_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lord Miller
@@ -98,42 +99,48 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  m extinctionâ¦ but an unexpected friendship means he may not have to do it
   alone.
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Project Hail Mary (Theatrical Release)
 UID:Radarr_movie_11702_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
- dney Prescott has built a new life\, her darkest fears are realized as he
- r daughter becomes the next target. Determined to protect her family\, Si
- dney must face the horrors of her past to put an end to the bloodshed onc
- e and for all.
-DTEND;VALUE=DATE:20260226
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260225
+CATEGORIES:A24
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Scream 7 (Theatrical Release)
-UID:Radarr_movie_8777_cinemas
+STATUS:CONFIRMED
+SUMMARY:Marty Supreme (Theatrical Release)
+UID:Radarr_movie_11799_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:
-DESCRIPTION:In the near future a new drug outlawed by the government calle
- d time that once taken makes you immortal but the catch is every time you
-  die you go back to the same spot you were killed but on the same day you
-  took the drug. We follow Curio a mysterious loner that has to complete a
-  mission no matter how many times he dies.
-DTEND;VALUE=DATE:20260228
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260227
+CATEGORIES:A24
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
+DTEND;VALUE=DATE:20260211
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Cycle (Digital Release)
-UID:Radarr_movie_11705_digital
+STATUS:CONFIRMED
+SUMMARY:Marty Supreme (Digital Release)
+UID:Radarr_movie_11799_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
+DTEND;VALUE=DATE:20260401
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260331
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marty Supreme (Physical Release)
+UID:Radarr_movie_11799_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Limelight
@@ -145,7 +152,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -162,7 +169,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251111
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -179,7 +186,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20260314
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260313
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -187,419 +194,88 @@ SUMMARY:Roofman (Physical Release)
 UID:Radarr_movie_12200_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Campfire Studios
-DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
- iseâthey hunt. The military insists they are harmless and slow-moving\, o
- ffering hope to grieving families. But when Ava enters a quarantine zone 
- searching for her missing husband\, she uncovers the horrifying truth: th
- e undead are growing more violent\, more relentless\, and more dangerous 
- with every passing hour.
-DTEND;VALUE=DATE:20260102
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260101
+CATEGORIES:Beno Films (US)
+DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
+ ous\, wounded woman from a river\, they become entangled in a deadly web 
+ of violence and revenge\, forcing them to confront a brutal criminal to s
+ urvive.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:We Bury the Dead (Theatrical Release)
-UID:Radarr_movie_12205_cinemas
+SUMMARY:Hunting Season (Theatrical Release)
+UID:Radarr_movie_12374_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Campfire Studios
-DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
- iseâthey hunt. The military insists they are harmless and slow-moving\, o
- ffering hope to grieving families. But when Ava enters a quarantine zone 
- searching for her missing husband\, she uncovers the horrifying truth: th
- e undead are growing more violent\, more relentless\, and more dangerous 
- with every passing hour.
-DTEND;VALUE=DATE:20260203
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260202
+CATEGORIES:Beno Films (US)
+DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
+ ous\, wounded woman from a river\, they become entangled in a deadly web 
+ of violence and revenge\, forcing them to confront a brutal criminal to s
+ urvive.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:We Bury the Dead (Digital Release)
-UID:Radarr_movie_12205_digital
+SUMMARY:Hunting Season (Digital Release)
+UID:Radarr_movie_12374_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Campfire Studios
-DESCRIPTION:After a catastrophic military disaster\, the dead don't just r
- iseâthey hunt. The military insists they are harmless and slow-moving\, o
- ffering hope to grieving families. But when Ava enters a quarantine zone 
- searching for her missing husband\, she uncovers the horrifying truth: th
- e undead are growing more violent\, more relentless\, and more dangerous 
- with every passing hour.
-DTEND;VALUE=DATE:20260217
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260216
+CATEGORIES:Beno Films (US)
+DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
+ ous\, wounded woman from a river\, they become entangled in a deadly web 
+ of violence and revenge\, forcing them to confront a brutal criminal to s
+ urvive.
+DTEND;VALUE=DATE:20260411
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260410
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:We Bury the Dead (Physical Release)
-UID:Radarr_movie_12205_physical
+SUMMARY:Hunting Season (Physical Release)
+UID:Radarr_movie_12374_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
- ly in a damaged android and embarks on a treacherous journey in search of
-  the ultimate adversary.
-DTEND;VALUE=DATE:20251106
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251105
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Predator: Badlands (Theatrical Release)
-UID:Radarr_movie_12273_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
- ly in a damaged android and embarks on a treacherous journey in search of
-  the ultimate adversary.
-DTEND;VALUE=DATE:20260106
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260105
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Predator: Badlands (Digital Release)
-UID:Radarr_movie_12273_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
- ly in a damaged android and embarks on a treacherous journey in search of
-  the ultimate adversary.
-DTEND;VALUE=DATE:20260218
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260217
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Predator: Badlands (Physical Release)
-UID:Radarr_movie_12273_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
- ds is convinced by The Running Man's charming but ruthless producer to en
- ter the deadly competition game as a last resort. But Ben's defiance\, in
- stincts\, and grit turn him into an unexpected fan favorite â and a threa
- t to the entire system. As ratings skyrocket\, so does the danger\, and B
- en must outwit not just the Hunters\, but a nation addicted to watching h
- im fall.
-DTEND;VALUE=DATE:20251112
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251111
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Running Man (Theatrical Release)
-UID:Radarr_movie_12291_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
- ds is convinced by The Running Man's charming but ruthless producer to en
- ter the deadly competition game as a last resort. But Ben's defiance\, in
- stincts\, and grit turn him into an unexpected fan favorite â and a threa
- t to the entire system. As ratings skyrocket\, so does the danger\, and B
- en must outwit not just the Hunters\, but a nation addicted to watching h
- im fall.
-DTEND;VALUE=DATE:20251212
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251211
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Running Man (Digital Release)
-UID:Radarr_movie_12291_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:Desperate to save his sick daughter\, working-class Ben Richar
- ds is convinced by The Running Man's charming but ruthless producer to en
- ter the deadly competition game as a last resort. But Ben's defiance\, in
- stincts\, and grit turn him into an unexpected fan favorite â and a threa
- t to the entire system. As ratings skyrocket\, so does the danger\, and B
- en must outwit not just the Hunters\, but a nation addicted to watching h
- im fall.
-DTEND;VALUE=DATE:20260306
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260305
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Running Man (Physical Release)
-UID:Radarr_movie_12291_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Walt Disney Animation Studios
-DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
-  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of 
- a great mystery when Gary De'Snake arrives and turns the animal metropoli
- s upside down. To crack the case\, Judy and Nick must go undercover to un
- expected new parts of town\, where their growing partnership is tested li
- ke never before.
-DTEND;VALUE=DATE:20251127
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251126
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Zootopia 2 (Theatrical Release)
-UID:Radarr_movie_8036_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Walt Disney Animation Studios
-DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
-  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of 
- a great mystery when Gary De'Snake arrives and turns the animal metropoli
- s upside down. To crack the case\, Judy and Nick must go undercover to un
- expected new parts of town\, where their growing partnership is tested li
- ke never before.
-DTEND;VALUE=DATE:20251128
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251127
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Zootopia 2 (Digital Release)
-UID:Radarr_movie_8036_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Walt Disney Animation Studios
-DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
-  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of 
- a great mystery when Gary De'Snake arrives and turns the animal metropoli
- s upside down. To crack the case\, Judy and Nick must go undercover to un
- expected new parts of town\, where their growing partnership is tested li
- ke never before.
-DTEND;VALUE=DATE:20260304
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260303
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Zootopia 2 (Physical Release)
-UID:Radarr_movie_8036_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:The original Four Horsemen reunite with a new generation of il
- lusionists to take on powerful diamond heiress Veronika Vanderberg\, who 
- leads a criminal empire built on money laundering and trafficking. The ne
- w and old magicians must overcome their differences to work together on t
- heir most ambitious heist yet.
-DTEND;VALUE=DATE:20251113
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251112
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Now You See Me: Now You Don't (Theatrical Release)
-UID:Radarr_movie_7000_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:The original Four Horsemen reunite with a new generation of il
- lusionists to take on powerful diamond heiress Veronika Vanderberg\, who 
- leads a criminal empire built on money laundering and trafficking. The ne
- w and old magicians must overcome their differences to work together on t
- heir most ambitious heist yet.
+CATEGORIES:Paramount Animation
+DESCRIPTION:Desperate to be a big guy\, SpongeBob sets out to prove his br
+ avery to Mr. Krabs by following The Flying Dutchman â a mysterious swashb
+ uckling ghost pirate â on a seafaring adventure that takes him to the dee
+ pest depths of the deep sea\, where no Sponge has gone before.
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20251216
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Now You See Me: Now You Don't (Digital Release)
-UID:Radarr_movie_7000_digital
+SUMMARY:The SpongeBob Movie: Search for SquarePants (Theatrical Release)
+UID:Radarr_movie_12301_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:The original Four Horsemen reunite with a new generation of il
- lusionists to take on powerful diamond heiress Veronika Vanderberg\, who 
- leads a criminal empire built on money laundering and trafficking. The ne
- w and old magicians must overcome their differences to work together on t
- heir most ambitious heist yet.
-DTEND;VALUE=DATE:20260307
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260306
+CATEGORIES:Paramount Animation
+DESCRIPTION:Desperate to be a big guy\, SpongeBob sets out to prove his br
+ avery to Mr. Krabs by following The Flying Dutchman â a mysterious swashb
+ uckling ghost pirate â on a seafaring adventure that takes him to the dee
+ pest depths of the deep sea\, where no Sponge has gone before.
+DTEND;VALUE=DATE:20260121
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260120
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Now You See Me: Now You Don't (Physical Release)
-UID:Radarr_movie_7000_physical
+SUMMARY:The SpongeBob Movie: Search for SquarePants (Digital Release)
+UID:Radarr_movie_12301_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Atlas Entertainment
-DESCRIPTION:In the near future\, a detective stands on trial accused of mu
- rdering his wife. He has ninety minutes to prove his innocence to the adv
- anced AI Judge he once championed\, before it determines his fate.
-DTEND;VALUE=DATE:20260122
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260121
+CATEGORIES:Paramount Animation
+DESCRIPTION:Desperate to be a big guy\, SpongeBob sets out to prove his br
+ avery to Mr. Krabs by following The Flying Dutchman â a mysterious swashb
+ uckling ghost pirate â on a seafaring adventure that takes him to the dee
+ pest depths of the deep sea\, where no Sponge has gone before.
+DTEND;VALUE=DATE:20260401
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Mercy (Theatrical Release)
-UID:Radarr_movie_12382_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atlas Entertainment
-DESCRIPTION:In the near future\, a detective stands on trial accused of mu
- rdering his wife. He has ninety minutes to prove his innocence to the adv
- anced AI Judge he once championed\, before it determines his fate.
-DTEND;VALUE=DATE:20260218
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260217
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Mercy (Digital Release)
-UID:Radarr_movie_12382_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sight Unseen Pictures
-DESCRIPTION:An American actor in Tokyo struggles to find purpose until he 
- lands an unusual gig: working for a Japanese 'rental family' agency\, pla
- ying stand-in roles for strangers. As he immerses himself in his clients'
-  worlds\, he begins to form genuine bonds that blur the lines between per
- formance and reality.
-DTEND;VALUE=DATE:20251121
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251120
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Rental Family (Theatrical Release)
-UID:Radarr_movie_12387_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sight Unseen Pictures
-DESCRIPTION:An American actor in Tokyo struggles to find purpose until he 
- lands an unusual gig: working for a Japanese 'rental family' agency\, pla
- ying stand-in roles for strangers. As he immerses himself in his clients'
-  worlds\, he begins to form genuine bonds that blur the lines between per
- formance and reality.
-DTEND;VALUE=DATE:20260114
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260113
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Rental Family (Digital Release)
-UID:Radarr_movie_12387_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sight Unseen Pictures
-DESCRIPTION:An American actor in Tokyo struggles to find purpose until he 
- lands an unusual gig: working for a Japanese 'rental family' agency\, pla
- ying stand-in roles for strangers. As he immerses himself in his clients'
-  worlds\, he begins to form genuine bonds that blur the lines between per
- formance and reality.
-DTEND;VALUE=DATE:20260218
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260217
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Rental Family (Physical Release)
-UID:Radarr_movie_12387_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
-  consequences that could change the world as they know it - and Spike's e
- ncounter with Jimmy Crystal becomes a nightmare he can't escape.
-DTEND;VALUE=DATE:20260115
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260114
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:28 Years Later: The Bone Temple (Theatrical Release)
-UID:Radarr_movie_12092_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
-  consequences that could change the world as they know it - and Spike's e
- ncounter with Jimmy Crystal becomes a nightmare he can't escape.
-DTEND;VALUE=DATE:20260218
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260217
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:28 Years Later: The Bone Temple (Digital Release)
-UID:Radarr_movie_12092_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Hera Pictures
-DESCRIPTION:The powerful story of love and loss that inspired the creation
-  of Shakespeare's timeless masterpiece\, Hamlet.
-DTEND;VALUE=DATE:20251205
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251204
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hamnet (Theatrical Release)
-UID:Radarr_movie_12391_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Hera Pictures
-DESCRIPTION:The powerful story of love and loss that inspired the creation
-  of Shakespeare's timeless masterpiece\, Hamlet.
-DTEND;VALUE=DATE:20260204
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260203
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hamnet (Digital Release)
-UID:Radarr_movie_12391_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Hera Pictures
-DESCRIPTION:The powerful story of love and loss that inspired the creation
-  of Shakespeare's timeless masterpiece\, Hamlet.
-DTEND;VALUE=DATE:20260304
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260303
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hamnet (Physical Release)
-UID:Radarr_movie_12391_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's 
- Pizza\, the stories about what transpired there have been twisted into a 
- campy local legend\, inspiring the town's first ever Fazfest. With the tr
- uth kept from her\, Abby sneaks out to reconnect with Freddy\, Bonnie\, C
- hica\, and Foxy\, setting into motion a terrifying series of events that 
- will reveal dark secrets about the real origin of Freddy's\, and unleash 
- a decades-hidden horror.
-DTEND;VALUE=DATE:20251204
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251203
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Five Nights at Freddy's 2 (Theatrical Release)
-UID:Radarr_movie_9881_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's 
- Pizza\, the stories about what transpired there have been twisted into a 
- campy local legend\, inspiring the town's first ever Fazfest. With the tr
- uth kept from her\, Abby sneaks out to reconnect with Freddy\, Bonnie\, C
- hica\, and Foxy\, setting into motion a terrifying series of events that 
- will reveal dark secrets about the real origin of Freddy's\, and unleash 
- a decades-hidden horror.
-DTEND;VALUE=DATE:20251224
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20251223
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Five Nights at Freddy's 2 (Digital Release)
-UID:Radarr_movie_9881_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:One year since the supernatural nightmare at Freddy Fazbear's 
- Pizza\, the stories about what transpired there have been twisted into a 
- campy local legend\, inspiring the town's first ever Fazfest. With the tr
- uth kept from her\, Abby sneaks out to reconnect with Freddy\, Bonnie\, C
- hica\, and Foxy\, setting into motion a terrifying series of events that 
- will reveal dark secrets about the real origin of Freddy's\, and unleash 
- a decades-hidden horror.
-DTEND;VALUE=DATE:20260217
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260216
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Five Nights at Freddy's 2 (Physical Release)
-UID:Radarr_movie_9881_physical
+SUMMARY:The SpongeBob Movie: Search for SquarePants (Physical Release)
+UID:Radarr_movie_12301_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:23ten
@@ -609,7 +285,7 @@ DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
   her for survival and the battles to come. But when the world is about to
   break\, no place is safe.
 DTEND;VALUE=DATE:20251031
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20251030
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -624,12 +300,27 @@ DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
   her for survival and the battles to come. But when the world is about to
   break\, no place is safe.
 DTEND;VALUE=DATE:20260308
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260307
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Worldbreaker (Digital Release)
 UID:Radarr_movie_12395_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:23ten
+DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
+ ures to our world from an alternate dimension bent on our destruction. A 
+ father hides his daughter on an island to keep her safe while he prepares
+  her for survival and the battles to come. But when the world is about to
+  break\, no place is safe.
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260319
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Worldbreaker (Physical Release)
+UID:Radarr_movie_12395_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fully Formed Entertainment
@@ -638,7 +329,7 @@ DESCRIPTION:A group of friends facing mid-life crises head to the rainfore
   only to find themselves in a fight for their lives against natural disas
  ters\, giant snakes and violent criminals.
 DTEND;VALUE=DATE:20251225
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20251224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -652,7 +343,7 @@ DESCRIPTION:A group of friends facing mid-life crises head to the rainfore
   only to find themselves in a fight for their lives against natural disas
  ters\, giant snakes and violent criminals.
 DTEND;VALUE=DATE:20260128
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -666,38 +357,12 @@ DESCRIPTION:A group of friends facing mid-life crises head to the rainfore
   only to find themselves in a fight for their lives against natural disas
  ters\, giant snakes and violent criminals.
 DTEND;VALUE=DATE:20260318
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260317
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Anaconda (Physical Release)
 UID:Radarr_movie_12396_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Bear Pictures
-DESCRIPTION:A man living in self-imposed exile on a remote island rescues 
- a young girl from a violent storm\, setting off a chain of events that fo
- rces him out of seclusion to protect her from enemies tied to his past.
-DTEND;VALUE=DATE:20260129
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260128
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Shelter (Theatrical Release)
-UID:Radarr_movie_12401_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Bear Pictures
-DESCRIPTION:A man living in self-imposed exile on a remote island rescues 
- a young girl from a violent storm\, setting off a chain of events that fo
- rces him out of seclusion to protect her from enemies tied to his past.
-DTEND;VALUE=DATE:20260225
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260224
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Shelter (Digital Release)
-UID:Radarr_movie_12401_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:First Love Films
@@ -706,105 +371,26 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Bride! (Theatrical Release)
 UID:Radarr_movie_12402_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Pixar
-DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
- to lifelike robotic animals\, allowing people to communicate with animals
-  as animals. Animal lover Mabel seizes an opportunity to use the technolo
- gy\, uncovering mysteries within the animal world that are beyond anythin
- g she could have imagined.
-DTEND;VALUE=DATE:20260305
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260304
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Hoppers (Theatrical Release)
-UID:Radarr_movie_12418_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Recorded Picture Company
-DESCRIPTION:19-year-old criminal Tommy is kidnapped and forced into a reha
- bilitation process by dysfunctional couple Chris and Kathryn\, who try to
-  make him a 'good boy'. Tommy must find a way to escape.
-DTEND;VALUE=DATE:20260307
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260306
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Good Boy (Theatrical Release)
-UID:Radarr_movie_12421_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Recorded Picture Company
-DESCRIPTION:19-year-old criminal Tommy is kidnapped and forced into a reha
- bilitation process by dysfunctional couple Chris and Kathryn\, who try to
-  make him a 'good boy'. Tommy must find a way to escape.
-DTEND;VALUE=DATE:20260307
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260306
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Good Boy (Digital Release)
-UID:Radarr_movie_12421_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spooky Pictures
-DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
- ater polo camp\, his anxiety spiraling into psychological turmoil over th
- e summer.
-DTEND;VALUE=DATE:20260103
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260102
+CATEGORIES:First Love Films
+DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
+ eaking scientist Dr. Euphronious to create a companion for him. The two r
+ evive a murdered young woman and The Bride is born. But what ensues is be
+ yond what either of them imagined.
+DTEND;VALUE=DATE:20260408
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260407
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Plague (Theatrical Release)
-UID:Radarr_movie_12425_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spooky Pictures
-DESCRIPTION:A socially awkward tween endures the ruthless hierarchy at a w
- ater polo camp\, his anxiety spiraling into psychological turmoil over th
- e summer.
-DTEND;VALUE=DATE:20260224
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260223
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Plague (Digital Release)
-UID:Radarr_movie_12425_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Hidden Pictures
-DESCRIPTION:On one last grueling mission during Army Ranger training\, a c
- ombat engineer must lead his unit in a fight against a giant otherworldly
-  killing machine.
-DTEND;VALUE=DATE:20260213
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260212
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:War Machine (Theatrical Release)
-UID:Radarr_movie_12428_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Hidden Pictures
-DESCRIPTION:On one last grueling mission during Army Ranger training\, a c
- ombat engineer must lead his unit in a fight against a giant otherworldly
-  killing machine.
-DTEND;VALUE=DATE:20260307
-DTSTAMP:20260223T030502Z
-DTSTART;VALUE=DATE:20260306
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:War Machine (Digital Release)
-UID:Radarr_movie_12428_digital
+SUMMARY:The Bride! (Digital Release)
+UID:Radarr_movie_12402_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Konami
@@ -813,7 +399,7 @@ DESCRIPTION:When James receives a mysterious letter from his lost love Mar
  ess. As he searches for her\, James faces monstrous creatures and unravel
  s a terrifying truth that will push him to the edge of his sanity.
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -827,11 +413,109 @@ DESCRIPTION:When James receives a mysterious letter from his lost love Mar
  ess. As he searches for her\, James faces monstrous creatures and unravel
  s a terrifying truth that will push him to the edge of his sanity.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Return to Silent Hill (Digital Release)
 UID:Radarr_movie_11085_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Konami
+DESCRIPTION:When James receives a mysterious letter from his lost love Mar
+ y\, he is drawn to Silent Hillâa once-familiar town now consumed by darkn
+ ess. As he searches for her\, James faces monstrous creatures and unravel
+ s a terrifying truth that will push him to the edge of his sanity.
+DTEND;VALUE=DATE:20260318
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260317
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Return to Silent Hill (Physical Release)
+UID:Radarr_movie_11085_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bazmark
+DESCRIPTION:Long-lost footage from Elvis Presely's legendary Las Vegas res
+ idency in the 1970s woven together with rare 16mm footage from Elvis on T
+ our\, and 8mm from the Graceland archive\, plus recordings of Elvis telli
+ ng "his side of the story" rediscovered during Baz Luhrmann's research fo
+ r his 2022 film\, Elvis.
+DTEND;VALUE=DATE:20260220
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260219
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:EPiC: Elvis Presley in Concert (Theatrical Release)
+UID:Radarr_movie_12508_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Bazmark
+DESCRIPTION:Long-lost footage from Elvis Presely's legendary Las Vegas res
+ idency in the 1970s woven together with rare 16mm footage from Elvis on T
+ our\, and 8mm from the Graceland archive\, plus recordings of Elvis telli
+ ng "his side of the story" rediscovered during Baz Luhrmann's research fo
+ r his 2022 film\, Elvis.
+DTEND;VALUE=DATE:20260408
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260407
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:EPiC: Elvis Presley in Concert (Digital Release)
+UID:Radarr_movie_12508_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sandbox Films
+DESCRIPTION:Based on Robert Macfarlaneâs bestseller\, UNDERLAND is a cinem
+ atic voyage beneath the surface of the earth.
+DTEND;VALUE=DATE:20260328
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260327
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Underland (Theatrical Release)
+UID:Radarr_movie_12524_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC Film
+DESCRIPTION:After his estranged son gets embroiled in a Nazi plot\, self-e
+ xiled gangster Tommy Shelby must return to Birmingham to save his family 
+ â and his nation.
+DTEND;VALUE=DATE:20260306
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260305
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peaky Blinders: The Immortal Man (Theatrical Release)
+UID:Radarr_movie_12526_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC Film
+DESCRIPTION:After his estranged son gets embroiled in a Nazi plot\, self-e
+ xiled gangster Tommy Shelby must return to Birmingham to save his family 
+ â and his nation.
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260319
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peaky Blinders: The Immortal Man (Digital Release)
+UID:Radarr_movie_12526_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Searchlight Pictures
+DESCRIPTION:Moments after surviving an all-out attack from the Le Domas fa
+ mily\, Grace discovers sheâs reached the next level of the nightmarish ga
+ me â and this time with her estranged sister Faith at her side. Grace has
+  one chance to survive\, keep her sister alive\, and claim the High Seat 
+ of the Council that controls the world. Four rival families are hunting h
+ er for the throne\, and whoever wins rules it all.
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20260318T201557Z
+DTSTART;VALUE=DATE:20260319
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ready or Not: Here I Come (Theatrical Release)
+UID:Radarr_movie_10821_cinemas
 END:VEVENT
 END:VCALENDAR
