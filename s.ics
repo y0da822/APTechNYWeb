@@ -4,1171 +4,135 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Marge's crusade to get the family dog in better shape leads to
-  her entering Santa's Little Helper in canine agility competitions and a 
- trip to the National Dog Show in Philadelphia. There\, Marge and Homer su
- ddenly find themselves â and the dog â mixed up in a historical conspirac
- y adventure worthy of a "National Treasure" movie.
-DTEND:20260216T012400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260216T010000Z
+CATEGORIES:Netflix
+DESCRIPTION:The pods may be closed\, but the story is far from over. At th
+ e Love Is Blind Season 10 reunion\, the Ohio pod squad reunited to unpack
+  everything thatâs happened since the experiment ended â from altar decis
+ ions that didnât go according to plan to relationships that unraveled aft
+ er cameras stopped rolling.
+DTEND:20260311T080100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260311T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Simpsons - 37x14 - Irrational Treasure
-UID:NzbDrone_episode_70677
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Homer strikes up an unlikely friendship with Kirk Van Houten\,
-  which leads to them launching a hugely successful business venture toget
- her - a "crumbless" cracker that sweeps the nation. But when Kirk's darke
- st secrets are revealed\, Homer has to choose between his family and his 
- fortune... and may just end up going in jail.
-DTEND:20260216T014800Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260216T012400Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Simpsons - 37x15 - Homer? A Cracker Bro?
-UID:NzbDrone_episode_70678
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:For the first time in the show's history\, Lois and Stewie fin
- ally understand each other -- thanks to Brian's edibles -- and explore an
- d try to explain their complicated relationship.
-DTEND:20260216T025200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260216T023000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Family Guy - 24x01 - The Edible Arrangement
-UID:NzbDrone_episode_70630
+SUMMARY:Love is Blind - 10x13 - Reunion
+UID:NzbDrone_episode_72998
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
-DESCRIPTION:Harper and Lucy go undercover in Baja while investigating the 
- murder of two young women. Back in LA\, Bradford and the FBI task force a
- ssist in the investigation\, while Nolan and Bailey navigate their long-d
- istance relationship.
-DTEND:20260217T034400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260217T030000Z
+DESCRIPTION:To relive their glory days\, J.D. plans a poker night with Tur
+ k. Elsewhere\, competition brews between the medical and surgical interns
+ \, while Elliot decides how to handle a social media-obsessed patient.
+DTEND:20260312T002100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260312T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Rookie - 8x07 - Baja
-UID:NzbDrone_episode_72532
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Back home in Ohio\, the couples hope to impress their future i
- n-laws. From man caves to messy bedrooms\, the hard work of living togeth
- er begins.
-DTEND:20260218T090100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Love is Blind - 10x07 - Moving In and Unpacking Baggage
-UID:NzbDrone_episode_72806
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x01 - TBA
-UID:NzbDrone_episode_72943
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x02 - TBA
-UID:NzbDrone_episode_72944
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x03 - TBA
-UID:NzbDrone_episode_72945
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x04 - TBA
-UID:NzbDrone_episode_72946
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x05 - TBA
-UID:NzbDrone_episode_72947
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x06 - TBA
-UID:NzbDrone_episode_72948
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x07 - TBA
-UID:NzbDrone_episode_72949
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x08 - TBA
-UID:NzbDrone_episode_72950
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x09 - TBA
-UID:NzbDrone_episode_72951
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x10 - TBA
-UID:NzbDrone_episode_72952
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x11 - TBA
-UID:NzbDrone_episode_72953
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x12 - TBA
-UID:NzbDrone_episode_72954
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x13 - TBA
-UID:NzbDrone_episode_72955
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x14 - TBA
-UID:NzbDrone_episode_72956
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x15 - TBA
-UID:NzbDrone_episode_72957
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x16 - TBA
-UID:NzbDrone_episode_72958
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x17 - TBA
-UID:NzbDrone_episode_72959
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x18 - TBA
-UID:NzbDrone_episode_72960
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x19 - TBA
-UID:NzbDrone_episode_72961
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x20 - TBA
-UID:NzbDrone_episode_72962
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x21 - TBA
-UID:NzbDrone_episode_72963
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x22 - TBA
-UID:NzbDrone_episode_72964
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x23 - TBA
-UID:NzbDrone_episode_72965
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x24 - TBA
-UID:NzbDrone_episode_72966
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x25 - TBA
-UID:NzbDrone_episode_72967
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x26 - TBA
-UID:NzbDrone_episode_72968
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x27 - TBA
-UID:NzbDrone_episode_72969
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x28 - TBA
-UID:NzbDrone_episode_72970
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x29 - TBA
-UID:NzbDrone_episode_72971
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RaiPlay
-DTEND:20260218T080700Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Mare fuori #confessioni - 20x30 - TBA
-UID:NzbDrone_episode_72972
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:As reality sets in\, the honeymoon phase wanes for several cou
- ples. Nitpicking over chores and candid talks about family planning lead 
- to harsh truths.
-DTEND:20260218T100200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T090100Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Love is Blind - 10x08 - A Snake in the Grass
-UID:NzbDrone_episode_72807
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:A stunning reversal leaves one woman speechless and heartbroke
- n. Tensions flare when an ex shows their true colors during a group gathe
- ring.
-DTEND:20260218T110300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260218T100200Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Love is Blind - 10x09 - Iâm Just Being Honest
-UID:NzbDrone_episode_72808
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:A deadly attack ignites a crisis within the White House. In Is
- tanbul\, Peter pursues a fugitive who's stolen classified files.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x01 - Call Waiting
-UID:NzbDrone_episode_70751
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Peter considers a deal with the devil. Isabel follows a suspic
- ious document trail down the rabbit hole. Night Action gets a harsh lesso
- n in compliance.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x02 - Package Deal
-UID:NzbDrone_episode_72544
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Peter brings POTUS up to speed after a sting operation. A leth
- al cat-and-mouse game unfolds at the home of a reluctant source.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x03 - Dark Matters
-UID:NzbDrone_episode_72545
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Peter's visit to an exclusive hunting lodge turns into a fight
-  for survival. Chelsea's concerns grow when a White House statement doesn
- 't add up.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x04 - Orion
-UID:NzbDrone_episode_72546
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Every second counts as Peter and Adam infiltrate a casino on a
-  high-stakes mission. Jay finds clues to the next strike hidden in a cryp
- to wallet.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x05 - The Isolation Play
-UID:NzbDrone_episode_72547
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Chelsea's off-the-books probe worries her closest ally. Peter 
- and Isabel's rescue plan spirals out of control when the Father joins the
-  fray.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x06 - Murky Waters
-UID:NzbDrone_episode_72548
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:An American legal consultant in Mexico finds himself caught in
-  an impossible bind. Years later\, he's trapped once again â and Peter is
-  his only hope.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x07 - Once Upon a Time...
-UID:NzbDrone_episode_72549
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:An enigmatic opponent pushes Peter to his limits in a ruthless
-  mind game. Jacob uses his vast database of secrets as a bargaining chip.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x08 - Truth Be Told
-UID:NzbDrone_episode_72550
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:With his Cabinet urging swift retaliation\, POTUS weighs his o
- ptions. Isabel and Jay scramble to crack Jacob's code. Peter's day takes 
- an explosive turn.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x09 - Lockstep
-UID:NzbDrone_episode_72551
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:On their own\, on the run and out of time\, Peter and Isabel p
- ut their lives on the line to expose the conspiracy â before it silences 
- them for good.
-DTEND:20260219T085100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260219T080000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Night Agent - 3x10 - Razzmatazz
-UID:NzbDrone_episode_72552
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO Max
-DESCRIPTION:While Dana tends to a sexual assault victim\, Abbot helps an o
- fficer injured in the field\, and Mohan attempts to keep her uninsured pa
- tient in the ER.
-DTEND:20260220T024800Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260220T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Pitt - 2x07 - 1:00 P.M.
-UID:NzbDrone_episode_71336
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Meg discovers the seasonal delight that is the pumpkin spice l
- atte\, but when the limited time offering lapses\, she and Lois concoct a
- n elaborate heist to steal the formula.
-DTEND:20260223T025200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260223T023000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x02 - Pumpkin Spice Girls
-UID:NzbDrone_episode_70661
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Peter and the guys become shipwrecked at Fire Island\; Chris a
- nd Brian perform a lobotomy on a social-media-crazed Stewie.
-DTEND:20260223T031400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260223T025200Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x03 - Man-Fest Destiny
-UID:NzbDrone_episode_70662
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:After an undercover investigation goes sideways\, the team tri
- es to flip their only witness to help them hunt down a rip crew at a cart
- el wedding. Scola and Nina make a big life decision.
-DTEND:20260224T024200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260224T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:FBI - 8x11 - Confetti
-UID:NzbDrone_episode_70671
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Nolan and Garza lead a high-stakes operation that quickly goes
-  south. Lucy and Tim navigate their relationship when an unexpected visit
- or shows up. Meanwhile\, the team conducts a citywide search for a suspec
- t.
-DTEND:20260224T034400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260224T030000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Rookie - 8x08 - Grand Theft Aircraft
-UID:NzbDrone_episode_72533
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DTEND:20260225T090100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260225T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Love is Blind - 10x10 - Episode 10
-UID:NzbDrone_episode_72809
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DTEND:20260225T100200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260225T090100Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Love is Blind - 10x11 - Episode 11
-UID:NzbDrone_episode_72810
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DTEND:20260226T090200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260226T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Bridgerton - 4x05 - Yes or No
-UID:NzbDrone_episode_69787
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DTEND:20260226T090200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260226T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Bridgerton - 4x06 - The Passing Winter
-UID:NzbDrone_episode_69788
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DTEND:20260226T090200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260226T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Bridgerton - 4x07 - The Beyond
-UID:NzbDrone_episode_69789
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DTEND:20260226T090200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260226T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Bridgerton - 4x08 - Dance in the Country
-UID:NzbDrone_episode_69790
+SUMMARY:Scrubs (2026) - 1x04 - My Poker Face
+UID:NzbDrone_episode_73016
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
-DESCRIPTION:Walker revisits his undercover identity to get details on a ga
- ng-related murder. Saddled with a weak case\, Baxter and Price weigh the 
- consequences of ruining another department's investigation to get their c
- onviction.
-DTEND:20260227T014500Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260227T010000Z
+DESCRIPTION:Archer and Lenox treat two friends who were injured in St. Pat
+ rick's Day festivities. Hannah and Ripley treat a woman in the middle of 
+ a messy divorce. Frost manages a visit.
+DTEND:20260312T004400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260312T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Law & Order - 25x13 - New Normal
-UID:NzbDrone_episode_71265
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:When a medical examiner becomes entangled in a dangerous situa
- tion during an autopsy\, the 118 is called in to assist. Meanwhile\, the 
- 118 hosts an LAFD charity bachelor auction.
-DTEND:20260227T014300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260227T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:9-1-1 - 9x11 - Going Once\, Going Twice
-UID:NzbDrone_episode_71864
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Teddy and Winston clash over a case\, while Owen and Jules tre
- at a urologist. Lucas struggles with prioritizing patients.
-DTEND:20260227T024300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260227T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Grey's Anatomy - 22x11 - (If You Want It) Do It Yourself
-UID:NzbDrone_episode_71105
+STATUS:CONFIRMED
+SUMMARY:Chicago Med - 11x14 - Twist & Shout
+UID:NzbDrone_episode_73520
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
-DESCRIPTION:An attempt on a respected judge's life is connected to an anon
- ymous video posted to the SVU tip line. Rollins tries to help a victim co
- me to terms with their abuse.
-DTEND:20260227T024400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260227T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Law & Order: Special Victims Unit - 27x13 - Corrosive
-UID:NzbDrone_episode_71270
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO Max
-DTEND:20260227T024800Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260227T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Pitt - 2x08 - 2:00 P.M.
-UID:NzbDrone_episode_71337
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Flashbacks reveal how a devastating house fire reshaped Donâs 
- life\, along with how he later met Dixie and Blythe. Meanwhile\, the 113 
- responds to a cyclist pinned against a tree after being hit by a car.
-DTEND:20260227T024300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260227T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:9-1-1: Nashville - 1x11 - Don Begins
-UID:NzbDrone_episode_71885
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:As a massive wildfire pushes station 49 to their limits\, toug
- h calls on the front lines spark even tougher questions back at headquart
- ers.
-DTEND:20260228T024300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260228T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Fire Country - 4x10 - On the Carpet
-UID:NzbDrone_episode_70681
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:Injured and framed for a string of murders\, Colter\, cut off 
- from Reenie and Randy\, must rely on unexpected ally Billie to stop a rel
- entless assassin\, uncovering a murky truth where justice and vengeance b
- lur.
-DTEND:20260302T014200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260302T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Tracker (2024) - 3x10 - The Fallout
-UID:NzbDrone_episode_70674
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Meg pursues an unlikely friendship with an NFL great\; Stewie 
- and Brian host a dinner party at a home furnishing store.
-DTEND:20260302T025200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260302T023000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x04 - Bringing Up Brady
-UID:NzbDrone_episode_70663
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Peter calls out the name "Francis" while making love with Lois
- \, but she believes he meant his deceased father\, leading to a round of 
- therapy. Things worsen when Lois discovers "Frances" is the name of the C
- lam's new\, pretty waitress.
-DTEND:20260302T031400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260302T025200Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x05 - Dear Francis
-UID:NzbDrone_episode_72812
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:When a federal whistleblower is murdered while in FBI custody 
- along with two agents\, the team is stunned to find a familiar perpetrato
- r has resurfaced. Meanwhile\, OA wrestles with telling the team what is h
- appening in his personal life.
-DTEND:20260303T024200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260303T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:FBI - 8x12 - Daybreak
-UID:NzbDrone_episode_71139
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:On her first NCIS: Elite mission\, Knight is given orders to h
- unt down and arrest Eleanor Bishop after the former member of the NCIS te
- am is designated a wanted cyber-terrorist. In need of someone to trust\, 
- Bishop turns to Torres\, and the two come face to face for the first time
-  since she abruptly left nearly five years ago.
-DTEND:20260304T014500Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260304T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:NCIS - 23x10 - Her
-UID:NzbDrone_episode_70673
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:As the team discovers Gibbsâ drunken Vegas elopement with Dian
- e\, the newlyweds contemplate their future. Also\, the team investigates 
- a fatal movie theater bombing with a connection to the Pruitt compound wh
- ere Mason is staying.
-DTEND:20260304T024300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260304T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:NCIS: Origins - 2x09 - Fools Rush In
-UID:NzbDrone_episode_70667
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:The team investigates a late-night luxury car heist turned dea
- dly\, uncovering a complex web of details and multiple perpetrators. Mean
- while\, Morgan has mixed feelings when Ava begins focusing on her future.
-DTEND:20260304T024400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260304T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:High Potential - 2x13 - In the Driver's Seat
-UID:NzbDrone_episode_70707
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:The team races to an Antarctica research base to investigate w
- hy a climate scientist killed a colleague on Polar Night Eve â and make i
- t out before their plane engine freezes and theyâre trapped in darkness f
- or six months.
-DTEND:20260304T034200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260304T030000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:NCIS: Sydney - 3x09 - South of Nowhere
-UID:NzbDrone_episode_68129
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Nolan encounters a familiar face when he and Celina are dispat
- ched to a robbery\; Harper and Miles feel the weight of their recent mist
- akes as he undergoes training.
-DTEND:20260304T034400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260304T030000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Rookie - 8x09 - Fun and Games
-UID:NzbDrone_episode_72534
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DTEND:20260304T090100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260304T080000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Love is Blind - 10x12 - Episode 12
-UID:NzbDrone_episode_72811
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Firehouse 51 is called to an airfield when a passenger jet sud
- denly goes silent mid-air\, triggering a high-stakes emergency. Their dis
- covery cracks open a bigger and deadlier mystery - one with consequences 
- that could put countless lives in jeopardy.\n\nThe crossover continues on
-  Chicago Med S11E13 Reckoning (II) and Chicago P.D. S13E13 Reckoning (III
- ).
-DTEND:20260305T024200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260305T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Chicago Fire - 14x13 - Reckoning (I)
-UID:NzbDrone_episode_71266
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:An airfield emergency triggers a deeper mystery involving a pa
- ssenger plane\, propelling the Intelligence Unit into a high-stakes pursu
- it of the culprit\, all under the sharp eye of the FBI.\n\nThe crossover 
- begins on Chicago Fire S14E13 Reckoning (I) and Chicago Med S11E13 Reckon
- ing (II).
-DTEND:20260305T034100Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260305T030000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Chicago P.D. - 13x13 - Reckoning (III)
-UID:NzbDrone_episode_70779
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Fawn Weaver\, founder of a premium whiskeys company\, is a gue
- st shark.
-DTEND:20260305T034400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260305T030000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Shark Tank - 17x12 - New Guest Shark
-UID:NzbDrone_episode_72858
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DTEND:20260306T014300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260306T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:9-1-1 - 9x12 - Dads and Cads
-UID:NzbDrone_episode_71865
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:The 2-7 arrests an unlikely suspect when a popular wellness pe
- rsonality is murdered. Price and Maroun must determine if revealing the v
- ictim's past will help or hurt their case.
-DTEND:20260306T014500Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260306T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Law & Order - 25x14 - Remedies
-UID:NzbDrone_episode_72814
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Tensions rise as Teddy and Winston take on a complex procedure
- \, while Kavita and Ben try and impress the new plastics attending. Jo an
- d Link leave the babies with a nanny for the first time.
-DTEND:20260306T024300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260306T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Grey's Anatomy - 22x12 - Get Lucky
-UID:NzbDrone_episode_71106
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO Max
-DTEND:20260306T024800Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260306T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Pitt - 2x09 - 3:00 P.M.
-UID:NzbDrone_episode_71338
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DTEND:20260306T024300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260306T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:9-1-1: Nashville - 1x12 - Spirit of the Games
-UID:NzbDrone_episode_71886
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:A family discovers a young boy in grave danger when their baby
-  monitor picks up a rogue frequency\; Griffin goes to extremes to find th
- e boy's location\; Rollins finds herself alone with a predator.
-DTEND:20260306T024400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260306T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Law & Order: Special Victims Unit - 27x14 - Frequency
-UID:NzbDrone_episode_72799
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Citytv
-DTEND:20260306T034300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260306T030000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Law & Order Toronto: Criminal Intent - 3x01 - TBA
-UID:NzbDrone_episode_71104
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:As Bode fights to prove himself during the high-stakes REMs tr
- youts\, a shocking leak about the Zabel Ridge arsonist ignites turmoil ac
- ross Edgewater.
-DTEND:20260307T024300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260307T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Fire Country - 4x11 - Elite of the Elite
-UID:NzbDrone_episode_71263
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:When an 18-year-old goes missing from his familyâs restaurant\
- , Colter uncovers the teenâs underground fake ID business and the secret 
- life heâs been hiding from his parents.
-DTEND:20260309T004200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260309T000000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Tracker (2024) - 3x11 - To the Bone
-UID:NzbDrone_episode_70758
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:In this follow up to the "Viewer Mail" episodes\, the Griffin 
- family retells The Lord of the Rings\, explains how the Griffins' ancesto
- rs arrived in Quahog\, and looks back at Quagmire's 1960s variety show.
-DTEND:20260309T015200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260309T013000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x06 - Viewer DMs
-UID:NzbDrone_episode_72825
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Brian discovers his nose can detect diseases and smells that s
- omeone in the Griffin house has cancer.
-DTEND:20260309T021400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260309T015200Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x07 - Scent of a Woman
-UID:NzbDrone_episode_72826
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:After the son of a professional basketball team owner is taken
-  for ransom\, Jubal and the team race to catch the kidnappers. Soon\, the
- y discover the perpetrators have been planning a larger revenge plot that
-  they must act quickly to stop.
-DTEND:20260310T014200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260310T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:FBI - 8x13 - Fanatics
-UID:NzbDrone_episode_71140
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DTEND:20260311T004500Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260311T000000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:NCIS - 23x11 - Army of One
-UID:NzbDrone_episode_71143
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DTEND:20260311T014300Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260311T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:NCIS: Origins - 2x10 - Lean on Me
-UID:NzbDrone_episode_70755
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DTEND:20260311T014400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260311T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:High Potential - 2x14 - If You Come for the Queen...
-UID:NzbDrone_episode_71141
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DTEND:20260311T024200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260311T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:NCIS: Sydney - 3x10 - Van Life
-UID:NzbDrone_episode_68130
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:TBA
-DTEND:20260311T024400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260311T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Rookie - 8x10 - His Name Was Martin
-UID:NzbDrone_episode_72535
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
+DESCRIPTION:Severide is on high alert to track down a reckless driver who 
+ puts one of their own in harm's way. A member of Firehouse 51 struggles w
+ ith a potentially life-changing decision.
 DTEND:20260312T014200Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260312T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Chicago Fire - 14x14 - TBA
+STATUS:CONFIRMED
+SUMMARY:Chicago Fire - 14x14 - Hit and Run
 UID:NzbDrone_episode_71356
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:Burgess takes a rookie officer under her wing as the team inve
+ stigates a volatile drug case.
 DTEND:20260312T024100Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260312T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Chicago P.D. - 13x14 - TBA
+STATUS:CONFIRMED
+SUMMARY:Chicago P.D. - 13x14 - Meant to Be
 UID:NzbDrone_episode_71357
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
-DESCRIPTION:No overview available.
-DTEND:20260313T004300Z
-DTSTAMP:20260223T030502Z
+DESCRIPTION:A low-sugar\, aloe vera-based soda\, a grocery store without p
+ ackaging\, reclaimed golf balls\, and tangle-free hair ties. Allison Ells
+ worth returns as a guest shark.
+DTEND:20260312T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260312T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shark Tank - 17x13 - Pop or Fizzle?
+UID:NzbDrone_episode_72987
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:A fashion designer is murdered with a stolen gun. With only ci
+ rcumstantial evidence supporting the case\, Price and Maroun must expose 
+ a witness' private life to get a conviction.
+DTEND:20260313T004500Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260313T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:9-1-1 - 9x13 - Mother's Boy
-UID:NzbDrone_episode_71976
+STATUS:CONFIRMED
+SUMMARY:Law & Order - 25x15 - Bright Lights
+UID:NzbDrone_episode_72986
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:Richard tackles a shocking case on his first day back\, while 
+ Kavita and Jules prepare for a high-stakes presentation. Bailey must have
+  a difficult conversation with a beloved patient\, and Jo works to baby-p
+ roof the loft.
 DTEND:20260313T014300Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260313T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Grey's Anatomy - 22x13 - Love the Way You Lie
 UID:NzbDrone_episode_71107
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
+DESCRIPTION:After an incident at a nearby water park\, several critical pa
+ tients are rushed to the Pitt. Later\, Al-Hashimi confronts Robby.
 DTEND:20260313T014800Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260313T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Pitt - 2x10 - 4:00 P.M.
 UID:NzbDrone_episode_71339
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:After saving a father and daughter from a cliffside crash\, Ta
+ ylor lands an invite to record with a Nashville idol\, which leads her to
+  consider how far she'll go for fame. Meanwhile\, Blue and Taylor go publ
+ ic with their relationship.
 DTEND:20260313T014300Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260313T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:9-1-1: Nashville - 1x13 - Hard Knox
+STATUS:CONFIRMED
+SUMMARY:9-1-1: Nashville - 1x13 - Small Potatoes
 UID:NzbDrone_episode_71887
 END:VEVENT
 BEGIN:VEVENT
@@ -1177,12 +141,24 @@ DESCRIPTION:Reports of an assault by a guest at a fan convention leads to
  a murder investigation. Tynan presents Capt. Curry with a career opportun
  ity.
 DTEND:20260313T014400Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260313T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Law & Order: Special Victims Unit - 27x15 - Thirsty
 UID:NzbDrone_episode_72800
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Citytv
+DESCRIPTION:When a body is found hanging in a tree\, Graff and Bateman are
+  called to investigate the death of a reclusive math tutor.
+DTEND:20260313T024300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260313T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Law & Order Toronto: Criminal Intent - 3x02 - WAGMI
+UID:NzbDrone_episode_73024
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
@@ -1190,121 +166,236 @@ DESCRIPTION:As Station 42 battles through a relentless shift\, the unexpec
  ted return of Battalion Chief Brett Richards throws the crew off balance 
  and forces Manny to confront his growing self-doubt.
 DTEND:20260314T014300Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260314T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Fire Country - 4x12 - Life of a Firefighter
 UID:NzbDrone_episode_71314
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:The Clyburns uproot their lives to the wilds of Montana.
+DTEND:20260314T075400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260314T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Madison - 1x01 - Pilot
+UID:NzbDrone_episode_73525
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:A neighbor's kindness guides Stacy towards a bold choice.
+DTEND:20260314T084800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260314T075400Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Madison - 1x02 - Let the Land Hold Me
+UID:NzbDrone_episode_73526
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Stacy confronts Abigail about her future\, triggering a roadsi
+ de reckoning.
+DTEND:20260314T094200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260314T084800Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Madison - 1x03 - Watch Her Fall
+UID:NzbDrone_episode_73527
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:When a doctor vanishes after her shift\, Colter uncovers a tra
  il of stolen drugs and disguises revealing a calculated revenge plot.
 DTEND:20260316T004200Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260316T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Tracker (2024) - 3x12 - Do No Harm
 UID:NzbDrone_episode_71346
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
-DTEND:20260316T015200Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260316T013000Z
+DESCRIPTION:In this three-act parody\, the Griffins spoof the stage by put
+ ting up To Kill a Mockingbird\, The Odd Couple and Hamlet.
+DTEND:20260316T002200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260316T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Family Guy - 24x08 - Play Time
 UID:NzbDrone_episode_72827
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
-DTEND:20260316T021400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260316T015200Z
+DESCRIPTION:After going on a date with a Cuban-American woman named Carmen
+ \, Brian inexplicably develops a Cuban accent - which he worries will hur
+ t his chances with her.
+DTEND:20260316T004400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260316T002200Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Family Guy - 24x09 - Phony Montana
 UID:NzbDrone_episode_72828
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:After Maggie's sister\, Erin\, goes missing\, the team begins 
+ an all-out search to recover her. But when Maggie discovers Erin was kidn
+ apped by a sinister figure from her past\, she must race to save her befo
+ re it's too late.
+DTEND:20260317T014200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260317T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FBI - 8x14 - Forgiven
+UID:NzbDrone_episode_72994
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Lucy returns to work in the aftermath of the attack. Meanwhile
+ \, an unexpected twist hinders the Liam Glasser case\, and a familiar fac
+ e helps the team track down a killer.
+DTEND:20260317T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260317T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Rookie - 8x11 - Aftermath
+UID:NzbDrone_episode_72536
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:A murdered drone pilot leads the team to a missing woman from 
+ McGeeâs past and a relationship he thought was long behind him. But as th
+ e case deepens\, McGee realizes her reappearance could unravel more than 
+ an investigation\, it could change the course of his life.
 DTEND:20260318T004500Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260318T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:NCIS - 23x12 - In Too Deep
 UID:NzbDrone_episode_71874
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
-DESCRIPTION:The Fed Five reunites.
+DESCRIPTION:When a lieutenantâs water-logged body is discovered with a pot
+ ential connection to an international smuggling ring\, NIS Panama agents 
+ are called in to assist\, and Gibbs comes face-to-face with an old nemesi
+ s: Special Agent Dwayne Pride. Once the two are assigned to a dangerous u
+ ndercover mission together\, Gibbs must find a way to move on from their 
+ past.
 DTEND:20260318T014300Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260318T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:NCIS: Origins - 2x11 - Feelin' Alright
 UID:NzbDrone_episode_70756
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:When a renowned retired astronaut is murdered in plain sight\,
+  Morgan and the team uncover some of his mysterious entanglements. Soto t
+ ravels to New York City to meet a high-profile political fixer connected 
+ to Romanâs disappearance.
 DTEND:20260318T014400Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260318T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:High Potential - 2x15 - ...Best Not Miss
+STATUS:CONFIRMED
+SUMMARY:High Potential - 2x15 - Pie in the Sky
 UID:NzbDrone_episode_71142
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:TBA
-DTEND:20260318T024400Z
-DTSTAMP:20260223T030502Z
-DTSTART:20260318T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Rookie - 8x11 - TBA
-UID:NzbDrone_episode_72536
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Paramount+
+DESCRIPTION:The team investigates the suspicious death of a U.S. Naval off
+ icer whoâd just learned he was going to be a father\, leading to the disc
+ overy of a scandalous secret.
 DTEND:20260318T024200Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260318T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:NCIS: Sydney - 3x11 - Berthed
 UID:NzbDrone_episode_72975
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:J.D. ventures into the world of post-divorce dating with Turkâ
+ s guidance. Elliot gets creative when sourcing an organ for a beloved eld
+ erly patient\, while the interns learn about the unspoken rules of the ho
+ spital.
+DTEND:20260319T002100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260319T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 1x05 - My Angel
+UID:NzbDrone_episode_73017
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:Archer confronts his own mortality while on a complex case. On
+ e patient's quirky habit baffles Charles and Theo. A fatal diagnosis shoc
+ ks one of the doctors at Gaffney.
+DTEND:20260319T004400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260319T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Chicago Med - 11x15 - The Cost of Living
+UID:NzbDrone_episode_73521
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:A car crash puzzles Kidd and Vasquez. Herrmann gets his chance
+  in the spotlight. Violet and Novak deal with a moral dilemma.
 DTEND:20260319T014200Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260319T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Chicago Fire - 14x15 - TBA
+SUMMARY:Chicago Fire - 14x15 - Do Not Resuscitate
 UID:NzbDrone_episode_72553
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:Ruzek grows suspicious when a DEA agent contacts him for detai
+ ls surrounding a missing informant.
 DTEND:20260319T024100Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260319T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Chicago P.D. - 13x15 - TBA
+SUMMARY:Chicago P.D. - 13x15 - Live or Die By Your CI
 UID:NzbDrone_episode_72822
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Beer without the bloat\, a snoring-prevention straw\, mushroom
+ -based earplugs\, and a line of expressive press-on nails. Fawn Weaver re
+ turns as a guest shark.
+DTEND:20260319T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260319T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Shark Tank - 17x14 - Girl Power
+UID:NzbDrone_episode_73000
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
 DTEND:20260320T014800Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260320T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1313,12 +404,768 @@ UID:NzbDrone_episode_71340
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:Blythe scrambles to save her gala after the performer bails\, 
+ leaving Dixie to step in. Meanwhile\, Ryan and Samantha rescue a woman pu
+ shed off a cliff\, and Dixie makes a surprising admission.
 DTEND:20260320T014300Z
-DTSTAMP:20260223T030502Z
+DTSTAMP:20260318T201557Z
 DTSTART:20260320T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:9-1-1: Nashville - 1x14 - Small Potatoes
+SUMMARY:9-1-1: Nashville - 1x14 - Hard Knox
 UID:NzbDrone_episode_71888
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:A couple lands in the hospital with life-altering injuries aft
+ er a wrecking ball destroys their home. Lucas and Simone struggle to supp
+ ort a young\, terminally ill patient\, and Richard hosts a prostate scree
+ ning event.
+DTEND:20260320T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260320T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Grey's Anatomy - 22x14 - Wrecking Ball
+UID:NzbDrone_episode_72995
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Citytv
+DESCRIPTION:The team is brought in to investigate when a mother convicted 
+ of infanticide is found dead in a motel bathroom after being released on 
+ an appeal.
+DTEND:20260320T024300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260320T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Law & Order Toronto: Criminal Intent - 3x03 - Uncertain Justice
+UID:NzbDrone_episode_73025
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20260321T075400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260321T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Madison - 1x04 - Tomorrow Is Goodbye
+UID:NzbDrone_episode_73528
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20260321T084800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260321T075400Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Madison - 1x05 - No Name and a New Dream
+UID:NzbDrone_episode_73529
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20260321T094200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260321T084800Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Madison - 1x06 - I Give Me Permission
+UID:NzbDrone_episode_73530
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:After Baxter\, a veteran stuntman\, disappears following a ris
+ ky stunt\, his girlfriend\, Laura\, calls Colter to investigate a B-movie
+  set\, uncovering shady producers and a trail that leads into a dangerous
+  underground world.
+DTEND:20260323T004200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260323T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tracker (2024) - 3x13 - Breakaway
+UID:NzbDrone_episode_72829
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:A dangerous drug kingpin from Eva's past resurfaces when two c
+ hildren and a daycare worker are killed due to an accidental drug exposur
+ e. While the team works the case\, Eva wavers between her mission as an a
+ gent and her personal vendetta.
+DTEND:20260324T014200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260324T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:FBI - 8x15 - Crusader
+UID:NzbDrone_episode_73031
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:The FBI and LAPD join forces on a covert sting operation to pr
+ otect Bailey\, while Wesley and Angela face tensions in their marriage wh
+ en his campaign is threatened by a public scandal.
+DTEND:20260324T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260324T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Rookie - 8x12 - Spy Games
+UID:NzbDrone_episode_72537
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:When the son of a Marine that Gibbs once helped comes to NCIS 
+ in desperation\, the fractured team reunites off the books. But chasing j
+ ustice without a badge may cost them more than their careers.
+DTEND:20260325T004500Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260325T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS - 23x13 - All Good Things
+UID:NzbDrone_episode_72815
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Morgan relies on old friends to help with a case involving str
+ eet artists\, while Karadec leans on the women in his life during a time 
+ of need.
+DTEND:20260325T014400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260325T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:High Potential - 2x16 - Turn\, Up the Heat
+UID:NzbDrone_episode_72813
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:When the NIS Regional Director tries to transfer Mary Jo\, she
+  reconnects with an old friend from Atlantic City to help investigate the
+  roadside deaths of two Marines.
+DTEND:20260325T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260325T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS: Origins - 2x12 - The Gambler
+UID:NzbDrone_episode_72817
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20260325T014800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260325T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Daredevil: Born Again - 2x01 - TBA
+UID:NzbDrone_episode_73716
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:The team investigates a targeted explosion that wiped out a bo
+ mb squad with ties close to home.
+DTEND:20260325T024200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260325T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS: Sydney - 3x12 - Lone Wolf (1)
+UID:NzbDrone_episode_73022
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:J.D. and Dr. Park are forced to work together when a member of
+  the hospital board experiences a mysterious health crisis. Turk helps El
+ liot navigate a newfound romance\, while the interns practice vulnerabili
+ ty with patients.
+DTEND:20260326T002100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260326T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 1x06 - My V.I.P.
+UID:NzbDrone_episode_73018
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Interactive tutoring centers\, a clever picture-hanging tool\,
+  a camping bed for cars\, and oversized\, collapsible building blocks. Ma
+ rk Cuban gives a business update.
+DTEND:20260326T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260326T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Shark Tank - 17x15 - Good Hang!
+UID:NzbDrone_episode_73001
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO Max
+DTEND:20260327T014800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260327T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Pitt - 2x12 - 6:00 P.M.
+UID:NzbDrone_episode_71341
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260327T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260327T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:9-1-1: Nashville - 1x15 - Bad Girls
+UID:NzbDrone_episode_72530
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Bailey and Blue are forced to confront the emotional costs of 
+ experimental care. Meanwhile\, Owen\, Teddy\, Simone and Dani help out at
+  a busy rural hospital\, and Richard attempts to spread information about
+  early prostate screenings to the community.
+DTEND:20260327T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260327T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Grey's Anatomy - 22x15 - Take Me to the River
+UID:NzbDrone_episode_72996
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Citytv
+DESCRIPTION:Graff and Bateman are called to investigate\, when a beloved r
+ esident at a retirement home is found dead of exposure\, frozen to death 
+ in a nearby park.
+DTEND:20260327T024300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260327T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Law & Order Toronto: Criminal Intent - 3x04 - Forget Me Not
+UID:NzbDrone_episode_73026
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20260328T005600Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260328T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:House of David - 3x01 - TBA
+UID:NzbDrone_episode_72976
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:When a young boy disappears during a school field trip at the 
+ aquarium\, Colter must navigate a volatile fatherâs desperation to find h
+ is son.
+DTEND:20260330T004200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260330T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tracker (2024) - 3x14 - The Field Trip
+UID:NzbDrone_episode_73027
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:A double homicide in Brooklyn sets the team after a corrupt lo
+ ngshoreman but they soon discover something sinister has been smuggled in
+ to NY. As they race to stop the threat\, Isobel enlists the help of CIA's
+  Deputy Chief of Station Nikki Reynard.
+DTEND:20260331T014200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260331T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:FBI - 8x16 - 3 Up\, 3 Down
+UID:NzbDrone_episode_73299
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260331T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260331T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Rookie - 8x13 - The Thinker
+UID:NzbDrone_episode_72538
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260401T014400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260401T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:High Potential - 2x17 - Second Sunday
+UID:NzbDrone_episode_72830
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260401T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260401T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS: Origins - 2x13 - Homeward Bound
+UID:NzbDrone_episode_72857
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20260401T014800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260401T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Daredevil: Born Again - 2x02 - TBA
+UID:NzbDrone_episode_73717
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20260401T024200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260401T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS: Sydney - 3x13 - Lone Wolf (2)
+UID:NzbDrone_episode_73023
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:While J.D. is upset to not be invited to Turk and Carlaâs annu
+ al barbecue\, he takes the opportunity to nurture his friendship with Car
+ la at work. Turk teaches the surgical interns how to deliver bad news.
+DTEND:20260402T002100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260402T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 1x07 - My Best Friend's Barbecue
+UID:NzbDrone_episode_73019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Dr. Charles grapples with his own mental health after working 
+ the suicide prevention line.
+DTEND:20260402T004400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260402T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Chicago Med - 11x16 - The Book of Charles
+UID:NzbDrone_episode_73522
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Severide overcomes new obstacles at the firehouse\; Cruz finds
+  himself at a loss amid family changes.
+DTEND:20260402T014200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260402T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Chicago Fire - 14x16 - Firehouse 66
+UID:NzbDrone_episode_72554
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Torres tries to stop the cycle of violence after a teenager is
+  killed in an act of revenge.
+DTEND:20260402T024100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260402T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Chicago P.D. - 13x16 - Restored
+UID:NzbDrone_episode_72823
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:The sharks battle over a game-changer product for athletes.
+DTEND:20260402T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260402T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Shark Tank - 17x16 - Shark Attack
+UID:NzbDrone_episode_73307
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:After a woman's body is discovered\, Price and Maroun disagree
+  over how to charge the prime suspect.
+DTEND:20260403T004500Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260403T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Law & Order - 25x16 - Fate's Cruel Joke
+UID:NzbDrone_episode_73703
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO Max
+DTEND:20260403T014800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260403T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Pitt - 2x13 - 7:00 P.M.
+UID:NzbDrone_episode_71342
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260403T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260403T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:9-1-1: Nashville - 1x16 - Love to Death
+UID:NzbDrone_episode_72820
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260403T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260403T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Grey's Anatomy - 22x16 - Feel it Still
+UID:NzbDrone_episode_73028
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:With little evidence to guide them\, the SVU steps in when a w
+ oman undergoing psychedelic-assisted therapy recovers a buried memory of 
+ assault\; Curry starts a new position at SVU.
+DTEND:20260403T014400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260403T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Law & Order: Special Victims Unit - 27x16 - Vivid
+UID:NzbDrone_episode_73704
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Citytv
+DESCRIPTION:When a genuine snuff film is aired at a local film festival\, 
+ Graff and Bateman are asked to investigate.
+DTEND:20260403T024300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260403T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Law & Order Toronto: Criminal Intent - 3x05 - Up to Snuff
+UID:NzbDrone_episode_73248
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTEND:20260403T045200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260403T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Your Friends & Neighbors - 2x01 - We're Here Until We're Not
+UID:NzbDrone_episode_70655
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20260404T005600Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260404T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:House of David - 3x02 - TBA
+UID:NzbDrone_episode_72977
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:With the clock ticking and the fate of nine missing students o
+ n the line\, Bode and Deputy Nathan Boone must risk it all in order to sa
+ ve innocent lives.
+DTEND:20260404T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260404T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Fire Country - 4x13 - The Bravest (2)
+UID:NzbDrone_episode_72935
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Fox Nation
+DTEND:20260405T044700Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260405T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Martin Scorsese Presents: The Saints - 2x05 - Episode 5
+UID:NzbDrone_episode_67951
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260406T004200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260406T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tracker (2024) - 3x15 - No Good Deed
+UID:NzbDrone_episode_73250
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260407T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260407T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Rookie - 8x14 - TBA
+UID:NzbDrone_episode_72539
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260408T004500Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260408T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS - 23x14 - Fleeting
+UID:NzbDrone_episode_72816
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260408T014400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260408T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:High Potential - 2x18 - Family Tree
+UID:NzbDrone_episode_72831
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260408T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260408T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS: Origins - 2x14 - The Beautiful Ballad of Gary Callahan
+UID:NzbDrone_episode_73536
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20260408T014800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260408T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Daredevil: Born Again - 2x03 - TBA
+UID:NzbDrone_episode_73718
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20260408T024200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260408T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS: Sydney - 3x14 - Death Card
+UID:NzbDrone_episode_73539
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260409T002100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260409T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 1x08 - My Odds
+UID:NzbDrone_episode_73020
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DTEND:20260409T004400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260409T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Chicago Med - 11x17 - Altered States
+UID:NzbDrone_episode_73523
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DTEND:20260409T014200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260409T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Chicago Fire - 14x17 - Sway
+UID:NzbDrone_episode_72821
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DTEND:20260409T024100Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260409T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Chicago P.D. - 13x17 - TBA
+UID:NzbDrone_episode_72824
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO Max
+DTEND:20260410T014800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260410T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Pitt - 2x14 - 8:00 P.M.
+UID:NzbDrone_episode_71343
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:No overview available.
+DTEND:20260410T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260410T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:9-1-1: Nashville - 1x17 - TBA
+UID:NzbDrone_episode_72984
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260410T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260410T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Grey's Anatomy - 22x17 - TBA
+UID:NzbDrone_episode_73029
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Citytv
+DESCRIPTION:Graff and Bateman investigate the death of a high-flying corpo
+ rate consultant\, who lives for facts and numbers.
+DTEND:20260410T024300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260410T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Law & Order Toronto: Criminal Intent - 3x06 - Family Meal
+UID:NzbDrone_episode_73249
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTEND:20260410T045200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260410T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Your Friends & Neighbors - 2x02 - The Bread of Affliction
+UID:NzbDrone_episode_70742
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20260411T005600Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260411T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:House of David - 3x03 - TBA
+UID:NzbDrone_episode_72978
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260411T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260411T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Fire Country - 4x14 - Why Not Now?
+UID:NzbDrone_episode_72936
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Fox Nation
+DTEND:20260412T044700Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260412T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Martin Scorsese Presents: The Saints - 2x06 - Episode 6
+UID:NzbDrone_episode_67952
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DTEND:20260413T002200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260413T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Family Guy - 24x10 - TBA
+UID:NzbDrone_episode_72927
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260413T004200Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260413T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tracker (2024) - 3x16 - Struck
+UID:NzbDrone_episode_73532
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DTEND:20260413T004400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260413T002200Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Family Guy - 24x11 - TBA
+UID:NzbDrone_episode_72928
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260415T004500Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260415T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS - 23x15 - Knick-Knack
+UID:NzbDrone_episode_73003
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20260415T014300Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260415T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:NCIS: Origins - 2x15 - Johnny B. Goode
+UID:NzbDrone_episode_73537
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20260415T014800Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260415T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Daredevil: Born Again - 2x04 - TBA
+UID:NzbDrone_episode_73719
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20260415T024400Z
+DTSTAMP:20260318T201557Z
+DTSTART:20260415T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Rookie - 8x15 - TBA
+UID:NzbDrone_episode_72540
 END:VEVENT
 END:VCALENDAR
