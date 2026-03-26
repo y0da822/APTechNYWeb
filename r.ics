@@ -11,7 +11,7 @@ DESCRIPTION:After suffering a family tragedy\, a widower named Thanh moves
  f a local psychologist\, but chilling secrets and visions eventually prov
  e that all is not what it seems in the old family house.
 DTEND;VALUE=DATE:20220325
-DTSTAMP:20260325T030504Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20220324
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:After suffering a family tragedy\, a widower named Thanh moves
  f a local psychologist\, but chilling secrets and visions eventually prov
  e that all is not what it seems in the old family house.
 DTEND;VALUE=DATE:20260326
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260325
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -42,7 +42,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +58,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +71,7 @@ DESCRIPTION:Unveiled through a made-for-TV documentary\, five chilling tal
  es of found footage horror emerge to take viewers on a gore-filled journe
  y through the grim underbelly of the forgotten 1980s.
 DTEND;VALUE=DATE:20231124
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20231123
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -84,7 +84,7 @@ DESCRIPTION:Unveiled through a made-for-TV documentary\, five chilling tal
  es of found footage horror emerge to take viewers on a gore-filled journe
  y through the grim underbelly of the forgotten 1980s.
 DTEND;VALUE=DATE:20231007
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20231006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -97,7 +97,7 @@ DESCRIPTION:Unveiled through a made-for-TV documentary\, five chilling tal
  es of found footage horror emerge to take viewers on a gore-filled journe
  y through the grim underbelly of the forgotten 1980s.
 DTEND;VALUE=DATE:20260328
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260327
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +109,7 @@ CATEGORIES:Invisible Sword Productions
 DESCRIPTION:An adventure thriller about a group of friends trying to escap
  e a government based world religion who treats them as terrorists.ech
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260418
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -124,7 +124,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -132,28 +132,11 @@ SUMMARY:The Super Mario Galaxy Movie (Theatrical Release)
 UID:Radarr_movie_11700_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Lord Miller
-DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
- rs from home with no recollection of who he is or how he got there. As hi
- s memory returns\, he begins to uncover his mission: solve the riddle of 
- the mysterious substance causing the sun to die out. He must call on his 
- scientific knowledge and unorthodox ideas to save everything on Earth fro
- m extinctionâ¦ but an unexpected friendship means he may not have to do it
-  alone.
-DTEND;VALUE=DATE:20260319
-DTSTAMP:20260325T030505Z
-DTSTART;VALUE=DATE:20260318
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Project Hail Mary (Theatrical Release)
-UID:Radarr_movie_11702_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -165,7 +148,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -177,7 +160,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -191,7 +174,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20251219
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20251218
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -205,7 +188,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20260204
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -219,7 +202,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -233,7 +216,7 @@ DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
  of violence and revenge\, forcing them to confront a brutal criminal to s
  urvive.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -247,7 +230,7 @@ DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
  of violence and revenge\, forcing them to confront a brutal criminal to s
  urvive.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -261,7 +244,7 @@ DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
  of violence and revenge\, forcing them to confront a brutal criminal to s
  urvive.
 DTEND;VALUE=DATE:20260411
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260410
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -275,7 +258,7 @@ DESCRIPTION:Desperate to be a big guy\, SpongeBob sets out to prove his br
  uckling ghost pirate â on a seafaring adventure that takes him to the dee
  pest depths of the deep sea\, where no Sponge has gone before.
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20251216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -289,7 +272,7 @@ DESCRIPTION:Desperate to be a big guy\, SpongeBob sets out to prove his br
  uckling ghost pirate â on a seafaring adventure that takes him to the dee
  pest depths of the deep sea\, where no Sponge has gone before.
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -303,7 +286,7 @@ DESCRIPTION:Desperate to be a big guy\, SpongeBob sets out to prove his br
  uckling ghost pirate â on a seafaring adventure that takes him to the dee
  pest depths of the deep sea\, where no Sponge has gone before.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -318,7 +301,7 @@ DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
   her for survival and the battles to come. But when the world is about to
   break\, no place is safe.
 DTEND;VALUE=DATE:20251031
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20251030
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -333,7 +316,7 @@ DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
   her for survival and the battles to come. But when the world is about to
   break\, no place is safe.
 DTEND;VALUE=DATE:20260308
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260307
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -348,7 +331,7 @@ DESCRIPTION:Five years ago\, a tear in the fabric of reality brought creat
   her for survival and the battles to come. But when the world is about to
   break\, no place is safe.
 DTEND;VALUE=DATE:20260320
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260319
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -362,7 +345,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -376,7 +359,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260324
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260323
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -390,7 +373,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -404,7 +387,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -418,7 +401,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260408
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260407
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -431,7 +414,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -444,12 +427,65 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260325
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260324
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:GOAT (Digital Release)
 UID:Radarr_movie_12416_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MRC
+DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
+ arnshaw\, a woman from a wealthy family in 18th-century England.
+DTEND;VALUE=DATE:20260212
+DTSTAMP:20260326T030502Z
+DTSTART;VALUE=DATE:20260211
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Wuthering Heights" (Theatrical Release)
+UID:Radarr_movie_12417_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MRC
+DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
+ arnshaw\, a woman from a wealthy family in 18th-century England.
+DTEND;VALUE=DATE:20260331
+DTSTAMP:20260326T030502Z
+DTSTART;VALUE=DATE:20260330
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Wuthering Heights" (Digital Release)
+UID:Radarr_movie_12417_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MRC
+DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
+ arnshaw\, a woman from a wealthy family in 18th-century England.
+DTEND;VALUE=DATE:20260506
+DTSTAMP:20260326T030502Z
+DTSTART;VALUE=DATE:20260505
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Wuthering Heights" (Physical Release)
+UID:Radarr_movie_12417_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lionsgate
+DESCRIPTION:Discover the story of Michael Jackson\, one of the most influe
+ ntial artists the world has ever known\, and his life beyond the music\, 
+ tracing his journey from the discovery of his extraordinary talent as the
+  lead of the Jackson Five\, to the visionary artist whose creative ambiti
+ on fueled a relentless pursuit to become the biggest entertainer in the w
+ orld\, highlighting both his life off-stage and some of the most iconic p
+ erformances from his early solo career.
+DTEND;VALUE=DATE:20260323
+DTSTAMP:20260326T030502Z
+DTSTART;VALUE=DATE:20260322
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Michael (Theatrical Release)
+UID:Radarr_movie_12419_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:18Hz Productions
@@ -459,7 +495,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -474,7 +510,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -489,7 +525,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -504,7 +540,7 @@ DESCRIPTION:Long-lost footage from Elvis Presely's legendary Las Vegas res
  ng "his side of the story" rediscovered during Baz Luhrmann's research fo
  r his 2022 film\, Elvis.
 DTEND;VALUE=DATE:20260220
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260219
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -518,9 +554,9 @@ DESCRIPTION:Long-lost footage from Elvis Presely's legendary Las Vegas res
  our\, and 8mm from the Graceland archive\, plus recordings of Elvis telli
  ng "his side of the story" rediscovered during Baz Luhrmann's research fo
  r his 2022 film\, Elvis.
-DTEND;VALUE=DATE:20260408
-DTSTAMP:20260325T030505Z
-DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260407
+DTSTAMP:20260326T030502Z
+DTSTART;VALUE=DATE:20260406
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:EPiC: Elvis Presley in Concert (Digital Release)
@@ -531,7 +567,7 @@ CATEGORIES:Sandbox Films
 DESCRIPTION:Based on Robert Macfarlaneâs bestseller\, UNDERLAND is a cinem
  atic voyage beneath the surface of the earth.
 DTEND;VALUE=DATE:20260328
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260327
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -544,7 +580,7 @@ DESCRIPTION:After his estranged son gets embroiled in a Nazi plot\, self-e
  xiled gangster Tommy Shelby must return to Birmingham to save his family 
  â and his nation.
 DTEND;VALUE=DATE:20260306
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260305
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -557,7 +593,7 @@ DESCRIPTION:After his estranged son gets embroiled in a Nazi plot\, self-e
  xiled gangster Tommy Shelby must return to Birmingham to save his family 
  â and his nation.
 DTEND;VALUE=DATE:20260320
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260319
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -571,7 +607,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260214
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260213
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -585,7 +621,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -599,7 +635,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -615,7 +651,7 @@ DESCRIPTION:Moments after surviving an all-out attack from the Le Domas fa
  of the Council that controls the world. Four rival families are hunting h
  er for the throne\, and whoever wins rules it all.
 DTEND;VALUE=DATE:20260320
-DTSTAMP:20260325T030505Z
+DTSTAMP:20260326T030502Z
 DTSTART;VALUE=DATE:20260319
 SEQUENCE:0
 STATUS:CONFIRMED
