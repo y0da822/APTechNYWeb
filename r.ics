@@ -8,7 +8,7 @@ CATEGORIES:Invisible Sword Productions
 DESCRIPTION:An adventure thriller about a group of friends trying to escap
  e a government based world religion who treats them as terrorists.ech
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260418
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -21,7 +21,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20250815
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20250814
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +34,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20250905
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20250904
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +47,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -61,7 +61,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20251219
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20251218
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -75,7 +75,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20260204
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -89,7 +89,7 @@ DESCRIPTION:Trying to escape her past\, Millie Calloway accepts a job as a
  egins as a dream job quickly unravels into something far more dangerousâa
   sexy\, seductive game of secrets\, scandal\, and power.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -97,55 +97,13 @@ SUMMARY:The Housemaid (Physical Release)
 UID:Radarr_movie_12347_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Beno Films (US)
-DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
- ous\, wounded woman from a river\, they become entangled in a deadly web 
- of violence and revenge\, forcing them to confront a brutal criminal to s
- urvive.
-DTEND;VALUE=DATE:20251206
-DTSTAMP:20260417T030501Z
-DTSTART;VALUE=DATE:20251205
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hunting Season (Theatrical Release)
-UID:Radarr_movie_12374_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Beno Films (US)
-DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
- ous\, wounded woman from a river\, they become entangled in a deadly web 
- of violence and revenge\, forcing them to confront a brutal criminal to s
- urvive.
-DTEND;VALUE=DATE:20251206
-DTSTAMP:20260417T030501Z
-DTSTART;VALUE=DATE:20251205
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hunting Season (Digital Release)
-UID:Radarr_movie_12374_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Beno Films (US)
-DESCRIPTION:When a reclusive survivalist and his daughter rescue a mysteri
- ous\, wounded woman from a river\, they become entangled in a deadly web 
- of violence and revenge\, forcing them to confront a brutal criminal to s
- urvive.
-DTEND;VALUE=DATE:20260411
-DTSTAMP:20260417T030501Z
-DTSTART;VALUE=DATE:20260410
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hunting Season (Physical Release)
-UID:Radarr_movie_12374_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
+CATEGORIES:STXfilms
 DESCRIPTION:Having found the safety of the Greenland bunker after the come
  t Clarke decimated the Earth\, the Garrity family must now risk everythin
  g to embark on a perilous journey across the wasteland of Europe to find 
  a new home.
 DTEND;VALUE=DATE:20260108
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260107
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -153,13 +111,13 @@ SUMMARY:Greenland 2: Migration (Theatrical Release)
 UID:Radarr_movie_6757_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Lionsgate
+CATEGORIES:STXfilms
 DESCRIPTION:Having found the safety of the Greenland bunker after the come
  t Clarke decimated the Earth\, the Garrity family must now risk everythin
  g to embark on a perilous journey across the wasteland of Europe to find 
  a new home.
 DTEND;VALUE=DATE:20260128
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -167,13 +125,13 @@ SUMMARY:Greenland 2: Migration (Digital Release)
 UID:Radarr_movie_6757_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Lionsgate
+CATEGORIES:STXfilms
 DESCRIPTION:Having found the safety of the Greenland bunker after the come
  t Clarke decimated the Earth\, the Garrity family must now risk everythin
  g to embark on a perilous journey across the wasteland of Europe to find 
  a new home.
 DTEND;VALUE=DATE:20260425
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260424
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -186,7 +144,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260114
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -199,7 +157,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -212,7 +170,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -226,7 +184,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -240,7 +198,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260324
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260323
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -254,7 +212,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -267,7 +225,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -280,7 +238,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -293,7 +251,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,7 +264,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -319,7 +277,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260325
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260324
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -332,7 +290,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -344,7 +302,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -356,7 +314,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260331
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260330
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -368,7 +326,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -385,7 +343,7 @@ DESCRIPTION:Discover the story of Michael Jackson\, one of the most influe
  orld\, highlighting both his life off-stage and some of the most iconic p
  erformances from his early solo career.
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -400,7 +358,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -415,7 +373,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -430,7 +388,7 @@ DESCRIPTION:Lucy\, a college student\, along with her friends\, spend thei
  abid animal\, the group must fight for their lives in order to avoid the 
  now-violent chimp.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -444,7 +402,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -458,7 +416,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260214
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260213
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -472,7 +430,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -486,7 +444,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -503,7 +461,7 @@ DESCRIPTION:The Story of Everything is a cinematic exploration of the cosm
  NA\, we discover a consistent signature woven into the fabric of existenc
  e.
 DTEND;VALUE=DATE:20260501
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260430
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -519,7 +477,7 @@ DESCRIPTION:When Diem's custodial grandparents adamantly refuse Kenna's at
   of them\, leading Kenna toward heartbreak and\, ultimately\, the hope fo
  r a second chance.
 DTEND;VALUE=DATE:20260312
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260311
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -535,7 +493,7 @@ DESCRIPTION:When Diem's custodial grandparents adamantly refuse Kenna's at
   of them\, leading Kenna toward heartbreak and\, ultimately\, the hope fo
  r a second chance.
 DTEND;VALUE=DATE:20260415
-DTSTAMP:20260417T030501Z
+DTSTAMP:20260418T030502Z
 DTSTART;VALUE=DATE:20260414
 SEQUENCE:0
 STATUS:CONFIRMED
