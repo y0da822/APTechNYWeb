@@ -4,38 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:A chaotic day at Sacred Heart forces the doctors and interns t
- o face burnout\, life-changing decisions\, and their relationships with o
- ne another.
-DTEND:20260416T002100Z
-DTSTAMP:20260423T030502Z
-DTSTART:20260416T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Scrubs (2026) - 1x09 - My Celebration
-UID:NzbDrone_episode_73021
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Bold entrepreneurs step into the Tank to pitch inventive conce
- pts\, including wildfire and tornado-proof homes\, cologne-infused body b
- utter\, an allergy-free cafÃ© and specialized traction pads for athletes.
-DTEND:20260416T024400Z
-DTSTAMP:20260423T030502Z
-DTSTART:20260416T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Shark Tank - 17x17 - Million Dollar Offer
-UID:NzbDrone_episode_73767
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO Max
 DESCRIPTION:Al-Hashimi reveals details from her medical history\, forcing 
  Robby to face an ethical dilemma as he prepares to leave for his sabbatic
  al. Note: Credit scene
 DTEND:20260417T014800Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260417T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +21,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Ashe offers Coop a deal he canât refuse. Mel feuds with her ne
  ighbors over their new dog. Sam goes on a date.
 DTEND:20260417T045300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260417T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -61,7 +35,7 @@ DESCRIPTION:A routine response to a reported minor fire turns dangerous wh
  en the Station 42 team discovers the threat is far greater than dispatch 
  indicated.
 DTEND:20260418T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260418T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fox Nation
 DTEND:20260419T044800Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260419T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -85,11 +59,11 @@ DESCRIPTION:The Marshals go manhunting after receiving a tip that a danger
   time at war when a former SEAL brother\, Garrett\, drifts back into thei
  r lives as they hunt a vicious enemy.
 DTEND:20260420T004300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260420T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Marshals - 1x08 - Blowback (1)
+SUMMARY:Marshals - 1x08 - Blowback
 UID:NzbDrone_episode_73784
 END:VEVENT
 BEGIN:VEVENT
@@ -97,7 +71,7 @@ CATEGORIES:CBS
 DESCRIPTION:Colter is hired to find a teen girl who went missing from a fr
  iendâs house during a tragic triple homicide.
 DTEND:20260420T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260420T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -111,7 +85,7 @@ DESCRIPTION:When a single mother and her son are abducted while visiting a
   But as the team works\, they make a harrowing discovery about an old cas
  e.
 DTEND:20260421T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260421T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -124,7 +98,7 @@ DESCRIPTION:Nolan is put to the test when he's forced to protect a man he
  doesn't trust. Meanwhile\, Lucy and Celina follow a promising lead\, and 
  Lopez finds herself conflicted about Wesley's new position.
 DTEND:20260421T024400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260421T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -137,7 +111,7 @@ DESCRIPTION:Lives hang in the balance when a hospital ward is taken hostag
  e\, and the team must wrestle with an impossible dilemma: who is more des
  erving of a heart?
 DTEND:20260421T214200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260421T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -152,7 +126,7 @@ DESCRIPTION:With most of NCIS away and the mainframe shut down for a midni
  ecomes a high-stakes game of cat and mouse through powerless hallways unt
  il an unexpected ally\, Sam Hanna\, steps into the fight.
 DTEND:20260422T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260422T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -165,7 +139,7 @@ DESCRIPTION:While Gibbs and Lala grow closer on a case\, Gibbsâ long-dista
  nce relationship with Diane is further tested by the arrival of an unexpe
  cted guest.
 DTEND:20260422T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260422T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -177,7 +151,7 @@ CATEGORIES:Disney+
 DESCRIPTION:Fisk's operation is dealt an irrevocable blow. The resistance 
  spills over into the streets.
 DTEND:20260422T014800Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260422T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -190,10 +164,10 @@ DESCRIPTION:A horrific car accident puts a family's fate in the hands of t
  he Gaffney staff. Ripley questions Lenox and her increasingly reckless be
  havior.
 DTEND:20260423T004400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago Med - 11x18 - Things Left Unsaid
 UID:NzbDrone_episode_73533
 END:VEVENT
@@ -203,10 +177,10 @@ DESCRIPTION:While in the field\, Violet and Novak are thrust into a danger
  ous and rapidly escalating situation\, forcing them to rely on their inst
  incts to protect both themselves and a vulnerable patient.
 DTEND:20260423T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago Fire - 14x18 - Instinct
 UID:NzbDrone_episode_73667
 END:VEVENT
@@ -215,10 +189,10 @@ CATEGORIES:NBC
 DESCRIPTION:A deadly house party leads the Intelligence Unit to uncover a 
  family's alarming secret. Atwater faces a personal turning point.
 DTEND:20260423T024100Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago P.D. - 13x18 - The Wicked River
 UID:NzbDrone_episode_73668
 END:VEVENT
@@ -228,111 +202,138 @@ DESCRIPTION:A beginner-friendly social investing platform\, tasty low-calo
  rie sweets\, a shipping service for over-packers\, and a frozen pizza bra
  nd that champions the deaf community.
 DTEND:20260423T024400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Shark Tank - 17x18 - Season Finale
 UID:NzbDrone_episode_73832
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:Cam returns with promises of a fresh start â but Isla isn't re
+ ady to lower her guard. A risky coaching hire threatens to ignite a Gordo
+ n family feud.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x01 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x01 - New Coach Who Dis
 UID:NzbDrone_episode_72997
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:When a talent-stealing rival targets the Waves\, Isla must fig
+ ht to retain a rising star. A financial issue sparks serious concerns for
+  Sandy.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x02 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x02 - The Poacher
 UID:NzbDrone_episode_73004
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:Isla attempts to defuse a locker-room love triangle with some 
+ amateur matchmaking. Ali struggles to balance ambition and friendship.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x03 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x03 - Triangle of Badness
 UID:NzbDrone_episode_73005
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:As a rift develops between Marcus and Norm\, Isla scrambles to
+  mend fences. Sandy's home life is thrown off-kilter by a cheeky reality 
+ TV mishap.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x04 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x04 - MVP: Marcus Very Pissed
 UID:NzbDrone_episode_73006
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:A prenup negotiation becomes a tug-of-war between love and leg
+ acy. Ness rattles the roster when he attempts to land a star point guard.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x05 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x05 - Rehearsal Dinner
 UID:NzbDrone_episode_73007
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:Isla questions her conscience after a viral video ignites publ
+ ic backlash. A new addition shakes up the Waves' bench â and rewrites San
+ dy's playbook.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x06 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x06 - The Strike
 UID:NzbDrone_episode_73008
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:With the Waves' home-court advantage in jeopardy\, Isla hustle
+ s for a lifeline. Cam schemes behind the scenes to shift the scoreboard i
+ n his favor.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x07 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x07 - We are Broke
 UID:NzbDrone_episode_73009
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:A lease dispute sets the stage for a winner-take-all Gordon fa
+ mily showdown. Jackie makes a splash with a favor best handled privately.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x08 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x08 - Gordons vs. McShays
 UID:NzbDrone_episode_73010
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:With the playoffs underway\, betrayals and front-office intrig
+ ue leave Isla on edge. Can Dyson shake off his slump and help even the sc
+ ore?
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x09 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x09 - Et tu\, Cam?
 UID:NzbDrone_episode_73011
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20260423T073000Z
-DTSTAMP:20260423T030502Z
+DESCRIPTION:As the finals heat up\, Isla juggles rivalries\, strategies an
+ d cross-court chemistry to steer the Waves through a wildly unpredictable
+  championship run.
+DTEND:20260423T072900Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260423T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Running Point - 2x10 - TBA
+STATUS:CONFIRMED
+SUMMARY:Running Point - 2x10 - Chicago-Style
 UID:NzbDrone_episode_73012
 END:VEVENT
 BEGIN:VEVENT
@@ -341,7 +342,7 @@ DESCRIPTION:A talented local news reporter is brutally murdered. Maroun's
  mentor takes the case for the defense\, pitting Maroun against the woman 
  who shaped her career.
 DTEND:20260424T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260424T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -354,7 +355,7 @@ DESCRIPTION:A mysterious death in a hotel leads the squad into the world o
  f professional fighting. Benson tries to convince a victim to come forwar
  d for the sake of his friend.
 DTEND:20260424T014400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260424T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -367,7 +368,7 @@ DESCRIPTION:When a promising student is found stabbed to death on her univ
  ersity campus\, Graff and Bateman are called in to investigate her murder
  .
 DTEND:20260424T024300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260424T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -379,10 +380,10 @@ CATEGORIES:Apple TV
 DESCRIPTION:Hari and Gretchenâs Passover seder brings the neighborhood tog
  ether for wine\, food\, and drama.
 DTEND:20260424T045300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260424T040000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Your Friends & Neighbors - 2x04 - The Bread of Affliction
 UID:NzbDrone_episode_70744
 END:VEVENT
@@ -392,7 +393,7 @@ DESCRIPTION:Bode sets out to prove his leadership skills during a historic
   cold snap that plunges Edgewater into crisis mode. Meanwhile\, Jake cont
  emplates a life-altering decision that could change his future forever.
 DTEND:20260425T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260425T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -402,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fox Nation
 DTEND:20260426T044800Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260426T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -415,7 +416,7 @@ DESCRIPTION:A colonoscopy reveals Peter has a rare collectible toy action
  figure lodged in his intestine\, but the reward for selling it causes a r
  ift between him and the guys.
 DTEND:20260427T002200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260427T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -429,11 +430,11 @@ DESCRIPTION:With one of their own taken prisoner\, the Marshals strategize
  th time rapidly running out\, Kayce leads the team straight into the fire
  \, risking everything to save their teammate.
 DTEND:20260427T004300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260427T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Marshals - 1x09 - In Low Places (2)
+SUMMARY:Marshals - 1x09 - In Low Places
 UID:NzbDrone_episode_73785
 END:VEVENT
 BEGIN:VEVENT
@@ -442,7 +443,7 @@ DESCRIPTION:While searching for answers about his father\, Colter is pulle
  d into a tense case involving a teenage boyâs missing parents\, uncoverin
  g a dangerous situation far more complicated than it first appears.
 DTEND:20260427T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260427T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -456,7 +457,7 @@ DESCRIPTION:When an FBI evidence locker is robbed\, leaving behind a dead
  h-scale pedophile ring. Meanwhile\, Isobel meets the new Assistant Direct
  or in Charge.
 DTEND:20260428T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260428T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -469,7 +470,7 @@ DESCRIPTION:Nolan and Harper try to help a desperate mother protect her ch
  ild\, while Lt. Grey and Garza continue to work with Monica despite their
   misgivings.
 DTEND:20260428T024400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260428T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -481,7 +482,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:When a high-tech military drone kills a teenage girl\, the tea
  m investigates whether the murderer is man â¦ or machine.
 DTEND:20260428T214200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260428T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -494,7 +495,7 @@ DESCRIPTION:The team races to help one of their own who has been framed fo
  r murder and caught in a widening conspiracy that could compromise nation
  al security.
 DTEND:20260429T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260429T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -504,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Disney+
 DTEND:20260429T014800Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260429T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -517,7 +518,7 @@ DESCRIPTION:Wheeler takes command when a car bomb goes off outside NIS hea
  dquarters. Also\, the truth behind Franksâ distaste for lawyers is reveal
  ed.
 DTEND:20260429T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260429T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -530,7 +531,7 @@ DESCRIPTION:A patient's dangerous and complicated labor forces Hannah to c
  onfront her past. Lenox's brother Kip shows up at Gaffney asking her for 
  her help with a co-worker who was injured on the job.
 DTEND:20260430T004400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260430T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -542,7 +543,7 @@ CATEGORIES:NBC
 DESCRIPTION:Severide investigates a fire at an abandoned store inhabited b
  y squatters. Mouch pens a memoir about his life.
 DTEND:20260430T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260430T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -555,7 +556,7 @@ DESCRIPTION:Ruzek's investigation into a mysterious VHS tape found among h
  is father's belongings has unexpected consequences\, sending the Intellig
  ence Unit scrambling to uncover the truth behind a cold case.
 DTEND:20260430T024100Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260430T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -568,7 +569,7 @@ DESCRIPTION:A woman from a famous family is found dead on her birthday\; P
  rice and Maroun have an uphill battle in court when the defense presents 
  two viable suspects in the crime.
 DTEND:20260501T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260501T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -581,7 +582,7 @@ DESCRIPTION:Elena and Roxie go on an awkward date. Meanwhile\, Dixie drops
   a diss track about Blythe\, sparking tension that leads to a huge fight 
  between Blythe and Don.
 DTEND:20260501T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260501T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -591,7 +592,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20260501T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260501T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -605,7 +606,7 @@ DESCRIPTION:An unconscious and injured teen abandoned outside a hospital s
  serious consequences when she chooses to protect a victim's secret under 
  the pressure of cross-examination.
 DTEND:20260501T014400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260501T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -617,7 +618,7 @@ CATEGORIES:Citytv
 DESCRIPTION:A stabbing at a skatepark sends Graff and Bateman into the int
  ricate web of Toronto real estate scams.
 DTEND:20260501T024300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260501T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -627,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260501T045300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260501T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -640,7 +641,7 @@ DESCRIPTION:When a powerful storm sends a massive telephone pole crashing
  through a family home and traps a woman inside\, station 42 races against
   time to try and pull off a dangerous rescue.
 DTEND:20260502T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260502T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -649,18 +650,23 @@ UID:NzbDrone_episode_72939
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
+DESCRIPTION:Stewie becomes engaged to Rupert\, but Brian is upset when he 
+ is not chosen as the best man.
 DTEND:20260504T002200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260504T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x13 - TBA
+SUMMARY:Family Guy - 24x13 - Friend's Best Man
 UID:NzbDrone_episode_72930
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:After a prison bus crash\, two Marshals face ghosts from the p
+ ast when the team splits up to hunt down the escapees and triage the inju
+ red.
 DTEND:20260504T004300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260504T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -669,8 +675,10 @@ UID:NzbDrone_episode_73822
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:Reenie hires Colter to locate the star witness of her and Maxi
+ neâs lawsuit against a corrupt real estate developer on the eve of trial.
 DTEND:20260504T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260504T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -684,7 +692,7 @@ DESCRIPTION:When a big city donor is murdered inside her apartment\, the t
  een running with one of his victims\, looking to seek revenge on his fami
  ly.
 DTEND:20260505T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260505T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -697,7 +705,7 @@ DESCRIPTION:The team launches a high-stakes search to take down a notoriou
  s criminal. Meanwhile\, Lucy's leadership is tested\, Wesley tests the bo
  undaries of his friendships\, and Nolan tries to balance duty and family.
 DTEND:20260505T024400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260505T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -710,7 +718,7 @@ DESCRIPTION:The death of a former Marine wanted for murder leads the team
  to a sinister plot involving a disgraced journalist\, one of Australiaâs 
  richest men and lab-grown diamonds.
 DTEND:20260505T214200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260505T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -724,7 +732,7 @@ DESCRIPTION:As a secret immunity deal threatens to let a man walk free\, P
  ly appears â and buried family wounds resurface â the battle for justice 
  becomes deeply personal.
 DTEND:20260506T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260506T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -734,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Disney+
 DTEND:20260506T014800Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260506T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -746,7 +754,7 @@ CATEGORIES:CBS
 DESCRIPTION:With the Camp Pendleton office in danger of being shut down\, 
  the team confronts an uncertain future.
 DTEND:20260506T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260506T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -756,7 +764,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260507T004400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260507T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -766,7 +774,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260507T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260507T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -776,7 +784,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260507T024100Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260507T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -786,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260508T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260508T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -797,7 +805,7 @@ BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DESCRIPTION:No overview available.
 DTEND:20260508T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -807,7 +815,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20260508T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -817,11 +825,10 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:The squad must untangle conflicting stories and long-buried se
- crets when a drug-fueled college reunion ends in sexual assault\; Fin tak
- es control of a squadroom in turmoil\; with the squad under internal pres
- sure by Tynan\, Fin keeps the case on track.
+ crets when a drug-fueled college reunion ends in sexual assault. With the
+  squad under internal pressure by Tynan\, Fin keeps the case on track.
 DTEND:20260508T014400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -831,7 +838,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Citytv
 DTEND:20260508T024300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260508T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -841,7 +848,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260508T045300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260508T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -856,7 +863,7 @@ DESCRIPTION:When Bodeâs past resurfaces far from Edgewater\, a volatile ch
  ront guilt\, accountability and what it truly means to step up when lives
   â and friendships â are on the line.
 DTEND:20260509T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260509T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -866,7 +873,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20260511T002200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -876,7 +883,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20260511T004300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -886,7 +893,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20260511T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260511T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -900,7 +907,7 @@ DESCRIPTION:Following the assassination of a major corporate executive\, t
  s reemerged. Meanwhile\, OA is temporarily reassigned after refusing to f
  ollow orders but is paired up with a familiar face.
 DTEND:20260512T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -908,12 +915,25 @@ SUMMARY:FBI - 8x21 - Long Shot
 UID:NzbDrone_episode_73820
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:National Geographic
+DESCRIPTION:Stanley discovers that Sicily is an island of contrasts and mu
+ ltiple influences\, where the multicultural history has left a delicious 
+ mark on its food and people
+DTEND:20260512T014500Z
+DTSTAMP:20260424T030502Z
+DTSTART:20260512T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tucci in Italy - 2x01 - Sicily
+UID:NzbDrone_episode_73917
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:The team is pulled back into The Collectiveâs web when an FBI 
  agent is found dead in Fiji\, and Mackey faces an unplanned family reunio
  n.
 DTEND:20260512T214200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260512T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -925,7 +945,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:The team faces the battle of their lives to stop The Collectiv
  e and save those they hold dear.
 DTEND:20260512T222400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260512T214200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -938,7 +958,7 @@ DESCRIPTION:One year after a deadly coffee shop bombing\, a new explosion
  proves the attack wasnât the work of a lone wolf â a case that forces the
   team to confront legacy and loyalty.
 DTEND:20260513T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260513T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -948,7 +968,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260514T004400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260514T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -958,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260514T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260514T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -968,7 +988,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260514T024100Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260514T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -978,7 +998,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260515T004500Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260515T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -988,7 +1008,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260515T014400Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260515T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -998,7 +1018,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Citytv
 DTEND:20260515T024300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260515T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1008,7 +1028,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260515T045300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260515T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1018,7 +1038,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260516T000000Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260516T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1027,18 +1047,21 @@ UID:NzbDrone_episode_73768
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:When a volatile blaze at the Pineville Dam triggers a cascadin
+ g infrastructure failure\, Station 42 races to execute a series of perilo
+ us rescues.
 DTEND:20260516T014300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260516T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Fire Country - 4x19 - Rain Check for Tomorrow
+SUMMARY:Fire Country - 4x19 - Rain Check for Tomorrow?
 UID:NzbDrone_episode_72941
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20260518T002200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1048,7 +1071,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20260518T004300Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1058,7 +1081,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20260518T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260518T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1071,11 +1094,24 @@ DESCRIPTION:The theft of a bioweapon from an unwitting defector forces the
   team to work with an old foe to secure the lethal pathogen and prevent a
  n outbreak across New York City.
 DTEND:20260519T014200Z
-DTSTAMP:20260423T030502Z
+DTSTAMP:20260424T030502Z
 DTSTART:20260519T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:FBI - 8x22 - Defector
 UID:NzbDrone_episode_73821
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:National Geographic
+DESCRIPTION:Stanley digs into the time-honored recipes of this famous regi
+ on and discovers how these dishes are being kept alive and reinvigorated 
+ for the future.
+DTEND:20260519T014500Z
+DTSTAMP:20260424T030502Z
+DTSTART:20260519T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tucci in Italy - 2x02 - Veneto
+UID:NzbDrone_episode_73918
 END:VEVENT
 END:VCALENDAR
