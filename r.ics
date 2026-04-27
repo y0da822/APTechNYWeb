@@ -4,6 +4,63 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Orion Pictures
+DESCRIPTION:Con artist Lawrence Jamieson is a longtime resident of a luxur
+ ious coastal resort\, where he enjoys the lavish fruits of his deceptions
+  -- that is\, until a competitor\, Freddy Benson\, shows up. When the new
+  guy's lowbrow tactics impinge on his own sophisticated work and believin
+ g him to be the infamous conman 'The Jackal'\, Lawrence resolves to get r
+ id of him. Confident of his own duplicitous talents\, he challenges Fredd
+ y to a winner-takes-all competition: whoever swindles their latest mark\,
+  American heiress Janet Colgate\, out of $50\,000 first can stay\, while 
+ the other must leave town.
+DTEND;VALUE=DATE:19881215
+DTSTAMP:20260427T030502Z
+DTSTART;VALUE=DATE:19881214
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dirty Rotten Scoundrels (Theatrical Release)
+UID:Radarr_movie_862_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Orion Pictures
+DESCRIPTION:Con artist Lawrence Jamieson is a longtime resident of a luxur
+ ious coastal resort\, where he enjoys the lavish fruits of his deceptions
+  -- that is\, until a competitor\, Freddy Benson\, shows up. When the new
+  guy's lowbrow tactics impinge on his own sophisticated work and believin
+ g him to be the infamous conman 'The Jackal'\, Lawrence resolves to get r
+ id of him. Confident of his own duplicitous talents\, he challenges Fredd
+ y to a winner-takes-all competition: whoever swindles their latest mark\,
+  American heiress Janet Colgate\, out of $50\,000 first can stay\, while 
+ the other must leave town.
+DTEND;VALUE=DATE:20260505
+DTSTAMP:20260427T030502Z
+DTSTART;VALUE=DATE:20260504
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dirty Rotten Scoundrels (Digital Release)
+UID:Radarr_movie_862_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Orion Pictures
+DESCRIPTION:Con artist Lawrence Jamieson is a longtime resident of a luxur
+ ious coastal resort\, where he enjoys the lavish fruits of his deceptions
+  -- that is\, until a competitor\, Freddy Benson\, shows up. When the new
+  guy's lowbrow tactics impinge on his own sophisticated work and believin
+ g him to be the infamous conman 'The Jackal'\, Lawrence resolves to get r
+ id of him. Confident of his own duplicitous talents\, he challenges Fredd
+ y to a winner-takes-all competition: whoever swindles their latest mark\,
+  American heiress Janet Colgate\, out of $50\,000 first can stay\, while 
+ the other must leave town.
+DTEND;VALUE=DATE:19890102
+DTSTAMP:20260427T030502Z
+DTSTART;VALUE=DATE:19890101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dirty Rotten Scoundrels (Physical Release)
+UID:Radarr_movie_862_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:20th Century Studios
 DESCRIPTION:In the wake of the devastating war against the RDA and the los
  s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
@@ -12,7 +69,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +85,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -44,7 +101,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -59,7 +116,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -72,7 +129,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20250815
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20250814
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -85,7 +142,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20250905
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20250904
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -98,7 +155,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -112,7 +169,7 @@ DESCRIPTION:Having found the safety of the Greenland bunker after the come
  g to embark on a perilous journey across the wasteland of Europe to find 
  a new home.
 DTEND;VALUE=DATE:20260108
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260107
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -126,7 +183,7 @@ DESCRIPTION:Having found the safety of the Greenland bunker after the come
  g to embark on a perilous journey across the wasteland of Europe to find 
  a new home.
 DTEND;VALUE=DATE:20260128
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -140,7 +197,7 @@ DESCRIPTION:Having found the safety of the Greenland bunker after the come
  g to embark on a perilous journey across the wasteland of Europe to find 
  a new home.
 DTEND;VALUE=DATE:20260425
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260424
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -153,7 +210,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260114
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -166,7 +223,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -179,7 +236,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -193,7 +250,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -207,7 +264,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260324
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260323
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -221,7 +278,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -234,7 +291,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260123
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260122
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -247,7 +304,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -260,7 +317,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260521
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -273,7 +330,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -286,7 +343,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -299,7 +356,7 @@ DESCRIPTION:A man living in self-imposed exile on a remote island rescues
  a young girl from a violent storm\, setting off a chain of events that fo
  rces him out of seclusion to protect her from enemies tied to his past.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -312,7 +369,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -325,7 +382,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260325
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260324
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -338,7 +395,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -350,7 +407,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -362,7 +419,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260331
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260330
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -374,7 +431,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -389,7 +446,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -404,7 +461,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -413,15 +470,15 @@ UID:Radarr_movie_12418_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lionsgate
-DESCRIPTION:Discover the story of Michael Jackson\, one of the most influe
- ntial artists the world has ever known\, and his life beyond the music\, 
- tracing his journey from the discovery of his extraordinary talent as the
-  lead of the Jackson Five\, to the visionary artist whose creative ambiti
- on fueled a relentless pursuit to become the biggest entertainer in the w
- orld\, highlighting both his life off-stage and some of the most iconic p
- erformances from his early solo career.
+DESCRIPTION:The story of Michael Jackson\, one of the most influential art
+ ists the world has ever known\, and his life beyond the music. His journe
+ y from the discovery of his extraordinary talent as the lead of the Jacks
+ on Five\, to the visionary artist whose creative ambition fueled a relent
+ less pursuit to become the biggest entertainer in the world\, highlightin
+ g both his life off-stage and some of the most iconic performances from h
+ is early solo career.
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -436,7 +493,7 @@ DESCRIPTION:College student Lucy and her friends spend their vacation at h
  he group must fight for their lives in order to avoid the now-violent chi
  mp.
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -451,7 +508,7 @@ DESCRIPTION:College student Lucy and her friends spend their vacation at h
  he group must fight for their lives in order to avoid the now-violent chi
  mp.
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -466,7 +523,7 @@ DESCRIPTION:College student Lucy and her friends spend their vacation at h
  he group must fight for their lives in order to avoid the now-violent chi
  mp.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -481,7 +538,7 @@ DESCRIPTION:As their marriage quietly unravels\, Alex faces middle age and
  m to navigate co-parenting\, identity\, and whether love can take a new f
  orm.
 DTEND;VALUE=DATE:20251220
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20251219
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -496,7 +553,7 @@ DESCRIPTION:As their marriage quietly unravels\, Alex faces middle age and
  m to navigate co-parenting\, identity\, and whether love can take a new f
  orm.
 DTEND;VALUE=DATE:20260210
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260209
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -511,7 +568,7 @@ DESCRIPTION:As their marriage quietly unravels\, Alex faces middle age and
  m to navigate co-parenting\, identity\, and whether love can take a new f
  orm.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -525,7 +582,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -539,7 +596,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260214
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260213
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -553,7 +610,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -567,7 +624,7 @@ DESCRIPTION:A 'Man from the Future' arrives at an LA diner where he must r
  e-night quest to save the world from the terminal threat of a rogue artif
  icial intelligence.
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -584,7 +641,7 @@ DESCRIPTION:The Story of Everything is a cinematic exploration of the cosm
  NA\, we discover a consistent signature woven into the fabric of existenc
  e.
 DTEND;VALUE=DATE:20260501
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260430
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -596,7 +653,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260327
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260326
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -608,7 +665,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -620,7 +677,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260718
-DTSTAMP:20260426T030502Z
+DTSTAMP:20260427T030502Z
 DTSTART;VALUE=DATE:20260717
 SEQUENCE:0
 STATUS:CONFIRMED
