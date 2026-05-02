@@ -15,7 +15,7 @@ DESCRIPTION:Con artist Lawrence Jamieson is a longtime resident of a luxur
   American heiress Janet Colgate\, out of $50\,000 first can stay\, while 
  the other must leave town.
 DTEND;VALUE=DATE:19881215
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:19881214
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +34,7 @@ DESCRIPTION:Con artist Lawrence Jamieson is a longtime resident of a luxur
   American heiress Janet Colgate\, out of $50\,000 first can stay\, while 
  the other must leave town.
 DTEND;VALUE=DATE:20260505
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260504
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -53,7 +53,7 @@ DESCRIPTION:Con artist Lawrence Jamieson is a longtime resident of a luxur
   American heiress Janet Colgate\, out of $50\,000 first can stay\, while 
  the other must leave town.
 DTEND;VALUE=DATE:19890102
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:19890101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -69,7 +69,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -85,7 +85,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -101,7 +101,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -116,7 +116,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -124,44 +124,12 @@ SUMMARY:Star Wars: The Mandalorian and Grogu (Theatrical Release)
 UID:Radarr_movie_11698_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Lord Miller
-DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
- rs from home with no recollection of who he is or how he got there. As hi
- s memory returns\, he begins to uncover his mission: solve the riddle of 
- the mysterious substance causing the sun to die out. He must call on his 
- scientific knowledge and unorthodox ideas to save everything on Earth fro
- m extinction.
-DTEND;VALUE=DATE:20260319
-DTSTAMP:20260501T030504Z
-DTSTART;VALUE=DATE:20260318
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Project Hail Mary (Theatrical Release)
-UID:Radarr_movie_11702_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lord Miller
-DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
- rs from home with no recollection of who he is or how he got there. As hi
- s memory returns\, he begins to uncover his mission: solve the riddle of 
- the mysterious substance causing the sun to die out. He must call on his 
- scientific knowledge and unorthodox ideas to save everything on Earth fro
- m extinction.
-DTEND;VALUE=DATE:20260516
-DTSTAMP:20260501T030504Z
-DTSTART;VALUE=DATE:20260515
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Project Hail Mary (Physical Release)
-UID:Radarr_movie_11702_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:A24
 DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20250815
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20250814
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -174,7 +142,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20250905
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20250904
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -187,7 +155,7 @@ DESCRIPTION:When a titan music mogul\, widely known as having the "best ea
  rs in the business"\, is targeted with a ransom plot\, he is jammed up in
   a life-or-death moral dilemma.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -200,7 +168,7 @@ DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
   a veteran paper mill manager descends into violence in a desperate bid t
  o reclaim his dignity.
 DTEND;VALUE=DATE:20250925
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -213,7 +181,7 @@ DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
   a veteran paper mill manager descends into violence in a desperate bid t
  o reclaim his dignity.
 DTEND;VALUE=DATE:20251121
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20251120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -226,7 +194,7 @@ DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
   a veteran paper mill manager descends into violence in a desperate bid t
  o reclaim his dignity.
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260528
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -234,46 +202,46 @@ SUMMARY:No Other Choice (Physical Release)
 UID:Radarr_movie_12311_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:STXfilms
-DESCRIPTION:Having found the safety of the Greenland bunker after the come
- t Clarke decimated the Earth\, the Garrity family must now risk everythin
- g to embark on a perilous journey across the wasteland of Europe to find 
- a new home.
-DTEND;VALUE=DATE:20260108
-DTSTAMP:20260501T030504Z
-DTSTART;VALUE=DATE:20260107
+CATEGORIES:Entertainment One
+DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
+ er under her bed that she claims ate her family. To protect her\, he must
+  battle an onslaught of assassins while accepting that some monsters are 
+ real.
+DTEND;VALUE=DATE:20251212
+DTSTAMP:20260502T030501Z
+DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Greenland 2: Migration (Theatrical Release)
-UID:Radarr_movie_6757_cinemas
+SUMMARY:Dust Bunny (Theatrical Release)
+UID:Radarr_movie_12394_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:STXfilms
-DESCRIPTION:Having found the safety of the Greenland bunker after the come
- t Clarke decimated the Earth\, the Garrity family must now risk everythin
- g to embark on a perilous journey across the wasteland of Europe to find 
- a new home.
-DTEND;VALUE=DATE:20260128
-DTSTAMP:20260501T030504Z
-DTSTART;VALUE=DATE:20260127
+CATEGORIES:Entertainment One
+DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
+ er under her bed that she claims ate her family. To protect her\, he must
+  battle an onslaught of assassins while accepting that some monsters are 
+ real.
+DTEND;VALUE=DATE:20260114
+DTSTAMP:20260502T030501Z
+DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Greenland 2: Migration (Digital Release)
-UID:Radarr_movie_6757_digital
+SUMMARY:Dust Bunny (Digital Release)
+UID:Radarr_movie_12394_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:STXfilms
-DESCRIPTION:Having found the safety of the Greenland bunker after the come
- t Clarke decimated the Earth\, the Garrity family must now risk everythin
- g to embark on a perilous journey across the wasteland of Europe to find 
- a new home.
-DTEND;VALUE=DATE:20260425
-DTSTAMP:20260501T030504Z
-DTSTART;VALUE=DATE:20260424
+CATEGORIES:Entertainment One
+DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
+ er under her bed that she claims ate her family. To protect her\, he must
+  battle an onslaught of assassins while accepting that some monsters are 
+ real.
+DTEND;VALUE=DATE:20260530
+DTSTAMP:20260502T030501Z
+DTSTART;VALUE=DATE:20260529
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Greenland 2: Migration (Physical Release)
-UID:Radarr_movie_6757_physical
+SUMMARY:Dust Bunny (Physical Release)
+UID:Radarr_movie_12394_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Pariah
@@ -281,7 +249,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260123
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260122
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -294,7 +262,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -307,7 +275,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260521
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -320,7 +288,7 @@ DESCRIPTION:Based on a true story\, two down-on-their-luck musicians form
  a joyous Neil Diamond tribute band\, proving it's never too late to find 
  love and follow your dreams.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -333,7 +301,7 @@ DESCRIPTION:Based on a true story\, two down-on-their-luck musicians form
  a joyous Neil Diamond tribute band\, proving it's never too late to find 
  love and follow your dreams.
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -346,7 +314,7 @@ DESCRIPTION:Based on a true story\, two down-on-their-luck musicians form
  a joyous Neil Diamond tribute band\, proving it's never too late to find 
  love and follow your dreams.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -359,7 +327,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -372,7 +340,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260325
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260324
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -385,7 +353,7 @@ DESCRIPTION:A small goat with big dreams gets a once-in-a-lifetime shot to
   join the pros and play roarball\, a high-intensity\, co-ed\, full-contac
  t sport dominated by the fastest\, fiercest animals in the world.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -397,7 +365,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -409,7 +377,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260331
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260330
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -421,7 +389,7 @@ CATEGORIES:MRC
 DESCRIPTION:Tragedy strikes when Heathcliff falls in love with Catherine E
  arnshaw\, a woman from a wealthy family in 18th-century England.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -436,7 +404,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -451,7 +419,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -466,12 +434,48 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Hoppers (Physical Release)
 UID:Radarr_movie_12418_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Jaggi Entertainment
+DESCRIPTION:Follows best friends Maddie and Trish as they find themselves 
+ trapped in a remote lagoon with the dangerous killer whale named Ceto.
+DTEND;VALUE=DATE:20260206
+DTSTAMP:20260502T030501Z
+DTSTART;VALUE=DATE:20260205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Killer Whale (Theatrical Release)
+UID:Radarr_movie_12476_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Jaggi Entertainment
+DESCRIPTION:Follows best friends Maddie and Trish as they find themselves 
+ trapped in a remote lagoon with the dangerous killer whale named Ceto.
+DTEND;VALUE=DATE:20260117
+DTSTAMP:20260502T030501Z
+DTSTART;VALUE=DATE:20260116
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Killer Whale (Digital Release)
+UID:Radarr_movie_12476_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Jaggi Entertainment
+DESCRIPTION:Follows best friends Maddie and Trish as they find themselves 
+ trapped in a remote lagoon with the dangerous killer whale named Ceto.
+DTEND;VALUE=DATE:20260530
+DTSTAMP:20260502T030501Z
+DTSTART;VALUE=DATE:20260529
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Killer Whale (Physical Release)
+UID:Radarr_movie_12476_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Searchlight Pictures
@@ -481,7 +485,7 @@ DESCRIPTION:As their marriage quietly unravels\, Alex faces middle age and
  m to navigate co-parenting\, identity\, and whether love can take a new f
  orm.
 DTEND;VALUE=DATE:20251220
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20251219
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -496,7 +500,7 @@ DESCRIPTION:As their marriage quietly unravels\, Alex faces middle age and
  m to navigate co-parenting\, identity\, and whether love can take a new f
  orm.
 DTEND;VALUE=DATE:20260210
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260209
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -511,7 +515,7 @@ DESCRIPTION:As their marriage quietly unravels\, Alex faces middle age and
  m to navigate co-parenting\, identity\, and whether love can take a new f
  orm.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -525,7 +529,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -542,10 +546,10 @@ DESCRIPTION:The Story of Everything is a cinematic exploration of the cosm
  NA\, we discover a consistent signature woven into the fabric of existenc
  e.
 DTEND;VALUE=DATE:20260501
-DTSTAMP:20260501T030504Z
+DTSTAMP:20260502T030501Z
 DTSTART;VALUE=DATE:20260430
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Story of Everything (Theatrical Release)
 UID:Radarr_movie_12589_cinemas
 END:VEVENT
