@@ -5,46 +5,10 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:NBC
-DESCRIPTION:Gaffney is thrown into chaos when a prison riot overwhelms the
-  E.D. Goodwin and Charles prepare for a high-stakes board meeting.
-DTEND:20260507T004400Z
-DTSTAMP:20260514T030502Z
-DTSTART:20260507T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Chicago Med - 11x20 - Hell Breaks Loose
-UID:NzbDrone_episode_73840
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Severide is forced to crack open a cold case buried for decade
- s. A routine call hits too close to home for Novak.
-DTEND:20260507T014200Z
-DTSTAMP:20260514T030502Z
-DTSTART:20260507T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Chicago Fire - 14x20 - Speak of the Devil
-UID:NzbDrone_episode_73837
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Imani struggles to maintain her composure when a new lead reig
- nites her investigation into her sister's disappearance.
-DTEND:20260507T024100Z
-DTSTAMP:20260514T030502Z
-DTSTART:20260507T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Chicago P.D. - 13x20 - The Lost Years
-UID:NzbDrone_episode_73843
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
 DESCRIPTION:After a fire chief is found dead\, Riley and Walker must uncov
  er the truth within his squad's ranks.
 DTEND:20260508T004500Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260508T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -56,7 +20,7 @@ CATEGORIES:ABC (US)
 DESCRIPTION:Blythe and Don's relationship is still on the rocks\, then the
   113 rush in when a Noah Cyrus sound check goes off the rails.
 DTEND:20260508T014300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -70,7 +34,7 @@ DESCRIPTION:After a catastrophic bridge collapse sends dozens of victims t
  race to treat a surge of critically injured patients\, including one of t
  heir own.
 DTEND:20260508T014300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,7 +47,7 @@ DESCRIPTION:The squad must untangle conflicting stories and long-buried se
  crets when a drug-fueled college reunion ends in sexual assault. With the
   squad under internal pressure by Tynan\, Fin keeps the case on track.
 DTEND:20260508T014400Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -95,7 +59,7 @@ CATEGORIES:Citytv
 DESCRIPTION:Graff and Bateman are called in to investigate when the body o
  f a handyman is found on a Rosedale walking trail.
 DTEND:20260508T024300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260508T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -107,7 +71,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Coop and his family navigate a fraught funeral service and wak
  e.
 DTEND:20260508T045300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260508T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -122,7 +86,7 @@ DESCRIPTION:When Bodeâs past resurfaces far from Edgewater\, a volatile ch
  ront guilt\, accountability and what it truly means to step up when lives
   â and friendships â are on the line.
 DTEND:20260509T014300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260509T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +99,7 @@ DESCRIPTION:A powerful sleeping aid medication gives Joe the ability to wa
  lk while he is asleep\, but Joe grows concerned when it becomes clear tha
  t the guys prefer his sleepwalking self.
 DTEND:20260511T002200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -149,7 +113,7 @@ DESCRIPTION:With a dangerous prison escapee in tow\, Kayce and Cal struggl
  allenging by an unhealed wound from their past that threatens their abili
  ty to work as a team in the present.
 DTEND:20260511T004300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -162,7 +126,7 @@ DESCRIPTION:Colterâs search for a woman who went missing from a rehab faci
  lity takes an unexpected turn when he runs into Billie\, uncovering a pos
  sible link between each of their cases.
 DTEND:20260511T014200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260511T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -176,7 +140,7 @@ DESCRIPTION:Following the assassination of a major corporate executive\, t
  s reemerged. Meanwhile\, OA is temporarily reassigned after refusing to f
  ollow orders but is paired up with a familiar face.
 DTEND:20260512T004200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260512T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -184,12 +148,12 @@ SUMMARY:FBI - 8x21 - Long Shot
 UID:NzbDrone_episode_73820
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:National Geographic
+CATEGORIES:Disney+
 DESCRIPTION:Stanley discovers how adversity has shaped this famed region\,
   revealing that its history of hardship has resulted in creative culinary
   inventions.
 DTEND:20260512T014500Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -197,17 +161,55 @@ SUMMARY:Tucci in Italy - 2x01 - Naples & Campania
 UID:NzbDrone_episode_73917
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:National Geographic
+CATEGORIES:Disney+
 DESCRIPTION:Stanley discovers that Sicily is an island of contrasts and mu
  ltiple influences\, where the multicultural history has left a delicious 
  mark on its food and people
-DTEND:20260512T023000Z
-DTSTAMP:20260514T030502Z
-DTSTART:20260512T014500Z
+DTEND:20260512T014500Z
+DTSTAMP:20260515T030501Z
+DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Tucci in Italy - 2x02 - Sicily
 UID:NzbDrone_episode_73918
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Stanley unearths culinary treasures in this lesser-known regio
+ n and wonders how its many delights have escaped the attention of interna
+ tional tourists.
+DTEND:20260512T014500Z
+DTSTAMP:20260515T030501Z
+DTSTART:20260512T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tucci in Italy - 2x03 - Le Marche
+UID:NzbDrone_episode_73919
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Stanley immerses himself in the myths and mysteries of this wi
+ ld island\, discovering a cuisine thatâs as unique as its geography.
+DTEND:20260512T014500Z
+DTSTAMP:20260515T030501Z
+DTSTART:20260512T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tucci in Italy - 2x04 - Sardinia
+UID:NzbDrone_episode_73920
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Stanley digs into the time-honored recipes of this famous regi
+ on and discovers how these dishes are being kept alive and reinvigorated 
+ for the future.
+DTEND:20260512T014500Z
+DTSTAMP:20260515T030501Z
+DTSTART:20260512T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tucci in Italy - 2x05 - Veneto
+UID:NzbDrone_episode_73921
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
@@ -215,7 +217,7 @@ DESCRIPTION:The team is pulled back into The Collectiveâs web when an FBI
  agent is found dead in Fiji\, and Mackey faces an unplanned family reunio
  n.
 DTEND:20260512T214200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260512T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -227,7 +229,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:The team faces the battle of their lives to stop The Collectiv
  e and save those they hold dear.
 DTEND:20260512T222400Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260512T214200Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -240,7 +242,7 @@ DESCRIPTION:One year after a deadly coffee shop bombing\, a new explosion
  proves the attack wasnât the work of a lone wolf â a case that forces the
   team to confront legacy and loyalty.
 DTEND:20260513T004500Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260513T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -252,10 +254,10 @@ CATEGORIES:NBC
 DESCRIPTION:Hannah faces one of the most challenging deliveries of her car
  eer. Frost navigates demanding times.
 DTEND:20260514T004400Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260514T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago Med - 11x21 - Heaven Help Us
 UID:NzbDrone_episode_73841
 END:VEVENT
@@ -264,10 +266,10 @@ CATEGORIES:NBC
 DESCRIPTION:Severide and Kidd welcome a surprise visitor. Herrmann and Cin
  dy renew their vows. Mouch receives some encouraging news.
 DTEND:20260514T014200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260514T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago Fire - 14x21 - Thank You
 UID:NzbDrone_episode_73838
 END:VEVENT
@@ -277,10 +279,10 @@ DESCRIPTION:When a key witness refuses to cooperate\, the Intelligence Uni
  t is forced to rethink their strategy to locate a fleeing suspect. Imani 
  must confront her past before it's too late.
 DTEND:20260514T024100Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260514T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago P.D. - 13x21 - Born or Made
 UID:NzbDrone_episode_73844
 END:VEVENT
@@ -291,10 +293,10 @@ DESCRIPTION:The murder of a military hero draws the FBI into Brady's inves
  n\, Price and Maroun worry that a series of unusual courtroom rulings mea
  n the judge is in the defendant's pocket.
 DTEND:20260515T004500Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260515T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Law & Order - 25x21 - Liberty
 UID:NzbDrone_episode_73848
 END:VEVENT
@@ -304,7 +306,7 @@ DESCRIPTION:A procedural mistake made during the rescue of a kidnapped boy
   causes the case to collapse in court. As Griffin gets closer to the trut
  h about Tynan\, he finds himself in grave danger.
 DTEND:20260515T014400Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260515T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -316,7 +318,7 @@ CATEGORIES:Citytv
 DESCRIPTION:Graff and Bateman investigate the death of a beloved politicia
  n with a troubled past.
 DTEND:20260515T024300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260515T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -328,17 +330,17 @@ CATEGORIES:Apple TV
 DESCRIPTION:Coop and Sam attend a wild weekend at Asheâs Hamptons estate. 
  Mel takes things too far in her battle with the neighbors.
 DTEND:20260515T045300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260515T040000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Your Friends & Neighbors - 2x07 - Out East
 UID:NzbDrone_episode_70747
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260516T000000Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260516T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -348,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260516T000000Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260516T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -361,7 +363,7 @@ DESCRIPTION:When a volatile blaze at the Pineville Dam triggers a cascadin
  g infrastructure failure\, Station 42 races to execute a series of perilo
  us rescues.
 DTEND:20260516T014300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260516T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -374,7 +376,7 @@ DESCRIPTION:In this three-act parody of prominent historical eras\, the Gr
  iffins take a humorous look at The French Revolution\, the American Civil
   War\, and World War II.
 DTEND:20260518T002200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -387,7 +389,7 @@ DESCRIPTION:As they uncover a drug cartel targeting the Broken Rock Reserv
  ation\, the Marshals race to locate Miles\, only to discover that he has 
  gone rogue to hunt down a trafficker.
 DTEND:20260518T004300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -399,7 +401,7 @@ CATEGORIES:CBS
 DESCRIPTION:Colter and Russell unite in a personal mission to uncover thei
  r fatherâs mysterious work.
 DTEND:20260518T014200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260518T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -412,7 +414,7 @@ DESCRIPTION:The theft of a bioweapon from an unwitting defector forces the
   team to work with an old foe to secure the lethal pathogen and prevent a
  n outbreak across New York City.
 DTEND:20260519T004200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260519T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -420,44 +422,21 @@ SUMMARY:FBI - 8x22 - Defector
 UID:NzbDrone_episode_73821
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:National Geographic
-DESCRIPTION:Stanley unearths culinary treasures in this lesser-known regio
- n and wonders how its many delights have escaped the attention of interna
- tional tourists.
-DTEND:20260519T014500Z
-DTSTAMP:20260514T030502Z
-DTSTART:20260519T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tucci in Italy - 2x03 - Le Marche
-UID:NzbDrone_episode_73919
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:National Geographic
-DESCRIPTION:Stanley immerses himself in the myths and mysteries of this wi
- ld island\, discovering a cuisine thatâs as unique as its geography.
-DTEND:20260519T023000Z
-DTSTAMP:20260514T030502Z
-DTSTART:20260519T014500Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tucci in Italy - 2x04 - Sardinia
-UID:NzbDrone_episode_73920
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV
+DESCRIPTION:Mel and Tori face the consequences of their actions. Sam tries
+  to end things with Ashe. Coop is caught between a rock and a hard place.
 DTEND:20260522T045300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260522T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Your Friends & Neighbors - 2x08 - A Single Woman
+SUMMARY:Your Friends & Neighbors - 2x08 - I Feel Lost Without Me
 UID:NzbDrone_episode_70748
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260523T000000Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260523T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -470,7 +449,7 @@ DESCRIPTION:After a catastrophic dam failure unleashes historic floodwater
  s across Edgewater\, Station 42 and Three Rock battle rising waters and d
  windling resources.
 DTEND:20260523T014300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260523T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -484,7 +463,7 @@ DESCRIPTION:After an assassination attempt against Broken Rock chairman Ra
  rgeting him. When a militia attacks\, Kayce realizes the conspiracy is la
  rger than anyone imagined.
 DTEND:20260525T004300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260525T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -496,7 +475,7 @@ CATEGORIES:CBS
 DESCRIPTION:Colter and Russell search for a victim of a nefarious research
   project.
 DTEND:20260525T014200Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260525T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -504,32 +483,19 @@ SUMMARY:Tracker (2024) - 3x22 - The Best Ones
 UID:NzbDrone_episode_73834
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:National Geographic
-DESCRIPTION:Stanley digs into the time-honored recipes of this famous regi
- on and discovers how these dishes are being kept alive and reinvigorated 
- for the future.
-DTEND:20260526T014500Z
-DTSTAMP:20260514T030502Z
-DTSTART:20260526T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tucci in Italy - 2x05 - Veneto
-UID:NzbDrone_episode_73921
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260529T045300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260529T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Your Friends & Neighbors - 2x09 - I Feel Lost Without Me
+SUMMARY:Your Friends & Neighbors - 2x09 - Propaganda from the Cowardly
 UID:NzbDrone_episode_70749
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260530T000000Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260530T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -539,17 +505,17 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260605T045300Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260605T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Your Friends & Neighbors - 2x10 - Always Another Elephant
+SUMMARY:Your Friends & Neighbors - 2x10 - The Night of the Hunter
 UID:NzbDrone_episode_70750
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260606T000000Z
-DTSTAMP:20260514T030502Z
+DTSTAMP:20260515T030501Z
 DTSTART:20260606T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
