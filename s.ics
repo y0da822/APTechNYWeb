@@ -4,74 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:After a fire chief is found dead\, Riley and Walker must uncov
- er the truth within his squad's ranks.
-DTEND:20260508T004500Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260508T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Law & Order - 25x20 - Once Burned
-UID:NzbDrone_episode_73847
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Blythe and Don's relationship is still on the rocks\, then the
-  113 rush in when a Noah Cyrus sound check goes off the rails.
-DTEND:20260508T014300Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260508T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:9-1-1: Nashville - 1x18 - Intrusive Thoughts
-UID:NzbDrone_episode_72985
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:After a catastrophic bridge collapse sends dozens of victims t
- o Grey Sloan\, the hospital activates its full disaster response as they 
- race to treat a surge of critically injured patients\, including one of t
- heir own.
-DTEND:20260508T014300Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260508T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Grey's Anatomy - 22x18 - Bridge Over Troubled Water
-UID:NzbDrone_episode_73030
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:The squad must untangle conflicting stories and long-buried se
- crets when a drug-fueled college reunion ends in sexual assault. With the
-  squad under internal pressure by Tynan\, Fin keeps the case on track.
-DTEND:20260508T014400Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260508T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Law & Order: Special Victims Unit - 27x20 - Old Friends
-UID:NzbDrone_episode_73728
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Citytv
-DESCRIPTION:Graff and Bateman are called in to investigate when the body o
- f a handyman is found on a Rosedale walking trail.
-DTEND:20260508T024300Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260508T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Law & Order Toronto: Criminal Intent - 3x09 - Lost & Unfound
-UID:NzbDrone_episode_73705
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Coop and his family navigate a fraught funeral service and wak
  e.
 DTEND:20260508T045300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260508T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -86,7 +23,7 @@ DESCRIPTION:When Bodeâs past resurfaces far from Edgewater\, a volatile ch
  ront guilt\, accountability and what it truly means to step up when lives
   â and friendships â are on the line.
 DTEND:20260509T014300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260509T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -99,7 +36,7 @@ DESCRIPTION:A powerful sleeping aid medication gives Joe the ability to wa
  lk while he is asleep\, but Joe grows concerned when it becomes clear tha
  t the guys prefer his sleepwalking self.
 DTEND:20260511T002200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -113,7 +50,7 @@ DESCRIPTION:With a dangerous prison escapee in tow\, Kayce and Cal struggl
  allenging by an unhealed wound from their past that threatens their abili
  ty to work as a team in the present.
 DTEND:20260511T004300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -126,7 +63,7 @@ DESCRIPTION:Colterâs search for a woman who went missing from a rehab faci
  lity takes an unexpected turn when he runs into Billie\, uncovering a pos
  sible link between each of their cases.
 DTEND:20260511T014200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260511T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -140,7 +77,7 @@ DESCRIPTION:Following the assassination of a major corporate executive\, t
  s reemerged. Meanwhile\, OA is temporarily reassigned after refusing to f
  ollow orders but is paired up with a familiar face.
 DTEND:20260512T004200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -153,7 +90,7 @@ DESCRIPTION:Stanley discovers how adversity has shaped this famed region\,
   revealing that its history of hardship has resulted in creative culinary
   inventions.
 DTEND:20260512T014500Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -166,7 +103,7 @@ DESCRIPTION:Stanley discovers that Sicily is an island of contrasts and mu
  ltiple influences\, where the multicultural history has left a delicious 
  mark on its food and people
 DTEND:20260512T014500Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -179,7 +116,7 @@ DESCRIPTION:Stanley unearths culinary treasures in this lesser-known regio
  n and wonders how its many delights have escaped the attention of interna
  tional tourists.
 DTEND:20260512T014500Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -191,7 +128,7 @@ CATEGORIES:Disney+
 DESCRIPTION:Stanley immerses himself in the myths and mysteries of this wi
  ld island\, discovering a cuisine thatâs as unique as its geography.
 DTEND:20260512T014500Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -204,7 +141,7 @@ DESCRIPTION:Stanley digs into the time-honored recipes of this famous regi
  on and discovers how these dishes are being kept alive and reinvigorated 
  for the future.
 DTEND:20260512T014500Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -217,7 +154,7 @@ DESCRIPTION:The team is pulled back into The Collectiveâs web when an FBI
  agent is found dead in Fiji\, and Mackey faces an unplanned family reunio
  n.
 DTEND:20260512T214200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -229,7 +166,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:The team faces the battle of their lives to stop The Collectiv
  e and save those they hold dear.
 DTEND:20260512T222400Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260512T214200Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -242,7 +179,7 @@ DESCRIPTION:One year after a deadly coffee shop bombing\, a new explosion
  proves the attack wasnât the work of a lone wolf â a case that forces the
   team to confront legacy and loyalty.
 DTEND:20260513T004500Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260513T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -254,7 +191,7 @@ CATEGORIES:NBC
 DESCRIPTION:Hannah faces one of the most challenging deliveries of her car
  eer. Frost navigates demanding times.
 DTEND:20260514T004400Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260514T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -266,7 +203,7 @@ CATEGORIES:NBC
 DESCRIPTION:Severide and Kidd welcome a surprise visitor. Herrmann and Cin
  dy renew their vows. Mouch receives some encouraging news.
 DTEND:20260514T014200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260514T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -279,7 +216,7 @@ DESCRIPTION:When a key witness refuses to cooperate\, the Intelligence Uni
  t is forced to rethink their strategy to locate a fleeing suspect. Imani 
  must confront her past before it's too late.
 DTEND:20260514T024100Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260514T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -293,7 +230,7 @@ DESCRIPTION:The murder of a military hero draws the FBI into Brady's inves
  n\, Price and Maroun worry that a series of unusual courtroom rulings mea
  n the judge is in the defendant's pocket.
 DTEND:20260515T004500Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260515T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,10 +243,10 @@ DESCRIPTION:A procedural mistake made during the rescue of a kidnapped boy
   causes the case to collapse in court. As Griffin gets closer to the trut
  h about Tynan\, he finds himself in grave danger.
 DTEND:20260515T014400Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260515T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Law & Order: Special Victims Unit - 27x21 - Monster
 UID:NzbDrone_episode_73787
 END:VEVENT
@@ -318,10 +255,10 @@ CATEGORIES:Citytv
 DESCRIPTION:Graff and Bateman investigate the death of a beloved politicia
  n with a troubled past.
 DTEND:20260515T024300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260515T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Law & Order Toronto: Criminal Intent - 3x10 - XOXO
 UID:NzbDrone_episode_73706
 END:VEVENT
@@ -330,7 +267,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Coop and Sam attend a wild weekend at Asheâs Hamptons estate. 
  Mel takes things too far in her battle with the neighbors.
 DTEND:20260515T045300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260515T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -339,21 +276,28 @@ UID:NzbDrone_episode_70747
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
-DTEND:20260516T000000Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260516T000000Z
+DESCRIPTION:Beth and Rip rebuild their lives in Rio Paloma\, Texas\, but v
+ iolent rivals and small town tensions threaten their hard won peace as th
+ ey fight to protect their land and family. Series Premiere.
+DTEND:20260515T075200Z
+DTSTAMP:20260516T030502Z
+DTSTART:20260515T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Dutton Ranch - 1x01 - The Untold Want
 UID:NzbDrone_episode_73768
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
-DTEND:20260516T000000Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260516T000000Z
+DESCRIPTION:Beth and Rip work to forge their new life in Rio Paloma\, carr
+ ying scars of what they lost and hope for what might rise. As he searches
+  for his place in their fresh start\, Carter finds connection with Oreana
+ .
+DTEND:20260515T084400Z
+DTSTAMP:20260516T030502Z
+DTSTART:20260515T075200Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Dutton Ranch - 1x02 - Earn Another Day
 UID:NzbDrone_episode_73958
 END:VEVENT
@@ -363,7 +307,7 @@ DESCRIPTION:When a volatile blaze at the Pineville Dam triggers a cascadin
  g infrastructure failure\, Station 42 races to execute a series of perilo
  us rescues.
 DTEND:20260516T014300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260516T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -376,7 +320,7 @@ DESCRIPTION:In this three-act parody of prominent historical eras\, the Gr
  iffins take a humorous look at The French Revolution\, the American Civil
   War\, and World War II.
 DTEND:20260518T002200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -389,7 +333,7 @@ DESCRIPTION:As they uncover a drug cartel targeting the Broken Rock Reserv
  ation\, the Marshals race to locate Miles\, only to discover that he has 
  gone rogue to hunt down a trafficker.
 DTEND:20260518T004300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -401,7 +345,7 @@ CATEGORIES:CBS
 DESCRIPTION:Colter and Russell unite in a personal mission to uncover thei
  r fatherâs mysterious work.
 DTEND:20260518T014200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260518T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -414,7 +358,7 @@ DESCRIPTION:The theft of a bioweapon from an unwitting defector forces the
   team to work with an old foe to secure the lethal pathogen and prevent a
  n outbreak across New York City.
 DTEND:20260519T004200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260519T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -426,7 +370,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Mel and Tori face the consequences of their actions. Sam tries
   to end things with Ashe. Coop is caught between a rock and a hard place.
 DTEND:20260522T045300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260522T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -435,9 +379,9 @@ UID:NzbDrone_episode_70748
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
-DTEND:20260523T000000Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260523T000000Z
+DTEND:20260522T075200Z
+DTSTAMP:20260516T030502Z
+DTSTART:20260522T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Dutton Ranch - 1x03 - Act of God Business
@@ -449,7 +393,7 @@ DESCRIPTION:After a catastrophic dam failure unleashes historic floodwater
  s across Edgewater\, Station 42 and Three Rock battle rising waters and d
  windling resources.
 DTEND:20260523T014300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260523T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -463,7 +407,7 @@ DESCRIPTION:After an assassination attempt against Broken Rock chairman Ra
  rgeting him. When a militia attacks\, Kayce realizes the conspiracy is la
  rger than anyone imagined.
 DTEND:20260525T004300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260525T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -475,7 +419,7 @@ CATEGORIES:CBS
 DESCRIPTION:Colter and Russell search for a victim of a nefarious research
   project.
 DTEND:20260525T014200Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260525T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -485,7 +429,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260529T045300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260529T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -494,9 +438,9 @@ UID:NzbDrone_episode_70749
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
-DTEND:20260530T000000Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260530T000000Z
+DTEND:20260529T075200Z
+DTSTAMP:20260516T030502Z
+DTSTART:20260529T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Dutton Ranch - 1x04 - Start with a Bullet
@@ -505,7 +449,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260605T045300Z
-DTSTAMP:20260515T030501Z
+DTSTAMP:20260516T030502Z
 DTSTART:20260605T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -514,9 +458,9 @@ UID:NzbDrone_episode_70750
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
-DTEND:20260606T000000Z
-DTSTAMP:20260515T030501Z
-DTSTART:20260606T000000Z
+DTEND:20260605T075200Z
+DTSTAMP:20260516T030502Z
+DTSTART:20260605T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Dutton Ranch - 1x05 - Peaceful Find Peace
