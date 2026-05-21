@@ -11,7 +11,7 @@ DESCRIPTION:The defense and the prosecution have rested and the jury is fi
  soon becomes a mini-drama of each of the jurors' prejudices and preconcep
  tions about the trial\, the accused\, and each other.
 DTEND;VALUE=DATE:19570411
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:19570410
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:The defense and the prosecution have rested and the jury is fi
  soon becomes a mini-drama of each of the jurors' prejudices and preconcep
  tions about the trial\, the accused\, and each other.
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260524
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DESCRIPTION:The defense and the prosecution have rested and the jury is fi
  soon becomes a mini-drama of each of the jurors' prejudices and preconcep
  tions about the trial\, the accused\, and each other.
 DTEND;VALUE=DATE:20000102
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20000101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,7 +57,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +73,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -89,7 +89,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +109,7 @@ DESCRIPTION:The stars are gone. The planets have disappeared. Only individ
  n their freedom. If not\, another will follow. This will be the 13th expe
  dition.
 DTEND;VALUE=DATE:20260131
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -129,7 +129,7 @@ DESCRIPTION:The stars are gone. The planets have disappeared. Only individ
  n their freedom. If not\, another will follow. This will be the 13th expe
  dition.
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260531
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -146,7 +146,7 @@ DESCRIPTION:In the immediate post-war period\, amidst the rubble of a pove
  igrants seeking a new life in America and arrive in an unknown metropolis
  \, which\, after several misadventures\, they will learn to call home.
 DTEND;VALUE=DATE:20241122
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20241121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -163,12 +163,26 @@ DESCRIPTION:In the immediate post-war period\, amidst the rubble of a pove
  igrants seeking a new life in America and arrive in an unknown metropolis
  \, which\, after several misadventures\, they will learn to call home.
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260514
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Naples to New York (Digital Release)
 UID:Radarr_movie_11539_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pixar
+DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
+ sessed\, Buzz\, Woody\, Jessie and the rest of the gang's jobs become exp
+ onentially harder when they have to go head to head with the all-new thre
+ at to playtime.
+DTEND;VALUE=DATE:20260618
+DTSTAMP:20260521T030502Z
+DTSTART;VALUE=DATE:20260617
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Toy Story 5 (Theatrical Release)
+UID:Radarr_movie_8149_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lucasfilm Ltd.
@@ -178,10 +192,10 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Star Wars: The Mandalorian and Grogu (Theatrical Release)
 UID:Radarr_movie_11698_cinemas
 END:VEVENT
@@ -194,7 +208,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -209,7 +223,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -224,7 +238,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -239,7 +253,7 @@ DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
  dney must face the horrors of her past to put an end to the bloodshed onc
  e and for all.
 DTEND;VALUE=DATE:20260226
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260225
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -254,7 +268,7 @@ DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
  dney must face the horrors of her past to put an end to the bloodshed onc
  e and for all.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -269,7 +283,7 @@ DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
  dney must face the horrors of her past to put an end to the bloodshed onc
  e and for all.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -282,7 +296,7 @@ DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
   a veteran paper mill manager descends into violence in a desperate bid t
  o reclaim his dignity.
 DTEND;VALUE=DATE:20250925
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -295,7 +309,7 @@ DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
   a veteran paper mill manager descends into violence in a desperate bid t
  o reclaim his dignity.
 DTEND;VALUE=DATE:20251121
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20251120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -308,7 +322,7 @@ DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
   a veteran paper mill manager descends into violence in a desperate bid t
  o reclaim his dignity.
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260528
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -322,7 +336,7 @@ DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
   battle an onslaught of assassins while accepting that some monsters are 
  real.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -336,7 +350,7 @@ DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
   battle an onslaught of assassins while accepting that some monsters are 
  real.
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -350,7 +364,7 @@ DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
   battle an onslaught of assassins while accepting that some monsters are 
  real.
 DTEND;VALUE=DATE:20260530
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260529
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -363,7 +377,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260123
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260122
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -376,7 +390,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -389,7 +403,7 @@ DESCRIPTION:When a mutating\, highly contagious fungus escapes a sealed fa
  cility\, two employees â joined by a grizzled bioterror operative â must 
  survive the wildest night shift ever to save humanity from extinction.
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260521
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -397,51 +411,12 @@ SUMMARY:Cold Storage (Physical Release)
 UID:Radarr_movie_12400_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Focus Features
-DESCRIPTION:Based on a true story\, two down-on-their-luck musicians form 
- a joyous Neil Diamond tribute band\, proving it's never too late to find 
- love and follow your dreams.
-DTEND;VALUE=DATE:20251226
-DTSTAMP:20260520T030502Z
-DTSTART;VALUE=DATE:20251225
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Song Sung Blue (Theatrical Release)
-UID:Radarr_movie_12405_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Focus Features
-DESCRIPTION:Based on a true story\, two down-on-their-luck musicians form 
- a joyous Neil Diamond tribute band\, proving it's never too late to find 
- love and follow your dreams.
-DTEND;VALUE=DATE:20260114
-DTSTAMP:20260520T030502Z
-DTSTART;VALUE=DATE:20260113
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Song Sung Blue (Digital Release)
-UID:Radarr_movie_12405_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Focus Features
-DESCRIPTION:Based on a true story\, two down-on-their-luck musicians form 
- a joyous Neil Diamond tribute band\, proving it's never too late to find 
- love and follow your dreams.
-DTEND;VALUE=DATE:20260514
-DTSTAMP:20260520T030502Z
-DTSTART;VALUE=DATE:20260513
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Song Sung Blue (Physical Release)
-UID:Radarr_movie_12405_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Lionsgate
 DESCRIPTION:Tethered by a frightening conclusion\, Maya and the Strangers 
  are locked on an unavoidable\, unforgiving collision course â a showdown 
  that proves theyâre far from strangers now.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -454,7 +429,7 @@ DESCRIPTION:Tethered by a frightening conclusion\, Maya and the Strangers
  are locked on an unavoidable\, unforgiving collision course â a showdown 
  that proves theyâre far from strangers now.
 DTEND;VALUE=DATE:20260307
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260306
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -467,7 +442,7 @@ DESCRIPTION:Tethered by a frightening conclusion\, Maya and the Strangers
  are locked on an unavoidable\, unforgiving collision course â a showdown 
  that proves theyâre far from strangers now.
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260515
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -482,7 +457,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -497,7 +472,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -512,7 +487,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -524,7 +499,7 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:If you found out we werenât alone\, if someone showed you\, pr
  oved it to you\, would that frighten you?
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -536,7 +511,7 @@ CATEGORIES:Jaggi Entertainment
 DESCRIPTION:Follows best friends Maddie and Trish as they find themselves 
  trapped in a remote lagoon with the dangerous killer whale named Ceto.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -548,7 +523,7 @@ CATEGORIES:Jaggi Entertainment
 DESCRIPTION:Follows best friends Maddie and Trish as they find themselves 
  trapped in a remote lagoon with the dangerous killer whale named Ceto.
 DTEND;VALUE=DATE:20260117
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260116
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -560,7 +535,7 @@ CATEGORIES:Jaggi Entertainment
 DESCRIPTION:Follows best friends Maddie and Trish as they find themselves 
  trapped in a remote lagoon with the dangerous killer whale named Ceto.
 DTEND;VALUE=DATE:20260530
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260529
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -573,7 +548,7 @@ DESCRIPTION:A drifter with a mysterious past arrives in a small town and f
  inds the residents in the grip of a ruthless crime boss and realizes he h
  as to help them.
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260514
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -586,7 +561,7 @@ DESCRIPTION:A drifter with a mysterious past arrives in a small town and f
  inds the residents in the grip of a ruthless crime boss and realizes he h
  as to help them.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -599,7 +574,7 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260528
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -612,7 +587,7 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -625,7 +600,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -639,7 +614,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -653,7 +628,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -667,7 +642,7 @@ DESCRIPTION:The young daughter of a journalist disappears into the desert
   is returned to them\, as what should be a joyful reunion turns into a li
  ving nightmare.
 DTEND;VALUE=DATE:20260416
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260415
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -681,7 +656,7 @@ DESCRIPTION:The young daughter of a journalist disappears into the desert
   is returned to them\, as what should be a joyful reunion turns into a li
  ving nightmare.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -695,7 +670,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -709,7 +684,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
