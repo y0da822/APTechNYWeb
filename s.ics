@@ -4,49 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:The team is pulled back into The Collectiveâs web when an FBI 
- agent is found dead in Fiji\, and Mackey faces an unplanned family reunio
- n.
-DTEND:20260512T214200Z
-DTSTAMP:20260520T030502Z
-DTSTART:20260512T210000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:NCIS: Sydney - 3x19 - Hunter
-UID:NzbDrone_episode_73830
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:The team faces the battle of their lives to stop The Collectiv
- e and save those they hold dear.
-DTEND:20260512T222400Z
-DTSTAMP:20260520T030502Z
-DTSTART:20260512T214200Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:NCIS: Sydney - 3x20 - Killer
-UID:NzbDrone_episode_73831
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:One year after a deadly coffee shop bombing\, a new explosion 
- proves the attack wasnât the work of a lone wolf â a case that forces the
-  team to confront legacy and loyalty.
-DTEND:20260513T004500Z
-DTSTAMP:20260520T030502Z
-DTSTART:20260513T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:NCIS - 23x20 - Sons and Daughters
-UID:NzbDrone_episode_73794
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Hannah faces one of the most challenging deliveries of her car
  eer. Frost navigates demanding times.
 DTEND:20260514T004400Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260514T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +20,7 @@ CATEGORIES:NBC
 DESCRIPTION:Severide and Kidd welcome a surprise visitor. Herrmann and Cin
  dy renew their vows. Mouch receives some encouraging news.
 DTEND:20260514T014200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260514T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +33,7 @@ DESCRIPTION:When a key witness refuses to cooperate\, the Intelligence Uni
  t is forced to rethink their strategy to locate a fleeing suspect. Imani 
  must confront her past before it's too late.
 DTEND:20260514T024100Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260514T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -85,7 +47,7 @@ DESCRIPTION:The murder of a military hero draws the FBI into Brady's inves
  n\, Price and Maroun worry that a series of unusual courtroom rulings mea
  n the judge is in the defendant's pocket.
 DTEND:20260515T004500Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260515T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -98,7 +60,7 @@ DESCRIPTION:A procedural mistake made during the rescue of a kidnapped boy
   causes the case to collapse in court. As Griffin gets closer to the trut
  h about Tynan\, he finds himself in grave danger.
 DTEND:20260515T014400Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260515T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -110,7 +72,7 @@ CATEGORIES:Citytv
 DESCRIPTION:Graff and Bateman investigate the death of a beloved politicia
  n with a troubled past.
 DTEND:20260515T024300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260515T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -122,7 +84,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Coop and Sam attend a wild weekend at Asheâs Hamptons estate. 
  Mel takes things too far in her battle with the neighbors.
 DTEND:20260515T045300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260515T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +97,7 @@ DESCRIPTION:Beth and Rip rebuild their lives in Rio Paloma\, Texas\, but v
  iolent rivals and small town tensions threaten their hard won peace as th
  ey fight to protect their land and family. Series Premiere.
 DTEND:20260515T075200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260515T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -149,7 +111,7 @@ DESCRIPTION:Beth and Rip work to forge their new life in Rio Paloma\, carr
   for his place in their fresh start\, Carter finds connection with Oreana
  .
 DTEND:20260515T084400Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260515T075200Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -162,7 +124,7 @@ DESCRIPTION:When a volatile blaze at the Pineville Dam triggers a cascadin
  g infrastructure failure\, Station 42 races to execute a series of perilo
  us rescues.
 DTEND:20260516T014300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260516T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -175,7 +137,7 @@ DESCRIPTION:In this three-act parody of prominent historical eras\, the Gr
  iffins take a humorous look at The French Revolution\, the American Civil
   War\, and World War II.
 DTEND:20260518T002200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -188,7 +150,7 @@ DESCRIPTION:As they uncover a drug cartel targeting the Broken Rock Reserv
  ation\, the Marshals race to locate Miles\, only to discover that he has 
  gone rogue to hunt down a trafficker.
 DTEND:20260518T004300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -200,7 +162,7 @@ CATEGORIES:CBS
 DESCRIPTION:Colter and Russell unite in a personal mission to uncover thei
  r fatherâs mysterious work.
 DTEND:20260518T014200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260518T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -213,7 +175,7 @@ DESCRIPTION:The theft of a bioweapon from an unwitting defector forces the
   team to work with an old foe to secure the lethal pathogen and prevent a
  n outbreak across New York City.
 DTEND:20260519T004200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260519T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -225,7 +187,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Mel and Tori face the consequences of their actions. Sam tries
   to end things with Ashe. Coop is caught between a rock and a hard place.
 DTEND:20260522T045300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260522T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -235,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260522T075200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260522T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -248,7 +210,7 @@ DESCRIPTION:After a catastrophic dam failure unleashes historic floodwater
  s across Edgewater\, Station 42 and Three Rock battle rising waters and d
  windling resources.
 DTEND:20260523T014300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260523T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -262,7 +224,7 @@ DESCRIPTION:After an assassination attempt against Broken Rock chairman Ra
  rgeting him. When a militia attacks\, Kayce realizes the conspiracy is la
  rger than anyone imagined.
 DTEND:20260525T004300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260525T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -274,7 +236,7 @@ CATEGORIES:CBS
 DESCRIPTION:Colter and Russell search for a victim of a nefarious research
   project.
 DTEND:20260525T014200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260525T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -284,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260529T045300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260529T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -294,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260529T075200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260529T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -304,7 +266,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260605T045300Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260605T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -314,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260605T075200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260605T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -324,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Network
 DTEND:20260612T075200Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260612T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -334,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:STARZ
 DTEND:20260613T015500Z
-DTSTAMP:20260520T030502Z
+DTSTAMP:20260521T030502Z
 DTSTART:20260613T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
