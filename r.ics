@@ -4,36 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:10th Street Entertainment
-DESCRIPTION:The story of MÃ¶tley CrÃ¼e and their rise from the Sunset Strip 
- club scene of the early 1980s to superstardom.
-DTEND;VALUE=DATE:20260628
-DTSTAMP:20260618T030503Z
-DTSTART;VALUE=DATE:20260627
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Dirt (Theatrical Release)
-UID:Radarr_movie_2791_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:10th Street Entertainment
-DESCRIPTION:The story of MÃ¶tley CrÃ¼e and their rise from the Sunset Strip 
- club scene of the early 1980s to superstardom.
-DTEND;VALUE=DATE:20190323
-DTSTAMP:20260618T030503Z
-DTSTART;VALUE=DATE:20190322
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Dirt (Digital Release)
-UID:Radarr_movie_2791_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:RadicalMedia
 DESCRIPTION:Presenting the tale of American founding father Alexander Hami
  lton\, this filmed version of the original Broadway smash hit is the stor
  y of America then\, told by America now.
 DTEND;VALUE=DATE:20200704
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20200703
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +22,7 @@ DESCRIPTION:Presenting the tale of American founding father Alexander Hami
  lton\, this filmed version of the original Broadway smash hit is the stor
  y of America then\, told by America now.
 DTEND;VALUE=DATE:20200704
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20200703
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -59,7 +35,7 @@ DESCRIPTION:Presenting the tale of American founding father Alexander Hami
  lton\, this filmed version of the original Broadway smash hit is the stor
  y of America then\, told by America now.
 DTEND;VALUE=DATE:20260617
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260616
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -74,7 +50,7 @@ DESCRIPTION:A bored estate lawyer spots a beautiful woman in the window of
  ife\, meanwhile\, has hired a private detective to find out why he has st
  arted coming home late smelling of perfume.
 DTEND;VALUE=DATE:20041016
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20041015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -89,7 +65,7 @@ DESCRIPTION:A bored estate lawyer spots a beautiful woman in the window of
  ife\, meanwhile\, has hired a private detective to find out why he has st
  arted coming home late smelling of perfume.
 DTEND;VALUE=DATE:20260616
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260615
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -104,7 +80,7 @@ DESCRIPTION:A bored estate lawyer spots a beautiful woman in the window of
  ife\, meanwhile\, has hired a private detective to find out why he has st
  arted coming home late smelling of perfume.
 DTEND;VALUE=DATE:20050812
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20050811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -117,7 +93,7 @@ DESCRIPTION:Moana answers the Ocean's call and\, for the first time\, voya
  ges beyond the reef of her island of Motunui with the infamous demigod Ma
  ui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -131,7 +107,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -145,7 +121,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260617
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -160,7 +136,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -174,7 +150,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -188,7 +164,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260408
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260407
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -202,7 +178,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260701
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -218,7 +194,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -234,7 +210,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -250,89 +226,12 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Crime 101 (Physical Release)
 UID:Radarr_movie_12404_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:The story of Michael Jackson\, one of the most influential art
- ists the world has ever known\, and his life beyond the music. His journe
- y from the discovery of his extraordinary talent as the lead of the Jacks
- on Five\, to the visionary artist whose creative ambition fueled a relent
- less pursuit to become the biggest entertainer in the world\, highlightin
- g both his life off-stage and some of the most iconic performances from h
- is early solo career.
-DTEND;VALUE=DATE:20260423
-DTSTAMP:20260618T030503Z
-DTSTART;VALUE=DATE:20260422
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Michael (Theatrical Release)
-UID:Radarr_movie_12419_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:The story of Michael Jackson\, one of the most influential art
- ists the world has ever known\, and his life beyond the music. His journe
- y from the discovery of his extraordinary talent as the lead of the Jacks
- on Five\, to the visionary artist whose creative ambition fueled a relent
- less pursuit to become the biggest entertainer in the world\, highlightin
- g both his life off-stage and some of the most iconic performances from h
- is early solo career.
-DTEND;VALUE=DATE:20260610
-DTSTAMP:20260618T030503Z
-DTSTART;VALUE=DATE:20260609
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Michael (Digital Release)
-UID:Radarr_movie_12419_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:The story of Michael Jackson\, one of the most influential art
- ists the world has ever known\, and his life beyond the music. His journe
- y from the discovery of his extraordinary talent as the lead of the Jacks
- on Five\, to the visionary artist whose creative ambition fueled a relent
- less pursuit to become the biggest entertainer in the world\, highlightin
- g both his life off-stage and some of the most iconic performances from h
- is early solo career.
-DTEND;VALUE=DATE:20260715
-DTSTAMP:20260618T030503Z
-DTSTART;VALUE=DATE:20260714
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Michael (Physical Release)
-UID:Radarr_movie_12419_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cinemation Studios
-DESCRIPTION:A successful black businessman\, haunted by his crumbling marr
- iage and identity crisis\, is drawn into a psychological game of cat and 
- mouse with a mysterious white woman he encounters on a New York subway.
-DTEND;VALUE=DATE:20260103
-DTSTAMP:20260618T030503Z
-DTSTART;VALUE=DATE:20260102
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Dutchman (Theatrical Release)
-UID:Radarr_movie_12424_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cinemation Studios
-DESCRIPTION:A successful black businessman\, haunted by his crumbling marr
- iage and identity crisis\, is drawn into a psychological game of cat and 
- mouse with a mysterious white woman he encounters on a New York subway.
-DTEND;VALUE=DATE:20260612
-DTSTAMP:20260618T030503Z
-DTSTART;VALUE=DATE:20260611
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Dutchman (Digital Release)
-UID:Radarr_movie_12424_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Bazmark
@@ -342,7 +241,7 @@ DESCRIPTION:Long-lost footage from Elvis Presley's legendary Las Vegas res
  ng "his side of the story" rediscovered during Baz Luhrmann's research fo
  r his 2022 film\, Elvis.
 DTEND;VALUE=DATE:20260220
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260219
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -357,7 +256,7 @@ DESCRIPTION:Long-lost footage from Elvis Presley's legendary Las Vegas res
  ng "his side of the story" rediscovered during Baz Luhrmann's research fo
  r his 2022 film\, Elvis.
 DTEND;VALUE=DATE:20260407
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260406
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -372,7 +271,7 @@ DESCRIPTION:Long-lost footage from Elvis Presley's legendary Las Vegas res
  ng "his side of the story" rediscovered during Baz Luhrmann's research fo
  r his 2022 film\, Elvis.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -388,7 +287,7 @@ DESCRIPTION:Moments after surviving an all-out attack from the Le Domas fa
  of the Council that controls the world. Four rival families are hunting h
  er for the throne\, and whoever wins rules it all.
 DTEND;VALUE=DATE:20260320
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260319
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -404,7 +303,7 @@ DESCRIPTION:Moments after surviving an all-out attack from the Le Domas fa
  of the Council that controls the world. Four rival families are hunting h
  er for the throne\, and whoever wins rules it all.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -420,7 +319,7 @@ DESCRIPTION:Moments after surviving an all-out attack from the Le Domas fa
  of the Council that controls the world. Four rival families are hunting h
  er for the throne\, and whoever wins rules it all.
 DTEND;VALUE=DATE:20260623
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260622
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -432,7 +331,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260327
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260326
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -444,7 +343,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -456,7 +355,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260714
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260713
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -469,7 +368,7 @@ DESCRIPTION:When a woman crashes at an empty Italian villa\, posing as the
   owner's fiancÃ©e\, she discovers an unexpected romance that could transfo
  rm her life.
 DTEND;VALUE=DATE:20260410
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260409
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -482,7 +381,7 @@ DESCRIPTION:When a woman crashes at an empty Italian villa\, posing as the
   owner's fiancÃ©e\, she discovers an unexpected romance that could transfo
  rm her life.
 DTEND;VALUE=DATE:20260513
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260512
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -495,7 +394,7 @@ DESCRIPTION:When a woman crashes at an empty Italian villa\, posing as the
   owner's fiancÃ©e\, she discovers an unexpected romance that could transfo
  rm her life.
 DTEND;VALUE=DATE:20260617
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260616
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -511,7 +410,7 @@ DESCRIPTION:When Diem's custodial grandparents adamantly refuse Kenna's at
   of them\, leading Kenna toward heartbreak and\, ultimately\, the hope fo
  r a second chance.
 DTEND;VALUE=DATE:20260312
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260311
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -527,7 +426,7 @@ DESCRIPTION:When Diem's custodial grandparents adamantly refuse Kenna's at
   of them\, leading Kenna toward heartbreak and\, ultimately\, the hope fo
  r a second chance.
 DTEND;VALUE=DATE:20260415
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260414
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -543,7 +442,7 @@ DESCRIPTION:When Diem's custodial grandparents adamantly refuse Kenna's at
   of them\, leading Kenna toward heartbreak and\, ultimately\, the hope fo
  r a second chance.
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260617
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -556,7 +455,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -569,7 +468,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -582,7 +481,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -596,7 +495,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260326
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260325
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -610,7 +509,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -624,7 +523,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260618T030503Z
+DTSTAMP:20260619T030502Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
