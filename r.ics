@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
 DESCRIPTION:The men who made millions from a global economic meltdown.
 DTEND;VALUE=DATE:20151224
-DTSTAMP:20260630T030503Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20151223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
 DESCRIPTION:The men who made millions from a global economic meltdown.
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260701
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
 DESCRIPTION:The men who made millions from a global economic meltdown.
 DTEND;VALUE=DATE:20160422
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20160421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -37,12 +37,63 @@ SUMMARY:The Big Short (Physical Release)
 UID:Radarr_movie_2680_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
+ oma four years after her jealous ex-lover Bill attempts to murder her on 
+ her wedding day. Fueled by an insatiable desire for revenge\, she vows to
+  get even with every person who contributed to the loss of her unborn chi
+ ld\, her entire wedding party\, and four years of her life.  After devisi
+ ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
+ jury and unscrupulous enemies.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20260701T030507Z
+DTSTART;VALUE=DATE:20251205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
+UID:Radarr_movie_9301_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
+ oma four years after her jealous ex-lover Bill attempts to murder her on 
+ her wedding day. Fueled by an insatiable desire for revenge\, she vows to
+  get even with every person who contributed to the loss of her unborn chi
+ ld\, her entire wedding party\, and four years of her life.  After devisi
+ ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
+ jury and unscrupulous enemies.
+DTEND;VALUE=DATE:20260217
+DTSTAMP:20260701T030507Z
+DTSTART;VALUE=DATE:20260216
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Digital Release)
+UID:Radarr_movie_9301_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Miramax
+DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
+ oma four years after her jealous ex-lover Bill attempts to murder her on 
+ her wedding day. Fueled by an insatiable desire for revenge\, she vows to
+  get even with every person who contributed to the loss of her unborn chi
+ ld\, her entire wedding party\, and four years of her life.  After devisi
+ ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
+ jury and unscrupulous enemies.
+DTEND;VALUE=DATE:20260729
+DTSTAMP:20260701T030507Z
+DTSTART;VALUE=DATE:20260728
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kill Bill: The Whole Bloody Affair (Physical Release)
+UID:Radarr_movie_9301_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Walt Disney Pictures
 DESCRIPTION:Moana answers the Ocean's call and\, for the first time\, voya
  ges beyond the reef of her island of Motunui with the infamous demigod Ma
  ui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,44 +107,12 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Supergirl (Theatrical Release)
 UID:Radarr_movie_11697_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Escape Artists
-DESCRIPTION:After being separated for 15 years\, the Sword of Power leads 
- Prince Adam back to Eternia\, where he discovers his home shattered under
-  the fiendish rule of Skeletor. To save his family and his world\, Adam m
- ust join forces with his closest allies\, Teela and Duncan/Man-At-Arms\, 
- and embrace his true destiny as He-Man â the most powerful man in the uni
- verse.
-DTEND;VALUE=DATE:20260604
-DTSTAMP:20260630T030504Z
-DTSTART;VALUE=DATE:20260603
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Masters of the Universe (Theatrical Release)
-UID:Radarr_movie_11699_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Escape Artists
-DESCRIPTION:After being separated for 15 years\, the Sword of Power leads 
- Prince Adam back to Eternia\, where he discovers his home shattered under
-  the fiendish rule of Skeletor. To save his family and his world\, Adam m
- ust join forces with his closest allies\, Teela and Duncan/Man-At-Arms\, 
- and embrace his true destiny as He-Man â the most powerful man in the uni
- verse.
-DTEND;VALUE=DATE:20260627
-DTSTAMP:20260630T030504Z
-DTSTART;VALUE=DATE:20260626
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Masters of the Universe (Digital Release)
-UID:Radarr_movie_11699_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
@@ -103,7 +122,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -117,7 +136,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -131,7 +150,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260408
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260407
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -145,7 +164,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260701
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -161,7 +180,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -177,7 +196,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -193,7 +212,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -210,7 +229,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -227,7 +246,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -244,7 +263,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -257,7 +276,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -270,7 +289,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -282,7 +301,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -294,7 +313,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,7 +325,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -320,7 +339,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -334,7 +353,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -347,9 +366,9 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  sh's heart\, a hopeless romantic finds himself getting exactly what he as
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
-DTEND;VALUE=DATE:20260916
-DTSTAMP:20260630T030504Z
-DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260715
+DTSTAMP:20260701T030507Z
+DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Obsession (Physical Release)
@@ -364,7 +383,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -380,7 +399,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -393,7 +412,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -406,7 +425,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -419,7 +438,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -433,7 +452,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -447,7 +466,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -461,62 +480,12 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Devil Wears Prada 2 (Physical Release)
 UID:Radarr_movie_11191_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20260528
-DTSTAMP:20260630T030504Z
-DTSTART;VALUE=DATE:20260527
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Theatrical Release)
-UID:Radarr_movie_12648_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20260708
-DTSTAMP:20260630T030504Z
-DTSTART;VALUE=DATE:20260707
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Digital Release)
-UID:Radarr_movie_12648_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Bear Pictures
-DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
- d him to discover an unexpected aptitude for cracking safes\, turning his
-  life upside down.
-DTEND;VALUE=DATE:20260522
-DTSTAMP:20260630T030504Z
-DTSTART;VALUE=DATE:20260521
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tuner (Theatrical Release)
-UID:Radarr_movie_12665_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Bear Pictures
-DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
- d him to discover an unexpected aptitude for cracking safes\, turning his
-  life upside down.
-DTEND;VALUE=DATE:20260624
-DTSTAMP:20260630T030504Z
-DTSTART;VALUE=DATE:20260623
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tuner (Digital Release)
-UID:Radarr_movie_12665_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Nocturna
@@ -525,7 +494,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260326
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260325
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -539,7 +508,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -553,7 +522,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -567,7 +536,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260630T030504Z
+DTSTAMP:20260701T030507Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
