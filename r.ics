@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
 DESCRIPTION:The men who made millions from a global economic meltdown.
 DTEND;VALUE=DATE:20151224
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20151223
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
 DESCRIPTION:The men who made millions from a global economic meltdown.
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260701
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
 DESCRIPTION:The men who made millions from a global economic meltdown.
 DTEND;VALUE=DATE:20160422
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20160421
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +46,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -63,7 +63,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -80,7 +80,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -93,7 +93,7 @@ DESCRIPTION:Moana answers the Ocean's call and\, for the first time\, voya
  ges beyond the reef of her island of Motunui with the infamous demigod Ma
  ui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -101,18 +101,20 @@ SUMMARY:Moana (Theatrical Release)
 UID:Radarr_movie_11590_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:DC Studios
-DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
-  home\, Kara Zor-El\, aka Supergirl\, reluctantly joins forces with an un
- likely companion on an epic\, interstellar journey of vengeance and justi
- ce.
-DTEND;VALUE=DATE:20260625
-DTSTAMP:20260701T030507Z
-DTSTART;VALUE=DATE:20260624
+CATEGORIES:Marvel Studios
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
+  remember himâand the pressure of seeing his old friends move on without 
+ himâsparks a change in Peter Parker he may not have the power to control.
+  But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no o
+ ne can even see.
+DTEND;VALUE=DATE:20260730
+DTSTAMP:20260702T030502Z
+DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Supergirl (Theatrical Release)
-UID:Radarr_movie_11697_cinemas
+STATUS:TENTATIVE
+SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
+UID:Radarr_movie_8428_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
@@ -122,7 +124,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -136,7 +138,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,7 +152,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260408
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260407
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -164,7 +166,7 @@ DESCRIPTION:A lonely Frankenstein travels to 1930s Chicago to ask groundbr
  evive a murdered young woman and The Bride is born. But what ensues is be
  yond what either of them imagined.
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260701
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -180,7 +182,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -196,7 +198,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -212,7 +214,7 @@ DESCRIPTION:When an elusive thief whose high-stakes heists unfold along th
  he case\, a relentless detective closes in on the operation\, raising the
   stakes even higher.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -229,7 +231,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -246,7 +248,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -263,7 +265,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -276,7 +278,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -289,7 +291,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -301,7 +303,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -313,7 +315,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -325,7 +327,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -339,7 +341,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -353,7 +355,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -367,7 +369,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -375,44 +377,12 @@ SUMMARY:Obsession (Physical Release)
 UID:Radarr_movie_12629_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Working Title Films
-DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
- eloved sheep every night\, assuming they can't possibly understand. But w
- hen a mysterious incident disrupts life on the farm\, the sheep realize t
- hey must become the detectives. As they follow the clues and investigate 
- human suspects\, they prove that even sheep can be brilliant crime-solver
- s.
-DTEND;VALUE=DATE:20260507
-DTSTAMP:20260701T030507Z
-DTSTART;VALUE=DATE:20260506
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Sheep Detectives (Theatrical Release)
-UID:Radarr_movie_12643_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Working Title Films
-DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
- eloved sheep every night\, assuming they can't possibly understand. But w
- hen a mysterious incident disrupts life on the farm\, the sheep realize t
- hey must become the detectives. As they follow the clues and investigate 
- human suspects\, they prove that even sheep can be brilliant crime-solver
- s.
-DTEND;VALUE=DATE:20260625
-DTSTAMP:20260701T030507Z
-DTSTART;VALUE=DATE:20260624
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Sheep Detectives (Digital Release)
-UID:Radarr_movie_12643_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Aperture Media Partners
 DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -425,7 +395,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -438,7 +408,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -452,7 +422,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -466,7 +436,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -480,7 +450,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -494,7 +464,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260326
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260325
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -508,7 +478,7 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260428
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -522,25 +492,11 @@ DESCRIPTION:A woman answers a help wanted ad to be a housekeeper in a myst
   that has seen a number of disappearances over the years and may be under
   the grip of a Satanic cult.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260701T030507Z
+DTSTAMP:20260702T030502Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:They Will Kill You (Physical Release)
 UID:Radarr_movie_12667_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
- f how the Minions conquered Hollywood\, became movie stars\, lost everyth
- ing\, unleashed monsters onto the world and then banded together to try a
- nd save the planet from the mayhem they had just created.
-DTEND;VALUE=DATE:20260625
-DTSTAMP:20260701T030507Z
-DTSTART;VALUE=DATE:20260624
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Minions & Monsters (Theatrical Release)
-UID:Radarr_movie_12239_cinemas
 END:VEVENT
 END:VCALENDAR
