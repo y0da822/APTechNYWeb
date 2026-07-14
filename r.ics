@@ -13,7 +13,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030510Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -30,7 +30,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +47,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,12 +60,26 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Moana (Theatrical Release)
 UID:Radarr_movie_11590_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CreepTV Productions
+DESCRIPTION:Newlywed Anna and her husband relocate to Alaska\, but their b
+ lissful life takes a dark turn when a car crash causes Anna to develop se
+ lective amnesia. The incident triggers agoraphobia and haunting flashback
+ s.
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260714T030511Z
+DTSTART;VALUE=DATE:20260810
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Epitaph (Theatrical Release)
+UID:Radarr_movie_11696_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Marvel Studios
@@ -76,7 +90,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -91,7 +105,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -108,7 +122,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -125,7 +139,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -142,7 +156,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,12 +164,54 @@ SUMMARY:Michael (Physical Release)
 UID:Radarr_movie_12419_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:A Higher Standard
+DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
+ ered when his fiancÃ©e leaves him at the altar\, he embarks on his planned
+  honeymoon across Italy alone\, immersing himself in the country's vibran
+ t culture\, food\, and beauty\, meeting Gia along the way.
+DTEND;VALUE=DATE:20260206
+DTSTAMP:20260714T030511Z
+DTSTART;VALUE=DATE:20260205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Solo Mio (Theatrical Release)
+UID:Radarr_movie_12479_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A Higher Standard
+DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
+ ered when his fiancÃ©e leaves him at the altar\, he embarks on his planned
+  honeymoon across Italy alone\, immersing himself in the country's vibran
+ t culture\, food\, and beauty\, meeting Gia along the way.
+DTEND;VALUE=DATE:20260311
+DTSTAMP:20260714T030511Z
+DTSTART;VALUE=DATE:20260310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Solo Mio (Digital Release)
+UID:Radarr_movie_12479_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A Higher Standard
+DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
+ ered when his fiancÃ©e leaves him at the altar\, he embarks on his planned
+  honeymoon across Italy alone\, immersing himself in the country's vibran
+ t culture\, food\, and beauty\, meeting Gia along the way.
+DTEND;VALUE=DATE:20260811
+DTSTAMP:20260714T030511Z
+DTSTART;VALUE=DATE:20260810
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Solo Mio (Physical Release)
+UID:Radarr_movie_12479_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Miramax
 DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -168,7 +224,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -181,7 +237,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -193,7 +249,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -205,7 +261,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -217,7 +273,7 @@ CATEGORIES:A24
 DESCRIPTION:A happily engaged couple is put to the test when an unexpected
   turn sends their wedding week off the rails.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -231,7 +287,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -245,7 +301,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -259,7 +315,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -273,7 +329,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -287,7 +343,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -300,7 +356,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -313,7 +369,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -326,7 +382,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -340,7 +396,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -354,7 +410,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -368,7 +424,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -380,7 +436,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -392,7 +448,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -404,7 +460,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260713T030502Z
+DTSTAMP:20260714T030511Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
