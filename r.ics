@@ -4,13 +4,47 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Tales From The Crypt Holdings
+DESCRIPTION:Ex-soldier Frank Brayker is the guardian of an ancient key tha
+ t can unlock tremendous evil\; the sinister Collector is a demon who want
+ s the key so he can initiate the apocalypse. On the run from wicked merce
+ naries for almost 90 years\, Brayker finally stops in at a boarding house
+  in New Mexico where â with the help of its residents â he plans to face 
+ off against the Collector and his band of ghouls\, preventing them from e
+ ver seizing the key.
+DTEND;VALUE=DATE:19950114
+DTSTAMP:20260721T030504Z
+DTSTART;VALUE=DATE:19950113
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tales from the Crypt: Demon Knight (Theatrical Release)
+UID:Radarr_movie_2591_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Tales From The Crypt Holdings
+DESCRIPTION:Ex-soldier Frank Brayker is the guardian of an ancient key tha
+ t can unlock tremendous evil\; the sinister Collector is a demon who want
+ s the key so he can initiate the apocalypse. On the run from wicked merce
+ naries for almost 90 years\, Brayker finally stops in at a boarding house
+  in New Mexico where â with the help of its residents â he plans to face 
+ off against the Collector and his band of ghouls\, preventing them from e
+ ver seizing the key.
+DTEND;VALUE=DATE:20260728
+DTSTAMP:20260721T030504Z
+DTSTART;VALUE=DATE:20260727
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tales from the Crypt: Demon Knight (Digital Release)
+UID:Radarr_movie_2591_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:BoulderLight Pictures
 DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  bnb late at night only to find that it has been mistakenly double-booked 
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20220909
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20220908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +58,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20221026
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20221025
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +72,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,7 +89,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -72,7 +106,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -89,7 +123,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -103,7 +137,7 @@ DESCRIPTION:Newlywed Anna and her husband relocate to Alaska\, but their b
  lective amnesia. The incident triggers agoraphobia and haunting flashback
  s.
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260810
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -118,9 +152,9 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
   But that transformation might also be the only thing that can stop a sho
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260720T030502Z
-DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260729
+DTSTAMP:20260721T030504Z
+DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
@@ -134,7 +168,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -149,7 +183,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -164,7 +198,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -180,7 +214,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -196,7 +230,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -212,7 +246,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -228,7 +262,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260513
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260512
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -244,7 +278,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -259,7 +293,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -276,7 +310,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260422
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -293,7 +327,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -310,7 +344,7 @@ DESCRIPTION:The story of Michael Jackson\, one of the most influential art
  g both his life off-stage and some of the most iconic performances from h
  is early solo career.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -324,7 +358,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -338,7 +372,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -352,7 +386,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -366,7 +400,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -380,7 +414,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -394,7 +428,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260810
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -407,7 +441,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -420,7 +454,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -433,7 +467,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -447,7 +481,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -461,7 +495,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -475,7 +509,7 @@ DESCRIPTION:After breaking the mysterious "One Wish Willow" to win his cru
  ked for but soon discovers that some desires come at a dark\, sinister pr
  ice.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -488,7 +522,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260417
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260416
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -501,7 +535,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -514,7 +548,7 @@ DESCRIPTION:An unassuming substitute sheriff with a troubled past responds
   to a bank robbery in a small\, sleepy town and unknowingly uncovers some
  thing far more explosive.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -528,7 +562,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -542,7 +576,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -556,7 +590,7 @@ DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
  ormer assistant Emily Charlton\, now the head of a luxury brand that poss
  esses funding which could ensure Runway's survival.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -568,7 +602,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -580,7 +614,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -592,7 +626,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260720T030502Z
+DTSTAMP:20260721T030504Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
