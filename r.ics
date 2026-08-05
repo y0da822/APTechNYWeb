@@ -11,7 +11,7 @@ DESCRIPTION:When a son and mother move to Seattle in hopes for a better li
  les to maintain hope in an impossible situation\, the son has plans to es
  cape.
 DTEND;VALUE=DATE:19930424
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:19930423
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:When a son and mother move to Seattle in hopes for a better li
  les to maintain hope in an impossible situation\, the son has plans to es
  cape.
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260801
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DESCRIPTION:When a son and mother move to Seattle in hopes for a better li
  les to maintain hope in an impossible situation\, the son has plans to es
  cape.
 DTEND;VALUE=DATE:20170822
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20170821
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,7 +57,7 @@ DESCRIPTION:Sally and Gillian Owens\, born into a magical family\, have mo
  s\, the girls struggle to resurrect Angelov -- and unwittingly inject his
   corpse with an evil spirit that threatens to end their family line.
 DTEND;VALUE=DATE:19981017
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:19981016
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +73,7 @@ DESCRIPTION:Sally and Gillian Owens\, born into a magical family\, have mo
  s\, the girls struggle to resurrect Angelov -- and unwittingly inject his
   corpse with an evil spirit that threatens to end their family line.
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260801
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -87,7 +87,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20220909
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20220908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -101,7 +101,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20221026
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20221025
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -115,7 +115,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -124,77 +124,16 @@ UID:Radarr_movie_6273_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Bat in the Sun Productions
-DESCRIPTION:The White Dragon\, Erik Reed\, has returned home to Virtuo Cit
- y 3 years later after being defeated in a colossal battle against the anc
- ient overlord\, Ashtagor. The crystal he used to become the White Dragon 
- was broken in two as a result of the epic battle\, both pieces were subse
- quently lost. Being blamed for the destruction and collateral lives lost\
- , his identity was outed after the battle thus making him a fugitive from
-  the law. We now follow Erik on his journey as he teams up with treasure 
- hunters from the past who help him reclaim his power as the White Dragon.
-  Once reunited with his powers\, he and his team are now ready to battle 
- a new threat\, Dragon Prime\, who seeks revenge against the White Dragon.
-  Erik must now try and defeat Dragon Prime in order to get one step close
- r to clearing his name and being able to protect his family from an ancie
- nt evil that still lurks in the darknessâ¦ Ashtagor
+DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
+ lear his name to reunite with his family. Standing in his way is a myster
+ ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Legend of the White Dragon (Theatrical Release)
 UID:Radarr_movie_7693_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20251206
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20251205
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Theatrical Release)
-UID:Radarr_movie_9301_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20260217
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260216
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Digital Release)
-UID:Radarr_movie_9301_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Miramax
-DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
- oma four years after her jealous ex-lover Bill attempts to murder her on 
- her wedding day. Fueled by an insatiable desire for revenge\, she vows to
-  get even with every person who contributed to the loss of her unborn chi
- ld\, her entire wedding party\, and four years of her life.  After devisi
- ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
- jury and unscrupulous enemies.
-DTEND;VALUE=DATE:20260729
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260728
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kill Bill: The Whole Bloody Affair (Physical Release)
-UID:Radarr_movie_9301_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CreepTV Productions
@@ -203,70 +142,12 @@ DESCRIPTION:Newlywed Anna and her husband relocate to Alaska\, but their b
  lective amnesia. The incident triggers agoraphobia and haunting flashback
  s.
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260810
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Epitaph (Theatrical Release)
 UID:Radarr_movie_11696_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember himâand the pressure of seeing his old friends move on without 
- himâsparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20260729
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260728
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
-UID:Radarr_movie_8428_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:DC Studios
-DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
-  home\, Kara Zor-El\, aka Supergirl\, reluctantly joins forces with an un
- likely companion on an epic\, interstellar journey of vengeance and justi
- ce.
-DTEND;VALUE=DATE:20260625
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260624
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Supergirl (Theatrical Release)
-UID:Radarr_movie_11697_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:DC Studios
-DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
-  home\, Kara Zor-El\, aka Supergirl\, reluctantly joins forces with an un
- likely companion on an epic\, interstellar journey of vengeance and justi
- ce.
-DTEND;VALUE=DATE:20260729
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260728
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Supergirl (Digital Release)
-UID:Radarr_movie_11697_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:DC Studios
-DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
-  home\, Kara Zor-El\, aka Supergirl\, reluctantly joins forces with an un
- likely companion on an epic\, interstellar journey of vengeance and justi
- ce.
-DTEND;VALUE=DATE:20260909
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260908
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Supergirl (Physical Release)
-UID:Radarr_movie_11697_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lucasfilm Ltd.
@@ -276,7 +157,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -291,7 +172,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,7 +187,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -322,7 +203,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -338,7 +219,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260513
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260512
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -354,7 +235,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -369,7 +250,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250801
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20250731
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -384,7 +265,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250827
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20250826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -399,7 +280,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -413,7 +294,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -427,7 +308,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -441,7 +322,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -455,7 +336,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -469,7 +350,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -483,7 +364,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260810
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -496,7 +377,7 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -509,7 +390,7 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -523,7 +404,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -537,7 +418,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -551,7 +432,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -567,7 +448,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -583,7 +464,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -599,54 +480,12 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Sheep Detectives (Physical Release)
 UID:Radarr_movie_12643_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
- ew media landscape and Runway's position within. The duo reconnect with f
- ormer assistant Emily Charlton\, now the head of a luxury brand that poss
- esses funding which could ensure Runway's survival.
-DTEND;VALUE=DATE:20260430
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260429
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Devil Wears Prada 2 (Theatrical Release)
-UID:Radarr_movie_11191_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
- ew media landscape and Runway's position within. The duo reconnect with f
- ormer assistant Emily Charlton\, now the head of a luxury brand that poss
- esses funding which could ensure Runway's survival.
-DTEND;VALUE=DATE:20260701
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260630
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Devil Wears Prada 2 (Digital Release)
-UID:Radarr_movie_11191_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Andy Sachs returns to Runway as Miranda Priestly navigates a n
- ew media landscape and Runway's position within. The duo reconnect with f
- ormer assistant Emily Charlton\, now the head of a luxury brand that poss
- esses funding which could ensure Runway's survival.
-DTEND;VALUE=DATE:20260729
-DTSTAMP:20260804T030503Z
-DTSTART;VALUE=DATE:20260728
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Devil Wears Prada 2 (Physical Release)
-UID:Radarr_movie_11191_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spooky Pictures
@@ -655,7 +494,7 @@ DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
  moon suite. Disturbing visions and a shocking disappearance forces him to
   confront dark corners of his past.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -669,7 +508,7 @@ DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
  moon suite. Disturbing visions and a shocking disappearance forces him to
   confront dark corners of his past.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -683,7 +522,7 @@ DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
  moon suite. Disturbing visions and a shocking disappearance forces him to
   confront dark corners of his past.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260804T030503Z
+DTSTAMP:20260805T030506Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
