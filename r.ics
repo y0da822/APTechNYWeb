@@ -10,7 +10,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20220909
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20220908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +24,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20221026
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20221025
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +38,7 @@ DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
  and a strange man is already staying there. Against her better judgement\
  , she decides to stay the night anyway.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +51,7 @@ DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
  lear his name to reunite with his family. Standing in his way is a myster
  ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -65,7 +65,7 @@ DESCRIPTION:Newlywed Anna and her husband relocate to Alaska\, but their b
  lective amnesia. The incident triggers agoraphobia and haunting flashback
  s.
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260810
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -79,7 +79,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -93,7 +93,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -107,12 +107,54 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Supergirl (Physical Release)
 UID:Radarr_movie_11697_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pixar
+DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
+ sessed\, Buzz\, Woody\, Jessie and the rest of the gang's jobs become exp
+ onentially harder when they have to go head to head with the all-new thre
+ at to playtime.
+DTEND;VALUE=DATE:20260618
+DTSTAMP:20260813T030503Z
+DTSTART;VALUE=DATE:20260617
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toy Story 5 (Theatrical Release)
+UID:Radarr_movie_8149_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pixar
+DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
+ sessed\, Buzz\, Woody\, Jessie and the rest of the gang's jobs become exp
+ onentially harder when they have to go head to head with the all-new thre
+ at to playtime.
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260813T030503Z
+DTSTART;VALUE=DATE:20260818
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toy Story 5 (Digital Release)
+UID:Radarr_movie_8149_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pixar
+DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
+ sessed\, Buzz\, Woody\, Jessie and the rest of the gang's jobs become exp
+ onentially harder when they have to go head to head with the all-new thre
+ at to playtime.
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260813T030503Z
+DTSTART;VALUE=DATE:20260922
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toy Story 5 (Physical Release)
+UID:Radarr_movie_8149_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lucasfilm Ltd.
@@ -122,7 +164,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -137,7 +179,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -152,7 +194,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -168,7 +210,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -184,7 +226,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260513
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260512
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -200,7 +242,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -215,7 +257,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250801
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20250731
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -230,7 +272,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250827
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20250826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -245,7 +287,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -259,7 +301,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -273,7 +315,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -287,7 +329,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -301,7 +343,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260206
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -315,7 +357,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260311
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260310
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -329,7 +371,7 @@ DESCRIPTION:After Matt's dreams of a picturesque Italian wedding are shatt
   honeymoon across Italy alone\, immersing himself in the country's vibran
  t culture\, food\, and beauty\, meeting Gia along the way.
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260810
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -342,7 +384,7 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -355,7 +397,7 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -369,7 +411,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -383,7 +425,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -397,7 +439,7 @@ DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâ�
  ttle to defeat the dark rule of Shao Kahn that threatens the very existen
  ce of the Earthrealm and its defenders.
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -413,7 +455,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -429,7 +471,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -445,7 +487,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -459,7 +501,7 @@ DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
  moon suite. Disturbing visions and a shocking disappearance forces him to
   confront dark corners of his past.
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -473,7 +515,7 @@ DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
  moon suite. Disturbing visions and a shocking disappearance forces him to
   confront dark corners of his past.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -487,7 +529,7 @@ DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
  moon suite. Disturbing visions and a shocking disappearance forces him to
   confront dark corners of his past.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -501,7 +543,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -515,7 +557,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -529,7 +571,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -543,7 +585,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -557,7 +599,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -571,7 +613,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260904
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -580,12 +622,12 @@ UID:Radarr_movie_12758_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angelaâs marriage is on thin ice. When they invite the
+DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -594,12 +636,12 @@ UID:Radarr_movie_12833_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angelaâs marriage is on thin ice. When they invite the
+DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260812T030507Z
+DTSTAMP:20260813T030503Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
