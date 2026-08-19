@@ -4,54 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:BoulderLight Pictures
-DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
- bnb late at night only to find that it has been mistakenly double-booked 
- and a strange man is already staying there. Against her better judgement\
- , she decides to stay the night anyway.
-DTEND;VALUE=DATE:20220909
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20220908
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Barbarian (Theatrical Release)
-UID:Radarr_movie_6273_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:BoulderLight Pictures
-DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
- bnb late at night only to find that it has been mistakenly double-booked 
- and a strange man is already staying there. Against her better judgement\
- , she decides to stay the night anyway.
-DTEND;VALUE=DATE:20221026
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20221025
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Barbarian (Digital Release)
-UID:Radarr_movie_6273_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:BoulderLight Pictures
-DESCRIPTION:In town for a job interview\, a young woman arrives at her Air
- bnb late at night only to find that it has been mistakenly double-booked 
- and a strange man is already staying there. Against her better judgement\
- , she decides to stay the night anyway.
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260811
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Barbarian (Physical Release)
-UID:Radarr_movie_6273_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Bat in the Sun Productions
 DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
  lear his name to reunite with his family. Standing in his way is a myster
  ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -65,7 +23,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -79,7 +37,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -93,7 +51,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -107,7 +65,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260617
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -121,7 +79,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260818
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +93,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,7 +108,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -165,7 +123,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -180,60 +138,12 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Mandalorian and Grogu (Physical Release)
 UID:Radarr_movie_11698_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lord Miller
-DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
- rs from home with no recollection of who he is or how he got there. As hi
- s memory returns\, he begins to uncover his mission: solve the riddle of 
- the mysterious substance causing the sun to die out. He must call on his 
- scientific knowledge and unorthodox ideas to save everything on Earth fro
- m extinction.
-DTEND;VALUE=DATE:20260319
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260318
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Project Hail Mary (Theatrical Release)
-UID:Radarr_movie_11702_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lord Miller
-DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
- rs from home with no recollection of who he is or how he got there. As hi
- s memory returns\, he begins to uncover his mission: solve the riddle of 
- the mysterious substance causing the sun to die out. He must call on his 
- scientific knowledge and unorthodox ideas to save everything on Earth fro
- m extinction.
-DTEND;VALUE=DATE:20260513
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260512
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Project Hail Mary (Digital Release)
-UID:Radarr_movie_11702_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lord Miller
-DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
- rs from home with no recollection of who he is or how he got there. As hi
- s memory returns\, he begins to uncover his mission: solve the riddle of 
- the mysterious substance causing the sun to die out. He must call on his 
- scientific knowledge and unorthodox ideas to save everything on Earth fro
- m extinction.
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260811
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Project Hail Mary (Physical Release)
-UID:Radarr_movie_11702_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Fifth Season
@@ -243,7 +153,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250801
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20250731
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -258,7 +168,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250827
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20250826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -273,7 +183,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -287,7 +197,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -301,7 +211,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -315,7 +225,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -328,7 +238,7 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -341,54 +251,12 @@ DESCRIPTION:A survival drama about an ice skater stranded on an ice floe a
  t the Arctic Sea. When the ice floe starts to float towards south and mel
  t\, the ice skater must use all means necessary to survive.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Ice Skater (Digital Release)
 UID:Radarr_movie_12512_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:New Line Cinema
-DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâa
- re pitted against one another in the ultimate\, no-holds barred\, gory ba
- ttle to defeat the dark rule of Shao Kahn that threatens the very existen
- ce of the Earthrealm and its defenders.
-DTEND;VALUE=DATE:20260507
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260506
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Mortal Kombat II (Theatrical Release)
-UID:Radarr_movie_6975_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:New Line Cinema
-DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâa
- re pitted against one another in the ultimate\, no-holds barred\, gory ba
- ttle to defeat the dark rule of Shao Kahn that threatens the very existen
- ce of the Earthrealm and its defenders.
-DTEND;VALUE=DATE:20260610
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260609
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Mortal Kombat II (Digital Release)
-UID:Radarr_movie_6975_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:New Line Cinema
-DESCRIPTION:The fan favorite championsânow joined by Johnny Cage himselfâa
- re pitted against one another in the ultimate\, no-holds barred\, gory ba
- ttle to defeat the dark rule of Shao Kahn that threatens the very existen
- ce of the Earthrealm and its defenders.
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260811
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Mortal Kombat II (Physical Release)
-UID:Radarr_movie_6975_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:18Hz Productions
@@ -397,7 +265,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -411,7 +279,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -425,7 +293,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -441,7 +309,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -457,7 +325,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -473,54 +341,12 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Sheep Detectives (Physical Release)
 UID:Radarr_movie_12643_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spooky Pictures
-DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
- is parents' ashes\, he is consumed by tales of a witch haunting the honey
- moon suite. Disturbing visions and a shocking disappearance forces him to
-  confront dark corners of his past.
-DTEND;VALUE=DATE:20260430
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260429
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hokum (Theatrical Release)
-UID:Radarr_movie_12669_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spooky Pictures
-DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
- is parents' ashes\, he is consumed by tales of a witch haunting the honey
- moon suite. Disturbing visions and a shocking disappearance forces him to
-  confront dark corners of his past.
-DTEND;VALUE=DATE:20260603
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260602
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hokum (Digital Release)
-UID:Radarr_movie_12669_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spooky Pictures
-DESCRIPTION:When novelist Ohm Bauman retreats to a remote inn to scatter h
- is parents' ashes\, he is consumed by tales of a witch haunting the honey
- moon suite. Disturbing visions and a shocking disappearance forces him to
-  confront dark corners of his past.
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260811
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hokum (Physical Release)
-UID:Radarr_movie_12669_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
@@ -529,7 +355,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -543,7 +369,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -557,7 +383,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -570,7 +396,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -583,7 +409,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260620
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -596,7 +422,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -610,7 +436,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -624,7 +450,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -638,75 +464,11 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260818T030507Z
+DTSTAMP:20260819T030506Z
 DTSTART;VALUE=DATE:20260904
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:In the Grey (Physical Release)
 UID:Radarr_movie_12758_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
- ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
- to unexpected places. Have they reignited the spark or lit the match that
-  burns it all down?
-DTEND;VALUE=DATE:20260626
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260625
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Invite (Theatrical Release)
-UID:Radarr_movie_12833_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Annapurna Pictures
-DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
- ir enigmatic upstairs neighbors for a dinner party\, the night spirals in
- to unexpected places. Have they reignited the spark or lit the match that
-  burns it all down?
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260811
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Invite (Digital Release)
-UID:Radarr_movie_12833_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:The fifth and final installment to Jackass franchise where the
-  crew go on one last insane crusade.
-DTEND;VALUE=DATE:20260626
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260625
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Jackass: Best and Last (Theatrical Release)
-UID:Radarr_movie_12594_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:The fifth and final installment to Jackass franchise where the
-  crew go on one last insane crusade.
-DTEND;VALUE=DATE:20260812
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20260811
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Jackass: Best and Last (Digital Release)
-UID:Radarr_movie_12594_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount Pictures
-DESCRIPTION:The fifth and final installment to Jackass franchise where the
-  crew go on one last insane crusade.
-DTEND;VALUE=DATE:20261007
-DTSTAMP:20260818T030507Z
-DTSTART;VALUE=DATE:20261006
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Jackass: Best and Last (Physical Release)
-UID:Radarr_movie_12594_physical
 END:VEVENT
 END:VCALENDAR
