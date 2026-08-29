@@ -4,15 +4,57 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Chloe Productions
+DESCRIPTION:Johnny is a successful banker with great respect for and dedic
+ ation to the people in his life\, especially his future wife Lisa. The ha
+ ppy-go-lucky guy sees his world being torn apart when his friends begin t
+ o betray him one-by-one.
+DTEND;VALUE=DATE:20030628
+DTSTAMP:20260829T030509Z
+DTSTART;VALUE=DATE:20030627
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Room (Theatrical Release)
+UID:Radarr_movie_3673_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Chloe Productions
+DESCRIPTION:Johnny is a successful banker with great respect for and dedic
+ ation to the people in his life\, especially his future wife Lisa. The ha
+ ppy-go-lucky guy sees his world being torn apart when his friends begin t
+ o betray him one-by-one.
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20260829T030509Z
+DTSTART;VALUE=DATE:20260904
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Room (Digital Release)
+UID:Radarr_movie_3673_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Chloe Productions
+DESCRIPTION:Johnny is a successful banker with great respect for and dedic
+ ation to the people in his life\, especially his future wife Lisa. The ha
+ ppy-go-lucky guy sees his world being torn apart when his friends begin t
+ o betray him one-by-one.
+DTEND;VALUE=DATE:20091126
+DTSTAMP:20260829T030509Z
+DTSTART;VALUE=DATE:20091125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Room (Physical Release)
+UID:Radarr_movie_3673_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Bat in the Sun Productions
 DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
  lear his name to reunite with his family. Standing in his way is a myster
  ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Legend of the White Dragon (Theatrical Release)
 UID:Radarr_movie_7693_cinemas
 END:VEVENT
@@ -26,7 +68,7 @@ DESCRIPTION:After a Tibetan boy\, the mystical Golden Child\, is kidnapped
  g children\, she solicits his expertise\, despite his skepticism over bei
  ng "chosen."
 DTEND;VALUE=DATE:19861213
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:19861212
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -43,7 +85,7 @@ DESCRIPTION:After a Tibetan boy\, the mystical Golden Child\, is kidnapped
  g children\, she solicits his expertise\, despite his skepticism over bei
  ng "chosen."
 DTEND;VALUE=DATE:20260903
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260902
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,7 +97,7 @@ CATEGORIES:Luminary Creative
 DESCRIPTION:After receiving 40-acres\, an ex-slave family battles man and 
  myth to uncover the truth behind their land.
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -67,7 +109,7 @@ CATEGORIES:Luminary Creative
 DESCRIPTION:After receiving 40-acres\, an ex-slave family battles man and 
  myth to uncover the truth behind their land.
 DTEND;VALUE=DATE:20230701
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20230630
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -79,7 +121,7 @@ CATEGORIES:Luminary Creative
 DESCRIPTION:After receiving 40-acres\, an ex-slave family battles man and 
  myth to uncover the truth behind their land.
 DTEND;VALUE=DATE:20240604
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20240603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -93,7 +135,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20240119
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20240118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -107,7 +149,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20240124
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20240123
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -121,7 +163,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +177,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -149,7 +191,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260728
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -163,7 +205,7 @@ DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
  likely companion on an epic\, interstellar journey of vengeance and justi
  ce.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -177,7 +219,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260617
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -191,7 +233,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260818
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -205,7 +247,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -220,7 +262,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -235,7 +277,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -250,7 +292,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -265,7 +307,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250801
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20250731
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -280,7 +322,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20250827
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20250826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -295,7 +337,7 @@ DESCRIPTION:Newly released from prison and marked for death by unrelenting
  lly forge a bond under fire as he shows her how to fight and surviveâand 
  she teaches him the true meaning of unconditional love.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -309,7 +351,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -323,7 +365,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -337,7 +379,7 @@ DESCRIPTION:A cybersecurity expert becomes a whistleblower after uncoverin
  hile\, a meteorologist experiencing strange phenomena joins forces with h
  im to prove there's life beyond our understanding.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -350,7 +392,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -363,7 +405,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260721
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260720
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -376,7 +418,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -390,7 +432,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -404,7 +446,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -418,7 +460,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -434,7 +476,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260506
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -450,7 +492,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -466,7 +508,7 @@ DESCRIPTION:George Hardy is a shepherd who reads detective novels to his b
  human suspects\, they prove that even sheep can be brilliant crime-solver
  s.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260825
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -480,7 +522,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260624
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -494,7 +536,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -508,7 +550,7 @@ DESCRIPTION:This is the rambunctious\, ridiculous and totally true story o
  ing\, unleashed monsters onto the world and then banded together to try a
  nd save the planet from the mayhem they had just created.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -521,7 +563,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -534,7 +576,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260620
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -547,7 +589,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -561,7 +603,7 @@ DESCRIPTION:During the Jewish exile to Babylon\, Daniel and his friends fa
  r\, they gain royal favor but make enemies. Their faith is tested at the 
  fiery furnace.
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260918
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -575,7 +617,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260513
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -589,7 +631,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260602
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -603,7 +645,7 @@ DESCRIPTION:A covert team of elite operatives are living in the shadows. W
  ake it backâan impossible heist that erupts into a deadly game of strateg
  y\, deception and survival.
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260904
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -618,7 +660,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -633,7 +675,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260805
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260804
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -648,7 +690,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260828T030505Z
+DTSTAMP:20260829T030509Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
