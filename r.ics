@@ -4,6 +4,36 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Remstar Productions
+DESCRIPTION:Gilda BessÃ© shares her Paris apartment with an Irish schooltea
+ cher\, Guy Malyon\, and Mia\, a refugee from Spain. As the world drifts t
+ oward war\, Gilda defiantly pursues her hedonistic lifestyle and her burg
+ eoning career as a photographer. But Guy and Mia feel impelled to join th
+ e fight against fascism\, and the three friends are separated.
+DTEND;VALUE=DATE:20040430
+DTSTAMP:20260917T030501Z
+DTSTART;VALUE=DATE:20040429
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Head in the Clouds (Theatrical Release)
+UID:Radarr_movie_1273_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Remstar Productions
+DESCRIPTION:Gilda BessÃ© shares her Paris apartment with an Irish schooltea
+ cher\, Guy Malyon\, and Mia\, a refugee from Spain. As the world drifts t
+ oward war\, Gilda defiantly pursues her hedonistic lifestyle and her burg
+ eoning career as a photographer. But Guy and Mia feel impelled to join th
+ e fight against fascism\, and the three friends are separated.
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260917T030501Z
+DTSTART;VALUE=DATE:20260924
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Head in the Clouds (Digital Release)
+UID:Radarr_movie_1273_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Columbia Pictures
 DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  le guy Chip comes to hook him upâand doesn't let go. Initially\, Chip is 
@@ -12,7 +42,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:19960611
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:19960610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +58,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:20020409
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20020408
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -44,7 +74,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,7 +87,7 @@ DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
  lear his name to reunite with his family. Standing in his way is a myster
  ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -70,7 +100,7 @@ DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
  lear his name to reunite with his family. Standing in his way is a myster
  ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -85,7 +115,7 @@ DESCRIPTION:A star quarterback gets knocked out of the game and an unknown
  life. A new co-owner/president adds to the pressure of winning. The new o
  wner must prove herself in a male dominated world.
 DTEND;VALUE=DATE:19991223
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:19991222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -100,7 +130,7 @@ DESCRIPTION:A star quarterback gets knocked out of the game and an unknown
  life. A new co-owner/president adds to the pressure of winning. The new o
  wner must prove herself in a male dominated world.
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260920
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -115,7 +145,7 @@ DESCRIPTION:A star quarterback gets knocked out of the game and an unknown
  life. A new co-owner/president adds to the pressure of winning. The new o
  wner must prove herself in a male dominated world.
 DTEND;VALUE=DATE:20141216
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20141215
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -129,7 +159,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20240119
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20240118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -143,7 +173,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20240124
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20240123
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -157,7 +187,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -170,7 +200,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -183,7 +213,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -196,7 +226,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -212,7 +242,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -228,7 +258,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -244,7 +274,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -258,7 +288,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260617
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -272,7 +302,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260818
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -286,7 +316,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -294,12 +324,28 @@ SUMMARY:Toy Story 5 (Physical Release)
 UID:Radarr_movie_8149_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Capcom
+DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
+ rown back into combat when the mysterious Chun-Li recruits them for the n
+ ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
+ But behind this battle royale lies a deadly conspiracy that forces them t
+ o face off against each other and the demons of their past. And if they d
+ on't\, it's GAME OVER!
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260917T030501Z
+DTSTART;VALUE=DATE:20261014
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Street Fighter (Theatrical Release)
+UID:Radarr_movie_11703_cinemas
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Wayans Bros. Entertainment
 DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -312,7 +358,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260721
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260720
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -325,7 +371,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -339,7 +385,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -353,7 +399,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260707
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -367,7 +413,7 @@ DESCRIPTION:After a young couple witnesses a gruesome highway accident\, t
  presence called the Passenger that won't stop until it claims them both t
  urns their van life adventure into a nightmare.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -380,7 +426,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -393,7 +439,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260620
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -406,7 +452,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -424,7 +470,7 @@ DESCRIPTION:Through cinematic reenactments that span salvation history and
  nding out how much God truly loves them as they adore Him in the Blessed 
  Sacrament. He is here. Will you come?
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20261004
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -438,7 +484,7 @@ DESCRIPTION:During the Jewish exile to Babylon\, Daniel and his friends fa
  r\, they gain royal favor but make enemies. Their faith is tested at the 
  fiery furnace.
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260918
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -453,7 +499,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -468,7 +514,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260805
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260804
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -483,7 +529,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -495,7 +541,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -507,7 +553,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -519,7 +565,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -527,12 +573,44 @@ SUMMARY:Jackass: Best and Last (Physical Release)
 UID:Radarr_movie_12594_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Suzanne Todd Productions
+DESCRIPTION:Four lifelong friends realize that somewhere between careers\,
+  relationships\, families\, and everyday responsibilities\, theyâve forgo
+ tten how to take care of themselves and each other. Burned out and overdu
+ e for a break\, the women escape to a luxury spa retreat for an unforgett
+ able weekend dedicated to fun\, laughter\, and a lot of really bad decisi
+ ons.
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260917T030501Z
+DTSTART;VALUE=DATE:20260820
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spa Weekend (Theatrical Release)
+UID:Radarr_movie_12847_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Suzanne Todd Productions
+DESCRIPTION:Four lifelong friends realize that somewhere between careers\,
+  relationships\, families\, and everyday responsibilities\, theyâve forgo
+ tten how to take care of themselves and each other. Burned out and overdu
+ e for a break\, the women escape to a luxury spa retreat for an unforgett
+ able weekend dedicated to fun\, laughter\, and a lot of really bad decisi
+ ons.
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260917T030501Z
+DTSTART;VALUE=DATE:20260922
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spa Weekend (Digital Release)
+UID:Radarr_movie_12847_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Troll Court Entertainment
 DESCRIPTION:After Acme products fail him one too many times in his dogged 
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -544,9 +622,9 @@ CATEGORIES:Troll Court Entertainment
 DESCRIPTION:After Acme products fail him one too many times in his dogged 
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20260916T030502Z
-DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260917T030501Z
+DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Coyote vs. Acme (Digital Release)
@@ -558,7 +636,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260916T030502Z
+DTSTAMP:20260917T030501Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
