@@ -11,7 +11,7 @@ DESCRIPTION:Gilda BessÃ© shares her Paris apartment with an Irish schooltea
  eoning career as a photographer. But Guy and Mia feel impelled to join th
  e fight against fascism\, and the three friends are separated.
 DTEND;VALUE=DATE:20040430
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20040429
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:Gilda BessÃ© shares her Paris apartment with an Irish schooltea
  eoning career as a photographer. But Guy and Mia feel impelled to join th
  e fight against fascism\, and the three friends are separated.
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -42,7 +42,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:19960611
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:19960610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +58,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:20020409
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20020408
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -74,7 +74,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -90,7 +90,7 @@ DESCRIPTION:When the body of Army Capt. Elisabeth Campbell is found on a G
  eading to allegations of a possible military coverup of her death and the
   involvement of her father\, Lt. Gen. Joseph Campbell.
 DTEND;VALUE=DATE:19990619
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:19990618
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -106,7 +106,7 @@ DESCRIPTION:When the body of Army Capt. Elisabeth Campbell is found on a G
  eading to allegations of a possible military coverup of her death and the
   involvement of her father\, Lt. Gen. Joseph Campbell.
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260925
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -122,7 +122,7 @@ DESCRIPTION:When the body of Army Capt. Elisabeth Campbell is found on a G
  eading to allegations of a possible military coverup of her death and the
   involvement of her father\, Lt. Gen. Joseph Campbell.
 DTEND;VALUE=DATE:19991215
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:19991214
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -130,12 +130,40 @@ SUMMARY:The General's Daughter (Physical Release)
 UID:Radarr_movie_2853_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Metro-Goldwyn-Mayer
+DESCRIPTION:Proud father Stanley Banks remembers the day his daughter\, Ka
+ y\, got married. Starting when she announces her engagement through to th
+ e wedding itself\, we learn of all the surprises and disasters along the 
+ way.
+DTEND;VALUE=DATE:19500519
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:19500518
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Father of the Bride (Theatrical Release)
+UID:Radarr_movie_4834_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Metro-Goldwyn-Mayer
+DESCRIPTION:Proud father Stanley Banks remembers the day his daughter\, Ka
+ y\, got married. Starting when she announces her engagement through to th
+ e wedding itself\, we learn of all the surprises and disasters along the 
+ way.
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260930
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Father of the Bride (Digital Release)
+UID:Radarr_movie_4834_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Bat in the Sun Productions
 DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
  lear his name to reunite with his family. Standing in his way is a myster
  ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -148,7 +176,7 @@ DESCRIPTION:Forced to hide in the shadows\, fugitive hero Erik Reed must c
  lear his name to reunite with his family. Standing in his way is a myster
  ious villain obsessed with destroying the White Dragon for good.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -163,7 +191,7 @@ DESCRIPTION:A star quarterback gets knocked out of the game and an unknown
  life. A new co-owner/president adds to the pressure of winning. The new o
  wner must prove herself in a male dominated world.
 DTEND;VALUE=DATE:19991223
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:19991222
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -178,7 +206,7 @@ DESCRIPTION:A star quarterback gets knocked out of the game and an unknown
  life. A new co-owner/president adds to the pressure of winning. The new o
  wner must prove herself in a male dominated world.
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260920
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -193,7 +221,7 @@ DESCRIPTION:A star quarterback gets knocked out of the game and an unknown
  life. A new co-owner/president adds to the pressure of winning. The new o
  wner must prove herself in a male dominated world.
 DTEND;VALUE=DATE:20141216
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20141215
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -207,7 +235,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20240119
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20240118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -221,7 +249,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20240124
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20240123
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -235,7 +263,7 @@ DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
  llic island. But the miracle soon becomes a nightmare when the saviors tu
  rn into ruthless manhunters.
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -248,7 +276,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -261,7 +289,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -274,7 +302,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -290,7 +318,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,7 +334,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -322,7 +350,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -336,7 +364,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260617
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -350,7 +378,7 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260818
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -364,12 +392,60 @@ DESCRIPTION:When Bonnie receives a Lilypad tablet as a gift and becomes ob
  onentially harder when they have to go head to head with the all-new thre
  at to playtime.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Toy Story 5 (Physical Release)
 UID:Radarr_movie_8149_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Escape Artists
+DESCRIPTION:After being separated for 15 years\, the Sword of Power leads 
+ Prince Adam back to Eternia\, where he discovers his home shattered under
+  the fiendish rule of Skeletor. To save his family and his world\, Adam m
+ ust join forces with his closest allies\, Teela and Duncan/Man-At-Arms\, 
+ and embrace his true destiny as He-Man â the most powerful man in the uni
+ verse.
+DTEND;VALUE=DATE:20260604
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260603
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Masters of the Universe (Theatrical Release)
+UID:Radarr_movie_11699_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Escape Artists
+DESCRIPTION:After being separated for 15 years\, the Sword of Power leads 
+ Prince Adam back to Eternia\, where he discovers his home shattered under
+  the fiendish rule of Skeletor. To save his family and his world\, Adam m
+ ust join forces with his closest allies\, Teela and Duncan/Man-At-Arms\, 
+ and embrace his true destiny as He-Man â the most powerful man in the uni
+ verse.
+DTEND;VALUE=DATE:20260722
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260721
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Masters of the Universe (Digital Release)
+UID:Radarr_movie_11699_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Escape Artists
+DESCRIPTION:After being separated for 15 years\, the Sword of Power leads 
+ Prince Adam back to Eternia\, where he discovers his home shattered under
+  the fiendish rule of Skeletor. To save his family and his world\, Adam m
+ ust join forces with his closest allies\, Teela and Duncan/Man-At-Arms\, 
+ and embrace his true destiny as He-Man â the most powerful man in the uni
+ verse.
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Masters of the Universe (Physical Release)
+UID:Radarr_movie_11699_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Capcom
@@ -380,7 +456,7 @@ DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
  o face off against each other and the demons of their past. And if they d
  on't\, it's GAME OVER!
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -393,7 +469,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -406,7 +482,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260721
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260720
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -419,7 +495,7 @@ DESCRIPTION:Twenty-six years after outrunning a suspiciously familiar mask
  ed killer\, the Core Four are back in the killer's crosshairs and no horr
  or movie IP is safe.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -427,12 +503,48 @@ SUMMARY:Scary Movie (Physical Release)
 UID:Radarr_movie_11929_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:87North Productions
+DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
+  but each has secret intentions to kill the other.
+DTEND;VALUE=DATE:20260315
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260314
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Over Your Dead Body (Theatrical Release)
+UID:Radarr_movie_12658_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:87North Productions
+DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
+  but each has secret intentions to kill the other.
+DTEND;VALUE=DATE:20260527
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260526
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Over Your Dead Body (Digital Release)
+UID:Radarr_movie_12658_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:87North Productions
+DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
+  but each has secret intentions to kill the other.
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Over Your Dead Body (Physical Release)
+UID:Radarr_movie_12658_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Black Bear Pictures
 DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260521
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -445,7 +557,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260602
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260601
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -458,7 +570,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261016
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -471,7 +583,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -484,7 +596,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260620
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -497,7 +609,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -515,7 +627,7 @@ DESCRIPTION:Through cinematic reenactments that span salvation history and
  nding out how much God truly loves them as they adore Him in the Blessed 
  Sacrament. He is here. Will you come?
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261004
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -531,12 +643,26 @@ DESCRIPTION:In Rio de Janeiro\, Noah Silva is a smooth-talking\, used-car
  deeply personal journey to restore his integrity while trying to win back
   the hearts of his wife and son.
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261016
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Flywheel: Ignition of the Soul (Theatrical Release)
 UID:Radarr_movie_12749_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pinnacle Peak Pictures
+DESCRIPTION:During the Jewish exile to Babylon\, Daniel and his friends fa
+ ce trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezza
+ r\, they gain royal favor but make enemies. Their faith is tested at the 
+ fiery furnace.
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260923
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Daniel and the Fiery Furnace (Theatrical Release)
+UID:Radarr_movie_12750_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:New Line Cinema
@@ -546,7 +672,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -561,7 +687,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260805
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260804
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -576,7 +702,7 @@ DESCRIPTION:After her husband's abrupt death\, Alice seeks solace with his
  r\, she comes to discover that the vows she took in life survive even in 
  death.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -590,7 +716,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -604,7 +730,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -618,7 +744,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261005
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -630,7 +756,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -642,7 +768,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -654,7 +780,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -670,7 +796,7 @@ DESCRIPTION:Four lifelong friends realize that somewhere between careers\,
  able weekend dedicated to fun\, laughter\, and a lot of really bad decisi
  ons.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -686,7 +812,7 @@ DESCRIPTION:Four lifelong friends realize that somewhere between careers\,
  able weekend dedicated to fun\, laughter\, and a lot of really bad decisi
  ons.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -699,7 +825,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -712,7 +838,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -725,7 +851,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -739,7 +865,7 @@ DESCRIPTION:The Paw Patrol lands on a mysterious dinosaur island after a s
  ning triggers a volcano\, the team faces their biggest rescue mission yet
   to save the island.
 DTEND;VALUE=DATE:20260724
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260723
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -753,7 +879,7 @@ DESCRIPTION:The Paw Patrol lands on a mysterious dinosaur island after a s
  ning triggers a volcano\, the team faces their biggest rescue mission yet
   to save the island.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -761,11 +887,47 @@ SUMMARY:PAW Patrol: The Dino Movie (Digital Release)
 UID:Radarr_movie_9328_digital
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Two love-starved strangers crash into each other on the one ni
+ ght of the year when single people are allowed to have sex.
+DTEND;VALUE=DATE:20260807
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260806
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:One Night Only (Theatrical Release)
+UID:Radarr_movie_12913_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Two love-starved strangers crash into each other on the one ni
+ ght of the year when single people are allowed to have sex.
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20260908
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:One Night Only (Digital Release)
+UID:Radarr_movie_12913_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Two love-starved strangers crash into each other on the one ni
+ ght of the year when single people are allowed to have sex.
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260923T030502Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:One Night Only (Physical Release)
+UID:Radarr_movie_12913_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260922T030502Z
+DTSTAMP:20260923T030502Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
