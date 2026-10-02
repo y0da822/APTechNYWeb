@@ -4,36 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Remstar Productions
-DESCRIPTION:Gilda BessÃ© shares her Paris apartment with an Irish schooltea
- cher\, Guy Malyon\, and Mia\, a refugee from Spain. As the world drifts t
- oward war\, Gilda defiantly pursues her hedonistic lifestyle and her burg
- eoning career as a photographer. But Guy and Mia feel impelled to join th
- e fight against fascism\, and the three friends are separated.
-DTEND;VALUE=DATE:20040430
-DTSTAMP:20261001T030501Z
-DTSTART;VALUE=DATE:20040429
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Head in the Clouds (Theatrical Release)
-UID:Radarr_movie_1273_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Remstar Productions
-DESCRIPTION:Gilda BessÃ© shares her Paris apartment with an Irish schooltea
- cher\, Guy Malyon\, and Mia\, a refugee from Spain. As the world drifts t
- oward war\, Gilda defiantly pursues her hedonistic lifestyle and her burg
- eoning career as a photographer. But Guy and Mia feel impelled to join th
- e fight against fascism\, and the three friends are separated.
-DTEND;VALUE=DATE:20260925
-DTSTAMP:20261001T030501Z
-DTSTART;VALUE=DATE:20260924
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Head in the Clouds (Digital Release)
-UID:Radarr_movie_1273_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Columbia Pictures
 DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  le guy Chip comes to hook him upâand doesn't let go. Initially\, Chip is 
@@ -42,7 +12,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:19960611
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:19960610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +28,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:20020409
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20020408
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -74,7 +44,7 @@ DESCRIPTION:When recently single Steven moves into his new apartment\, cab
  teven\, who's left to fend for himself because no one else can believe Ch
  ip's capable of such behaviour.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -90,7 +60,7 @@ DESCRIPTION:When the body of Army Capt. Elisabeth Campbell is found on a G
  eading to allegations of a possible military coverup of her death and the
   involvement of her father\, Lt. Gen. Joseph Campbell.
 DTEND;VALUE=DATE:19990619
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:19990618
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -106,7 +76,7 @@ DESCRIPTION:When the body of Army Capt. Elisabeth Campbell is found on a G
  eading to allegations of a possible military coverup of her death and the
   involvement of her father\, Lt. Gen. Joseph Campbell.
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260925
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -122,7 +92,7 @@ DESCRIPTION:When the body of Army Capt. Elisabeth Campbell is found on a G
  eading to allegations of a possible military coverup of her death and the
   involvement of her father\, Lt. Gen. Joseph Campbell.
 DTEND;VALUE=DATE:19991215
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:19991214
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -136,7 +106,7 @@ DESCRIPTION:Proud father Stanley Banks remembers the day his daughter\, Ka
  e wedding itself\, we learn of all the surprises and disasters along the 
  way.
 DTEND;VALUE=DATE:19500519
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:19500518
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,7 +120,7 @@ DESCRIPTION:Proud father Stanley Banks remembers the day his daughter\, Ka
  e wedding itself\, we learn of all the surprises and disasters along the 
  way.
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260930
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -158,54 +128,12 @@ SUMMARY:Father of the Bride (Digital Release)
 UID:Radarr_movie_4834_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Black Swan Tales
-DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
- f refugees are rescued by rich Europeans who offer them shelter on an idy
- llic island. But the miracle soon becomes a nightmare when the saviors tu
- rn into ruthless manhunters.
-DTEND;VALUE=DATE:20240119
-DTSTAMP:20261001T030501Z
-DTSTART;VALUE=DATE:20240118
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Hunted (Theatrical Release)
-UID:Radarr_movie_11212_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Swan Tales
-DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
- f refugees are rescued by rich Europeans who offer them shelter on an idy
- llic island. But the miracle soon becomes a nightmare when the saviors tu
- rn into ruthless manhunters.
-DTEND;VALUE=DATE:20240124
-DTSTAMP:20261001T030501Z
-DTSTART;VALUE=DATE:20240123
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Hunted (Digital Release)
-UID:Radarr_movie_11212_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Swan Tales
-DESCRIPTION:After their boat capsizes in the Mediterranean Sea\, a group o
- f refugees are rescued by rich Europeans who offer them shelter on an idy
- llic island. But the miracle soon becomes a nightmare when the saviors tu
- rn into ruthless manhunters.
-DTEND;VALUE=DATE:20260925
-DTSTAMP:20261001T030501Z
-DTSTART;VALUE=DATE:20260924
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Hunted (Physical Release)
-UID:Radarr_movie_11212_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Walt Disney Pictures
 DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260709
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260708
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -218,7 +146,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -231,7 +159,7 @@ DESCRIPTION:Teenage Moana answers the Ocean's call and\, for the first tim
  e\, voyages beyond the reef of her island of Motunui with infamous demigo
  d Maui on an unforgettable journey to restore prosperity to her people.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -247,7 +175,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -263,7 +191,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -279,7 +207,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -295,7 +223,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -311,7 +239,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -327,7 +255,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -343,7 +271,7 @@ DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
  o face off against each other and the demons of their past. And if they d
  on't\, it's GAME OVER!
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -356,7 +284,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -369,7 +297,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -382,7 +310,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -398,7 +326,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
  iraling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -410,7 +338,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -422,7 +350,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -434,7 +362,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -446,7 +374,7 @@ CATEGORIES:87North Productions
 DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
   but each has secret intentions to kill the other.
 DTEND;VALUE=DATE:20260315
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260314
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -458,7 +386,7 @@ CATEGORIES:87North Productions
 DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
   but each has secret intentions to kill the other.
 DTEND;VALUE=DATE:20260527
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260526
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -470,7 +398,7 @@ CATEGORIES:87North Productions
 DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
   but each has secret intentions to kill the other.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -483,7 +411,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260521
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -496,7 +424,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260602
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260601
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -509,7 +437,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261016
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -522,7 +450,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -535,7 +463,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20260620
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -548,7 +476,7 @@ DESCRIPTION:A man takes justice into his own hands\, hunting down criminal
  s. His vigilante crusade makes him a social media star but puts him at od
  ds with the local police chief.
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -566,7 +494,7 @@ DESCRIPTION:Through cinematic reenactments that span salvation history and
  nding out how much God truly loves them as they adore Him in the Blessed 
  Sacrament. He is here. Will you come?
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261004
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -582,7 +510,7 @@ DESCRIPTION:In Rio de Janeiro\, Noah Silva is a smooth-talking\, used-car
  deeply personal journey to restore his integrity while trying to win back
   the hearts of his wife and son.
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261016
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -596,7 +524,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -610,7 +538,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -624,7 +552,7 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice. When they invite the
  to unexpected places. Have they reignited the spark or lit the match that
   burns it all down?
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261005
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -636,7 +564,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -648,7 +576,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260811
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -660,7 +588,7 @@ CATEGORIES:Paramount Pictures
 DESCRIPTION:The fifth and final installment to Jackass franchise where the
   crew go on one last insane crusade.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -673,7 +601,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -686,7 +614,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -699,7 +627,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -713,7 +641,7 @@ DESCRIPTION:The Paw Patrol lands on a mysterious dinosaur island after a s
  ning triggers a volcano\, the team faces their biggest rescue mission yet
   to save the island.
 DTEND;VALUE=DATE:20260724
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260723
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -727,7 +655,7 @@ DESCRIPTION:The Paw Patrol lands on a mysterious dinosaur island after a s
  ning triggers a volcano\, the team faces their biggest rescue mission yet
   to save the island.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -739,7 +667,7 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:Two love-starved strangers crash into each other on the one ni
  ght of the year when single people are allowed to have sex.
 DTEND;VALUE=DATE:20260807
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260806
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -751,7 +679,7 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:Two love-starved strangers crash into each other on the one ni
  ght of the year when single people are allowed to have sex.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -763,7 +691,7 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:Two love-starved strangers crash into each other on the one ni
  ght of the year when single people are allowed to have sex.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -778,7 +706,7 @@ DESCRIPTION:Follow Ted Kaczynski's transformation from Harvard prodigy int
  cades later when his manhunt\, led by FBI agent Joanne Miller\, brings to
   light the chilling consequences of ambition and isolation.
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260925
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -794,7 +722,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -810,7 +738,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261001T030501Z
+DTSTAMP:20261002T030502Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
