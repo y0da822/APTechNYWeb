@@ -13,7 +13,7 @@ DESCRIPTION:In this adaptation of the best-selling roman Ã  clef about Bill
   with his ambitious wife\, Susan\, and an outspoken adviser\, Richard Jem
  mons.
 DTEND;VALUE=DATE:19980321
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:19980320
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -30,7 +30,7 @@ DESCRIPTION:In this adaptation of the best-selling roman Ã  clef about Bill
   with his ambitious wife\, Susan\, and an outspoken adviser\, Richard Jem
  mons.
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261030
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +47,7 @@ DESCRIPTION:In this adaptation of the best-selling roman Ã  clef about Bill
   with his ambitious wife\, Susan\, and an outspoken adviser\, Richard Jem
  mons.
 DTEND;VALUE=DATE:20000402
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20000401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -63,7 +63,7 @@ DESCRIPTION:Story of a young woman who marries a fascinating widower only
   Winter. She must also deal with the jealous\, obsessed Mrs. Danvers\, th
  e housekeeper\, who will not accept her as the mistress of the house.
 DTEND;VALUE=DATE:19400413
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:19400412
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -79,7 +79,7 @@ DESCRIPTION:Story of a young woman who marries a fascinating widower only
   Winter. She must also deal with the jealous\, obsessed Mrs. Danvers\, th
  e housekeeper\, who will not accept her as the mistress of the house.
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -95,7 +95,7 @@ DESCRIPTION:Story of a young woman who marries a fascinating widower only
   Winter. She must also deal with the jealous\, obsessed Mrs. Danvers\, th
  e housekeeper\, who will not accept her as the mistress of the house.
 DTEND;VALUE=DATE:19980110
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:19980109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +109,7 @@ DESCRIPTION:Nevada Smith is the alias of Max Sand\, the son of an Indian m
  Nevada sets out to avenge them. The young man is taken in by a gun mercha
  nt who shows him how to shoot\, on time and correctly.
 DTEND;VALUE=DATE:19660611
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:19660610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -123,7 +123,7 @@ DESCRIPTION:Nevada Smith is the alias of Max Sand\, the son of an Indian m
  Nevada sets out to avenge them. The young man is taken in by a gun mercha
  nt who shows him how to shoot\, on time and correctly.
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -137,40 +137,12 @@ DESCRIPTION:Nevada Smith is the alias of Max Sand\, the son of an Indian m
  Nevada sets out to avenge them. The young man is taken in by a gun mercha
  nt who shows him how to shoot\, on time and correctly.
 DTEND;VALUE=DATE:20040409
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20040408
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Nevada Smith (Physical Release)
 UID:Radarr_movie_5886_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sagafilm
-DESCRIPTION:A modern-day lawyer is sucked into an international conspiracy
-  after being accused of a murder she didn't commit. Her only chance of fr
- eedom lies in uncovering the secret of an old German WWII aeroplane\, lon
- g buried deep beneath the ice\, before the CIA.
-DTEND;VALUE=DATE:20230127
-DTSTAMP:20261026T030502Z
-DTSTART;VALUE=DATE:20230126
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Operation Napoleon (Theatrical Release)
-UID:Radarr_movie_8961_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sagafilm
-DESCRIPTION:A modern-day lawyer is sucked into an international conspiracy
-  after being accused of a murder she didn't commit. Her only chance of fr
- eedom lies in uncovering the secret of an old German WWII aeroplane\, lon
- g buried deep beneath the ice\, before the CIA.
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261026T030502Z
-DTSTART;VALUE=DATE:20261028
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Operation Napoleon (Digital Release)
-UID:Radarr_movie_8961_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Miramax
@@ -182,7 +154,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -199,7 +171,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260216
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -216,7 +188,7 @@ DESCRIPTION:A former assassin\, known simply as The Bride\, wakes from a c
  ng a hit list\, The Bride sets off on her quest\, enduring unspeakable in
  jury and unscrupulous enemies.
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -229,7 +201,7 @@ DESCRIPTION:Return to the world of Panem 24 years before the events of The
   Hunger Games\, starting on the morning of the reaping of the 50th Hunger
   Games\, also known as the Second Quarter Quell.
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -245,7 +217,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260603
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -261,7 +233,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -277,7 +249,7 @@ DESCRIPTION:After being separated for 15 years\, the Sword of Power leads
  and embrace his true destiny as He-Man â the most powerful man in the uni
  verse.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -291,7 +263,7 @@ DESCRIPTION:Assigned his toughest mission yet\, the Cat must cheer up sibl
  pushing boundaries\, this agent of chaos must prove himself or risk losin
  g his magical hat forever.
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261104
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -306,7 +278,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -321,7 +293,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -336,7 +308,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -349,7 +321,7 @@ DESCRIPTION:When K-pop superstars Rumi\, Mira and Zoey aren't selling out
  stadiums\, they're using their secret powers to protect their fans from s
  upernatural threats.
 DTEND;VALUE=DATE:20250824
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20250823
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -362,7 +334,7 @@ DESCRIPTION:When K-pop superstars Rumi\, Mira and Zoey aren't selling out
  stadiums\, they're using their secret powers to protect their fans from s
  upernatural threats.
 DTEND;VALUE=DATE:20250620
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20250619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -375,7 +347,7 @@ DESCRIPTION:When K-pop superstars Rumi\, Mira and Zoey aren't selling out
  stadiums\, they're using their secret powers to protect their fans from s
  upernatural threats.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -388,7 +360,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -401,7 +373,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -414,7 +386,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -430,7 +402,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
  iraling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -438,11 +410,27 @@ SUMMARY:Clayface (Theatrical Release)
 UID:Radarr_movie_12403_cinemas
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:DC Studios
+DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
+  leading man is tragically cut short when a local crime boss's actions le
+ ave him horribly disfigured. Abandoned by his team and with nothing left\
+ , Matt seeks out a cutting edge treatment that miraculously returns him t
+ o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
+ iraling him down a destructive path of all-consuming revenge.
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261027T030501Z
+DTSTART;VALUE=DATE:20261208
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clayface (Digital Release)
+UID:Radarr_movie_12403_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260527
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -454,7 +442,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -466,7 +454,7 @@ CATEGORIES:Atomic Monster
 DESCRIPTION:A strange doorway appears in the basement of a furniture showr
  oom.
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -478,7 +466,7 @@ CATEGORIES:87North Productions
 DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
   but each has secret intentions to kill the other.
 DTEND;VALUE=DATE:20260315
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260314
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -490,7 +478,7 @@ CATEGORIES:87North Productions
 DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
   but each has secret intentions to kill the other.
 DTEND;VALUE=DATE:20260527
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260526
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -502,7 +490,7 @@ CATEGORIES:87North Productions
 DESCRIPTION:A dysfunctional couple head to a remote cabin to "reconnect"\,
   but each has secret intentions to kill the other.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -515,7 +503,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260521
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -528,7 +516,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260602
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260601
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -541,7 +529,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -556,7 +544,7 @@ DESCRIPTION:Avatar Aang\, the world's last Airbender\, learns of an ancien
  he wrong hands and threatens to upend the peace they sacrificed everythin
  g to achieve.
 DTEND;VALUE=DATE:20260725
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260724
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -571,7 +559,7 @@ DESCRIPTION:Avatar Aang\, the world's last Airbender\, learns of an ancien
  he wrong hands and threatens to upend the peace they sacrificed everythin
  g to achieve.
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260725
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -586,7 +574,7 @@ DESCRIPTION:Avatar Aang\, the world's last Airbender\, learns of an ancien
  he wrong hands and threatens to upend the peace they sacrificed everythin
  g to achieve.
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261102
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -599,7 +587,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -612,7 +600,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -625,7 +613,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -640,7 +628,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -655,7 +643,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -670,7 +658,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -682,7 +670,7 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:Two love-starved strangers crash into each other on the one ni
  ght of the year when single people are allowed to have sex.
 DTEND;VALUE=DATE:20260807
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260806
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -694,7 +682,7 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:Two love-starved strangers crash into each other on the one ni
  ght of the year when single people are allowed to have sex.
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -706,7 +694,7 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:Two love-starved strangers crash into each other on the one ni
  ght of the year when single people are allowed to have sex.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261020
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -718,7 +706,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -730,7 +718,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -744,7 +732,7 @@ DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia
   soon discovers that their very survival depends on them sticking togethe
  r as they navigate their now unrecognizable surroundings.
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -758,7 +746,7 @@ DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia
   soon discovers that their very survival depends on them sticking togethe
  r as they navigate their now unrecognizable surroundings.
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260901
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -772,7 +760,7 @@ DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia
   soon discovers that their very survival depends on them sticking togethe
  r as they navigate their now unrecognizable surroundings.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -786,7 +774,7 @@ DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
  laskan wilderness. Together\, they are forced into a brutal fight for sur
  vival against the elements.
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -800,7 +788,7 @@ DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
  laskan wilderness. Together\, they are forced into a brutal fight for sur
  vival against the elements.
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -813,7 +801,7 @@ DESCRIPTION:As war and plague devastate 14th-century England\, a humble pe
  asant ignites a rebellion\, uniting an army of commoners to defy the King
  âs might in a desperate fight for justice and survival.
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -826,7 +814,7 @@ DESCRIPTION:As war and plague devastate 14th-century England\, a humble pe
  asant ignites a rebellion\, uniting an army of commoners to defy the King
  âs might in a desperate fight for justice and survival.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -839,7 +827,7 @@ DESCRIPTION:As war and plague devastate 14th-century England\, a humble pe
  asant ignites a rebellion\, uniting an army of commoners to defy the King
  âs might in a desperate fight for justice and survival.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261026T030502Z
+DTSTAMP:20261027T030501Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
