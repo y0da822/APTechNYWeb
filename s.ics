@@ -4,113 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Compatibility is critical as the couples tackle finances and f
- amily dynamics. For one participant\, a rowdy night out leads to a soberi
- ng realization.
-DTEND:20261028T080100Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261028T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Love is Blind - 11x09 - Buzz Kill
-UID:NzbDrone_episode_82644
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:During a gathering of the full Pod Squad\, old flames spark re
- newed tension â and an on-camera crashout that serves the rest with a rea
- lity check.
-DTEND:20261028T090200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261028T080100Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Love is Blind - 11x10 - Where There's a Will\, There's a Way
-UID:NzbDrone_episode_82645
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:The brides and grooms try on gowns and tuxes. Health scares an
- d honest conversations put some relationships in perspective as the big d
- ay draws near.
-DTEND:20261028T100300Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261028T090200Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Love is Blind - 11x11 - If Not Now\, When?
-UID:NzbDrone_episode_82646
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Charles clashes with a colleague when he diagnoses their famil
- y member. Frost considers his future. Someone from Goodwin's past reappea
- rs.
-DTEND:20261029T004400Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261029T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Chicago Med - 12x04 - Tomorrow\, and Tomorrow\, and Tomorrow
-UID:NzbDrone_episode_82578
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:This Halloween\, J.D. helps a former colleague with a difficul
- t patient\, Elliot seeks support for her new clinic and Turk faces his fa
- milyâs growing pains.
-DTEND:20261029T002200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261029T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Scrubs (2026) - 2x06 - My Halloween
-UID:NzbDrone_episode_82603
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:The FBI recruits Severide when an arson is staged to cover up 
- the kidnapping of a judge's daughter.
-DTEND:20261029T014200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261029T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Chicago Fire - 15x04 - A Perfect Arson
-UID:NzbDrone_episode_82591
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:An eager young officer assigned to one of Chicago's most dange
- rous districts catches a case that Intelligence has an eye on.
-DTEND:20261029T024100Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261029T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Chicago P.D. - 14x04 - My Eye\, My Call
-UID:NzbDrone_episode_82580
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:A pickle-infused beer\, a reusable rat trap\, a back-scratchin
- g service\, and padded lacrosse sticks.
-DTEND:20261029T024400Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261029T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Shark Tank - 18x05 - I Smell A Rat
-UID:NzbDrone_episode_82611
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Citytv
 DESCRIPTION:When the head of ethics at an AI start-up is killed before he 
  can become a whistleblower\, Darcy and Bateman must zero in on who had th
  e most to lose.
 DTEND:20261030T004300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261030T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -124,7 +23,7 @@ DESCRIPTION:When an antiquities dealer is found murdered\, Walker and Calv
   legal and moral dilemma\, Maroun must confront her own beliefs as she wo
  rks with Price toward a conviction.
 DTEND:20261030T004500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261030T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -138,7 +37,7 @@ DESCRIPTION:A blinding agent strikes Nashville during a pollen storm\, lea
  ure and the source\, while Sam and Roxie perform an emergency heart trans
  plant. Blythe discovers Samâs secret.
 DTEND:20261030T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261030T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -152,7 +51,7 @@ DESCRIPTION:When a clairvoyant's account of a nighttime assault raises mor
   the truth\; the squad's investigation reveals a long-buried secret that 
  has haunted one family for generations.
 DTEND:20261030T014400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261030T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -165,7 +64,7 @@ DESCRIPTION:As Blue fights to reclaim his place at Grey Sloan\, Jo is pull
  ed from motherhood back into the OR. Jules and Winstonâs relationship rem
  ains strained\, and Bailey struggles to find her footing as a student.
 DTEND:20261030T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261030T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -179,7 +78,7 @@ DESCRIPTION:The Harrigans lock down the Cotswolds and roll back into Londo
  ngers. Maeve tightens the screws within the family\, while Harry walks in
  to a trap.
 DTEND:20261030T074700Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261030T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -191,7 +90,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Dwight rallies the troops to fight back as Governor Clark shut
  s down his businesses\, freezes bourbon shipments\, and targets his crew.
 DTEND:20261030T074000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261030T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -204,7 +103,7 @@ DESCRIPTION:As a dangerous manhunt intensifies across Deadwater\, Sheriff
  Mickey Fox races against time to protect vulnerable lives while long-buri
  ed family wounds force her to confront the past.
 DTEND:20261031T004300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261031T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -212,12 +111,26 @@ SUMMARY:Sheriff Country - 2x04 - Maria
 UID:NzbDrone_episode_82816
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Dexter manages to track down some of the remaining serial kill
+ ers from Prater's vault but struggles to find purpose beyond the hunt. As
+  Harrison begins his NYPD career\, a media-savvy murderer emerges and put
+ s the city on edge.
+DTEND:20261031T005200Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261031T000000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dexter: Resurrection - 2x01 - Risky Business
+UID:NzbDrone_episode_82917
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:As a mounting controversy puts Station 42 under scrutiny\, Bod
  e and the volunteer firefighters face a challenging test that leads them 
  to an unexpected rescue.
 DTEND:20261031T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261031T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -231,7 +144,7 @@ DESCRIPTION:When the FBI comes calling\, Jude is pulled back undercover to
  story comes to light\, the Exiles must reckon with what he did to survive
   and whether they can still trust him.
 DTEND:20261031T024400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261031T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -245,7 +158,7 @@ DESCRIPTION:After a close call with a suicide bomber\, the Marshals hunt f
  them to a suspectâs family whose deep distrust of the government makes ge
  tting answers nearly impossible.
 DTEND:20261102T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261102T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -260,7 +173,7 @@ DESCRIPTION:In what she argues is not an attempt to get extra time on test
  k Guy and Homer. Perhaps these atypical behaviors aren't as atypical as w
  e think.
 DTEND:20261102T012400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261102T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -268,25 +181,11 @@ SUMMARY:The Simpsons - 38x05 - Testing 1-2-3
 UID:NzbDrone_episode_82589
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Paramount+ with Showtime
-DESCRIPTION:Dexter manages to track down some of the remaining serial kill
- ers from Prater's vault but struggles to find purpose beyond the hunt. As
-  Harrison begins his NYPD career\, a media-savvy murderer emerges and put
- s the city on edge.
-DTEND:20261102T015200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261102T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Dexter: Resurrection - 2x01 - Risky Business
-UID:NzbDrone_episode_82917
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:Bertha faces Gladysâs difficult childbirth\, Peggy achieves a 
  milestone\, and Agnes makes plans to host a prestigious dinner.
 DTEND:20261102T025500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261102T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -299,7 +198,7 @@ DESCRIPTION:After a military contractor's wife and daughter are kidnapped\
  , Colter discovers Russell is investigating a related lead. The Shaw brot
  hers join forces to uncover a high-stakes cover-up.
 DTEND:20261102T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261102T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -313,7 +212,7 @@ DESCRIPTION:When a prison transport van is attacked and eight female convi
  ll but one is located\, they look to find the motive behind the escape. M
  eanwhile\, Scola grapples with a big life change.
 DTEND:20261103T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261103T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -326,7 +225,7 @@ DESCRIPTION:As Claireâs illness worsens\, Cain expels the Homesteadâs 
  iders. Jeff and Jenna lead them to a new refuge\, while Evan and Tanya at
  tempt a risky rescue without sacrificing innocent lives.
 DTEND:20261103T054000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261103T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -339,7 +238,7 @@ DESCRIPTION:Will they say "I do\," or will wedding jitters get the best of
   them? The couples meet at the altar and decide whether they're truly rea
  dy for forever.
 DTEND:20261104T090100Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261104T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -349,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261104T215200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261104T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -359,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261104T224400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261104T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -372,10 +271,10 @@ DESCRIPTION:Suspicions abound when a young injured boy and three burn vict
  ims are brought into the ED. Sgt. Platt visits Gaffney to probe a cold ca
  se. Frost gets some news.
 DTEND:20261105T014400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261105T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago Med - 12x05 - Baptism by Fire
 UID:NzbDrone_episode_82604
 END:VEVENT
@@ -383,11 +282,11 @@ BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DESCRIPTION:J.D. and Elliot reconnect while managing a difficult parenting
   conversation. Meanwhile\, the interns grapple with work/life balance.
-DTEND:20261105T012200Z
-DTSTAMP:20261105T030502Z
+DTEND:20261105T012100Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261105T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Scrubs (2026) - 2x07 - My Story
 UID:NzbDrone_episode_82650
 END:VEVENT
@@ -396,10 +295,10 @@ CATEGORIES:NBC
 DESCRIPTION:Firehouse 51 responds to a complex hostage situation\; Cruz co
  ntinues to make strides\; Chief Tomlin gives Severide an impossible task.
 DTEND:20261105T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261105T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago Fire - 15x05 - Three Hundred
 UID:NzbDrone_episode_82597
 END:VEVENT
@@ -408,20 +307,23 @@ CATEGORIES:NBC
 DESCRIPTION:Burgess takes on a risky undercover assignment while strugglin
  g to feel settled in her new house.
 DTEND:20261105T034100Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261105T030000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Chicago P.D. - 14x05 - Dark Imaginings
 UID:NzbDrone_episode_82605
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:A photorealistic custom car cover\; sweat-hiding shirts\; a re
+ imagined MSG seasoning\; a real baseball with a soft core to keep young p
+ layers safe.
 DTEND:20261105T034400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261105T030000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Shark Tank - 18x06 - Kevin in a Head Lock
 UID:NzbDrone_episode_82658
 END:VEVENT
@@ -431,7 +333,7 @@ DESCRIPTION:A firefighter's wife is found dead in her burnt-out home. Darc
  y and Bateman piece together what really happened\, in order to bring her
   killer to justice in court.
 DTEND:20261106T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261106T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -445,7 +347,7 @@ DESCRIPTION:When a college basketball star is shot dead after winning the
  that leads far beyond the internet\; Price and Maroun face an uphill batt
  le when the defendant claims self-defense.
 DTEND:20261106T014500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261106T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -458,7 +360,7 @@ DESCRIPTION:The Pharaoh targets Dixieâs flight. A new dispatch manager arr
  ives to lead Cammie and her team\, while Rogue divulges his tragic past t
  o Don and Ryan. Dixie reveals a secret during a monumental performance.
 DTEND:20261106T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261106T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -472,7 +374,7 @@ DESCRIPTION:Amelia sees a young patient with an extremely rare condition\,
   a birth trauma support group\, and the Olympic floor is rocked by family
   drama.
 DTEND:20261106T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261106T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -486,7 +388,7 @@ DESCRIPTION:When a wedding guest is assaulted at the reception\, Benson an
  \; Carisi's pursuit of justice becomes increasingly complicated when key 
  witnesses refuse to cooperate.
 DTEND:20261106T024400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261106T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -500,10 +402,10 @@ DESCRIPTION:Harry's covert strike pours petrol on the escalating war. Eddi
  aphina plot a long game as Conrad starts to crack\, and a new adversary e
  nters the frame.
 DTEND:20261106T084700Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261106T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:MobLand - 2x08 - We Don't Talk Anymore
 UID:NzbDrone_episode_71157
 END:VEVENT
@@ -513,7 +415,7 @@ DESCRIPTION:Dwight regroups as Mitch and Spencer prep for a high stakes sc
  ore. Bodhi expands a counterfeit scheme\, and Tyson tests his rap ambitio
  ns.
 DTEND:20261106T084000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261106T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -527,7 +429,7 @@ DESCRIPTION:When a dangerous prison break escalates into a volatile hostag
  nal consequences that could change the course of the case and put lives o
  n the line.
 DTEND:20261107T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261107T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -535,12 +437,25 @@ SUMMARY:Sheriff Country - 2x05 - No Way In (1)
 UID:NzbDrone_episode_82817
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Navigating his mid-life crisis\, Dexter finds no comfort as th
+ e Five Borough Killer captivates New York City. Meanwhile\, his son Harri
+ son starts at NYPD Homicide.
+DTEND:20261107T015200Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261107T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dexter: Resurrection - 2x02 - Fallen
+UID:NzbDrone_episode_82918
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:When escaped convicts trigger a dangerous manhunt\, Bode and t
  he Station 42 crew join forces with Sheriff Mickey Fox and her deputies t
  o protect their loved ones and the community caught in the crossfire.
 DTEND:20261107T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261107T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -554,7 +469,7 @@ DESCRIPTION:A deadly new drug\, smuggled inside donut deliveries\, pulls t
  fer sends shockwaves through the squad\, but only Hondo and Ethan know ju
  st how deep undercover he's about to go.
 DTEND:20261107T034400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261107T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -564,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
 DTEND:20261108T090100Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261108T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -576,7 +491,7 @@ CATEGORIES:FOX
 DESCRIPTION:Bart and Lisa break into Krustyland's most notorious failed at
  traction\, only to discover that it hasn't been completely abandoned.
 DTEND:20261109T012400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261109T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -584,22 +499,9 @@ SUMMARY:The Simpsons - 38x06 - The Kosmic Kruiser
 UID:NzbDrone_episode_82654
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Paramount+ with Showtime
-DESCRIPTION:Navigating his mid-life crisis\, Dexter finds no comfort as th
- e Five Borough Killer captivates New York City. Meanwhile\, his son Harri
- son starts at NYPD Homicide.
-DTEND:20261109T015200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261109T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Dexter: Resurrection - 2x02 - Fallen
-UID:NzbDrone_episode_82918
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20261109T025500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261109T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -613,7 +515,7 @@ DESCRIPTION:A highly radioactive material is stolen from a medical disposa
  Eva goes to check on her mom\, she finds herself in the middle of a fragi
  le situation on the Staten Island Ferry.
 DTEND:20261110T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261110T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -626,7 +528,7 @@ DESCRIPTION:Jeff prepares for war as Rick and Tish enter enemy territory t
  o undermine Burnham. At the Homestead\, Cainâs control hardens\, while Bi
  ngâs search for purpose ends in tragedy.
 DTEND:20261110T054000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261110T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -641,7 +543,7 @@ DESCRIPTION:When the team finds an 8-year-old girl hiding alone in her apa
   investigation unfolds\, itâs a race against time that tests just how far
   a parent will go to protect family.
 DTEND:20261111T014500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261111T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -654,7 +556,7 @@ DESCRIPTION:When a naval interrogator is found brutally murdered in her ow
  n home\, the team is called to the scene. Meanwhile\, Nick struggles with
   the investigation into his old NYPD partner.
 DTEND:20261111T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261111T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -667,7 +569,7 @@ DESCRIPTION:In 1993\, the teamâs investigation into the murder of a con wo
  man hits close to home for Lala. In the present\, Gibbs and Bishop team u
  p for an intense interrogation.
 DTEND:20261111T034300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261111T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -677,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261111T215200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261111T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -687,7 +589,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261111T224400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261111T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -696,8 +598,8 @@ UID:NzbDrone_episode_82878
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
-DTEND:20261112T012200Z
-DTSTAMP:20261105T030502Z
+DTEND:20261112T012100Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261112T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -710,7 +612,7 @@ DESCRIPTION:Ripley evaluates a patient suspected of a decades-old murder.
  Charles makes a decision while contending with painful family memories. A
   familiar face makes a shocking return.
 DTEND:20261112T014400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261112T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -723,7 +625,7 @@ DESCRIPTION:The probies take on their last day at Firehouse 51 when Kidd r
  eceives shocking news\; Violet and Novak begin fundraising for the Joint 
  Duty Program and receive a surprising donation.
 DTEND:20261112T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261112T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -733,7 +635,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20261112T034100Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261112T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -742,8 +644,11 @@ UID:NzbDrone_episode_82670
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
+DESCRIPTION:A trailer for basketball and football arcade games\; size-incl
+ usive underwear for men\; a scented nose cover for diaper-duty dads\; han
+ d-rolled bagels stuffed with comfort food.
 DTEND:20261112T034400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261112T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -756,7 +661,7 @@ DESCRIPTION:Darcy and Bateman are called to investigate the death of a man
   looking into mysteries around his birth leading the detectives into the 
  secretive world of fertility clinics.
 DTEND:20261113T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261113T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -766,7 +671,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20261113T014500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261113T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -776,7 +681,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20261113T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261113T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -790,7 +695,7 @@ DESCRIPTION:When questions arise about a conviction from one of Bensonâs e
  uad follows new leads\, the pair must confront the consequences of the ch
  oices they made as young detectives.
 DTEND:20261113T024400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261113T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -803,7 +708,7 @@ DESCRIPTION:Jo faces a life-or-death crisis when a house call goes wrong\,
   and Ben meets Baileyâs new study partner. Meanwhile\, Blue struggles wit
  h an unexpected family issue.
 DTEND:20261113T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261113T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -816,7 +721,7 @@ DESCRIPTION:Frankie goes full nuclear\, kicking a plan into gear. Eddie is
   tasked with a final chance to prove his worth as Maeve and Conrad chase 
  one last mad score. Harry stares down a standoff.
 DTEND:20261113T084700Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261113T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -829,7 +734,7 @@ DESCRIPTION:Dwight sees his enemies multiplying. Bodhi and Timpone race to
   profit from their wine as Mitch and Spencer make a discovery worth milli
  ons.
 DTEND:20261113T084000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261113T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -842,7 +747,7 @@ DESCRIPTION:When a dangerous case hits close to home for Hank\, Mickey and
   the team race to protect someone he loves while uncovering the secrets t
  hat may have put him in danger.
 DTEND:20261114T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261114T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -850,12 +755,25 @@ SUMMARY:Sheriff Country - 2x06 - Close to the Chest
 UID:NzbDrone_episode_82818
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Dexter closes in on a ruthless killer terrorizing the city\, b
+ ut a fleeting clue is all he has to go on. Harrison settles into his new 
+ role at NYPD.
+DTEND:20261114T015200Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261114T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dexter: Resurrection - 2x03 - Young Blood
+UID:NzbDrone_episode_82919
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:When a dangerous electrical surge sparks a devastating fire at
   Eve's apartment complex\, Station 42 races to save trapped residents\, a
  nd they begin to question what is straining Edgewater's aging power grid.
 DTEND:20261114T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261114T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -865,7 +783,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:STARZ
 DTEND:20261114T034400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261114T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -875,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20261115T085800Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261115T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -885,7 +803,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20261115T095600Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261115T085800Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -895,7 +813,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20261115T105400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261115T095600Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -909,7 +827,7 @@ DESCRIPTION:Andrea steps up as team leader and is instantly tested when Ka
  ing nephew. Meanwhile\, unbeknownst to the rest of the team\, Belle accom
  panies Cal on his trip to Salt Lake City as the two grow closer.
 DTEND:20261116T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261116T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -921,7 +839,7 @@ CATEGORIES:FOX
 DESCRIPTION:Moe undergoes a sleep study which reveals that his dreams are 
  infused into the dreams of everybody else in Springfield.
 DTEND:20261116T012400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261116T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -929,24 +847,11 @@ SUMMARY:The Simpsons - 38x07 - Dream Scenari-Moe
 UID:NzbDrone_episode_82655
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Paramount+ with Showtime
-DESCRIPTION:Dexter closes in on a ruthless killer terrorizing the city\, b
- ut a fleeting clue is all he has to go on. Harrison settles into his new 
- role at NYPD.
-DTEND:20261116T015200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261116T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Dexter: Resurrection - 2x03 - Young Blood
-UID:NzbDrone_episode_82919
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:When Reenie enlists Colterâs help to locate her mentorâs estra
  nged daughter\, the search uncovers a dangerous conspiracy.
 DTEND:20261116T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261116T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -956,7 +861,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20261116T025500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261116T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -970,7 +875,7 @@ DESCRIPTION:After the murder of an online influencer\, the team discovers
   list. The team works alongside Special Agent Nina Chase to intercept him
   before he disappears.
 DTEND:20261117T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261117T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -983,7 +888,7 @@ DESCRIPTION:Evanâs mission through the ruined city forces him to confront
  a violent scavenger leader and the guilt he carried home from war. Escape
   may leave him with a dangerous secret.
 DTEND:20261117T054000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261117T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -993,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20261118T014500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261118T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1006,7 +911,7 @@ DESCRIPTION:The team is called in when a Navy admiral sacrifices himself t
  o save the life of an AI tech mogul after an assassination attempt by an 
  unstable shooter.
 DTEND:20261118T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261118T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1016,7 +921,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20261118T034300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261118T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1026,7 +931,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261118T215200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261118T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1036,7 +941,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261118T224400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261118T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1045,21 +950,21 @@ UID:NzbDrone_episode_82880
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
-DESCRIPTION:Gaffney is enveloped in holiday cheer as Dr. Connor Rhodes is 
- recruited by Goodwin to help a young heart patient facing a risky surgery
- .
+DESCRIPTION:Goodwin and Charles enlist the help of colleagues. Frost strug
+ gles with his financial situation. A husband races against time for a gre
+ en card while his wife receives critical care. Archer gets a surprise.
 DTEND:20261119T014400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261119T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Chicago Med - 12x07 - Last Christmas I Gave You My Heart
+SUMMARY:Chicago Med - 12x07 - Borders and Battle Lines
 UID:NzbDrone_episode_82842
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20261119T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261119T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1068,12 +973,15 @@ UID:NzbDrone_episode_82841
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:Needing to fill gaps in his audit report of Intelligence\, Cha
+ rlie Boyden joins the investigation of a mysterious drug dealer known onl
+ y as Ghost.
 DTEND:20261119T034100Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261119T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Chicago P.D. - 14x07 - Persona Non Grata
+SUMMARY:Chicago P.D. - 14x07 - Persons Yet Unknown
 UID:NzbDrone_episode_82845
 END:VEVENT
 BEGIN:VEVENT
@@ -1082,7 +990,7 @@ DESCRIPTION:When a seemingly random shooting at a shopping centre leaves a
   university student dead\, Darcy and Bateman must unravel her complicated
   past to find her killer.
 DTEND:20261120T014300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261120T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1090,19 +998,9 @@ SUMMARY:Law & Order Toronto: Criminal Intent - 4x09 - Canary
 UID:NzbDrone_episode_81997
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:NBC
-DTEND:20261120T014500Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261120T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Law & Order - 26x07 - Class War
-UID:NzbDrone_episode_82684
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20261120T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261120T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1115,7 +1013,7 @@ DESCRIPTION:Grey Sloan is overrun with patients after a nearby hospital cl
  oses its doors\, and hospital leadership clashes with how best to manage 
  the chaos.
 DTEND:20261120T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261120T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1125,7 +1023,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20261120T084700Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261120T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1137,7 +1035,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Dwight battles Turco's rising demands while racing to protect 
  the ranch from Van Heusen's land grab. Tyson gets a life changing offer.
 DTEND:20261120T084000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261120T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1147,7 +1045,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261121T015700Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261121T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1155,9 +1053,19 @@ SUMMARY:Yellowjackets - 4x01 - Hivemind
 UID:NzbDrone_episode_74004
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DTEND:20261121T015200Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261121T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dexter: Resurrection - 2x04 - Live Free and Die
+UID:NzbDrone_episode_82920
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:STARZ
 DTEND:20261121T034400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261121T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1167,7 +1075,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20261122T085800Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261122T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1182,7 +1090,7 @@ DESCRIPTION:Kayce and Belle go undercover inside a dangerous cult to find
  r own lives might be at risk. Also\, Miles travels to Helena to demonstra
  te that the Marshals are prepared to secure an unprecedented trial.
 DTEND:20261123T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261123T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1196,7 +1104,7 @@ DESCRIPTION:After Krusty's latest marriage ends in spectacular fashion\, h
  iar face. Can a selfish\, emotionally stunted TV clown forge a new family
   and finally win the love he doesn't deserve?
 DTEND:20261123T012400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261123T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1204,22 +1112,12 @@ SUMMARY:The Simpsons - 38x08 - Curb Your Expectations
 UID:NzbDrone_episode_82659
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Paramount+ with Showtime
-DTEND:20261123T015200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261123T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Dexter: Resurrection - 2x04 - Live Free and Die
-UID:NzbDrone_episode_82920
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:When Colter is hired to locate the owner of a small South Caro
  lina Inn\, the search puts him at odds with rival tracker Luke\, whose re
  ckless methods and questionable morals have put innocent lives at risk.
 DTEND:20261123T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261123T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1229,7 +1127,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20261123T025500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261123T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1242,7 +1140,7 @@ DESCRIPTION:Jenna discovers the desperate orphanage Claire has been protec
  ting\, while Cain hunts whoever is stealing supplies. Jeff considers a te
  rrible weapon as Bing turns teenagers into soldiers.
 DTEND:20261124T054000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261124T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1252,7 +1150,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20261125T014500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261125T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1262,7 +1160,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20261125T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261125T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1272,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261125T215200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261125T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1282,7 +1180,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261125T224400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261125T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1292,7 +1190,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20261127T024300Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261127T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1305,7 +1203,7 @@ DESCRIPTION:As Claireâs illness worsens\, Cain expels the Homesteadâs 
  iders. Jeff and Jenna lead them to a new refuge\, while Evan and Tanya at
  tempt a risky rescue without sacrificing innocent lives.
 DTEND:20261127T054000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261127T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1317,7 +1215,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Dwight expands his operation while seeking stronger backing ab
  road. Mitch and Spencer look to score big at the track.
 DTEND:20261127T084000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261127T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1327,7 +1225,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261128T015700Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261128T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1335,9 +1233,19 @@ SUMMARY:Yellowjackets - 4x02 - Human Interest
 UID:NzbDrone_episode_74005
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DTEND:20261128T015200Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261128T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dexter: Resurrection - 2x05 - Panick Attack
+UID:NzbDrone_episode_82921
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:STARZ
 DTEND:20261128T034400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261128T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1347,7 +1255,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20261129T085800Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261129T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1356,8 +1264,15 @@ UID:NzbDrone_episode_72992
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:Tasked with wrangling an international fugitive\, the Marshals
+  find themselves in the middle of a diamond heist shootout. Kayce and Cal
+ \, both reeling from recent fallout with their children\, take different 
+ approaches to coping. Meanwhile\, Belle moves forward with ending her mar
+ riage\, only to discover that the process may be harder than it seems. Al
+ so\, Kayce welcomes horse trainer Shelby Gaines to East Camp to help laun
+ ch a new equine therapy program.
 DTEND:20261130T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261130T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1367,7 +1282,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20261130T012400Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261130T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1375,19 +1290,13 @@ SUMMARY:The Simpsons - 38x09 - Jersey Score
 UID:NzbDrone_episode_82660
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Paramount+ with Showtime
-DTEND:20261130T015200Z
-DTSTAMP:20261105T030502Z
-DTSTART:20261130T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Dexter: Resurrection - 2x05 - Panick Attack
-UID:NzbDrone_episode_82921
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:When two children and their au pair vanish from a wealthy Mary
+ land familyâs home\, Colter races against the clock to find them. Meanwhi
+ le\, Reenie calls in a family favor while investigating the circumstances
+  surrounding the death of Melâs mother.
 DTEND:20261130T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261130T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1397,7 +1306,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20261130T025500Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261130T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1407,7 +1316,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20261201T014200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261201T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1420,7 +1329,7 @@ DESCRIPTION:Jeffâs rescue mission becomes a fiery battle as Burnham prepar
  es to invade. Thayerâs death\, a chemical accident\, and Jennaâs confront
  ation with Cain fracture the north before the war begins.
 DTEND:20261201T054000Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261201T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1430,7 +1339,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20261202T024200Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261202T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1440,11 +1349,41 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20261202T054600Z
-DTSTAMP:20261105T030502Z
+DTSTAMP:20261106T030502Z
 DTSTART:20261202T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Bad Monkey - 2x01 - TBA
 UID:NzbDrone_episode_67196
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Canale 5
+DTEND:20261202T215200Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261202T210000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Violet Like The Sea - 3x09 - TBA
+UID:NzbDrone_episode_82883
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Canale 5
+DTEND:20261202T224400Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261202T215200Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Violet Like The Sea - 3x10 - TBA
+UID:NzbDrone_episode_82884
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20261203T012100Z
+DTSTAMP:20261106T030502Z
+DTSTART:20261203T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x09 - TBA
+UID:NzbDrone_episode_82652
 END:VEVENT
 END:VCALENDAR
