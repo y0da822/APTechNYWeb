@@ -11,7 +11,7 @@ DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
  hed valley. The impending disaster prompts them to reunite and warn all t
  he other beasts about the desperate situation.
 DTEND;VALUE=DATE:20060330
-DTSTAMP:20261107T030501Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20060329
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
  hed valley. The impending disaster prompts them to reunite and warn all t
  he other beasts about the desperate situation.
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
  hed valley. The impending disaster prompts them to reunite and warn all t
  he other beasts about the desperate situation.
 DTEND;VALUE=DATE:20061019
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20061018
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,7 +57,7 @@ DESCRIPTION:Story of a young woman who marries a fascinating widower only
   Winter. She must also deal with the jealous\, obsessed Mrs. Danvers\, th
  e housekeeper\, who will not accept her as the mistress of the house.
 DTEND;VALUE=DATE:19400413
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:19400412
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +73,7 @@ DESCRIPTION:Story of a young woman who marries a fascinating widower only
   Winter. She must also deal with the jealous\, obsessed Mrs. Danvers\, th
  e housekeeper\, who will not accept her as the mistress of the house.
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261101
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -89,7 +89,7 @@ DESCRIPTION:Story of a young woman who marries a fascinating widower only
   Winter. She must also deal with the jealous\, obsessed Mrs. Danvers\, th
  e housekeeper\, who will not accept her as the mistress of the house.
 DTEND;VALUE=DATE:19980110
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:19980109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -102,7 +102,7 @@ DESCRIPTION:Return to the world of Panem 24 years before the events of The
   Hunger Games\, starting on the morning of the reaping of the 50th Hunger
   Games\, also known as the Second Quarter Quell.
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -118,7 +118,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -134,7 +134,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,7 +150,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -166,7 +166,7 @@ DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
  o face off against each other and the demons of their past. And if they d
  on't\, it's GAME OVER!
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -182,7 +182,7 @@ DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
  o face off against each other and the demons of their past. And if they d
  on't\, it's GAME OVER!
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -196,7 +196,7 @@ DESCRIPTION:Assigned his toughest mission yet\, the Cat must cheer up sibl
  pushing boundaries\, this agent of chaos must prove himself or risk losin
  g his magical hat forever.
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261104
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -211,7 +211,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -225,9 +225,9 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   he is forced to confront the whims of gods\, mythological monsters\, and
   trials that stretch both his cunning and his humanity to the breaking po
  int.
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261107T030502Z
-DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261108T030502Z
+DTSTART;VALUE=DATE:20261107
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Odyssey (Digital Release)
@@ -241,7 +241,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -254,7 +254,7 @@ DESCRIPTION:When K-pop superstars Rumi\, Mira and Zoey aren't selling out
  stadiums\, they're using their secret powers to protect their fans from s
  upernatural threats.
 DTEND;VALUE=DATE:20250824
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20250823
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -267,7 +267,7 @@ DESCRIPTION:When K-pop superstars Rumi\, Mira and Zoey aren't selling out
  stadiums\, they're using their secret powers to protect their fans from s
  upernatural threats.
 DTEND;VALUE=DATE:20250620
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20250619
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -280,7 +280,7 @@ DESCRIPTION:When K-pop superstars Rumi\, Mira and Zoey aren't selling out
  stadiums\, they're using their secret powers to protect their fans from s
  upernatural threats.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -293,7 +293,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260522
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260521
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -306,7 +306,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20260602
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260601
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -319,7 +319,7 @@ DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
  d him to discover an unexpected aptitude for cracking safes\, turning his
   life upside down.
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261105
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -334,7 +334,7 @@ DESCRIPTION:Avatar Aang\, the world's last Airbender\, learns of an ancien
  he wrong hands and threatens to upend the peace they sacrificed everythin
  g to achieve.
 DTEND;VALUE=DATE:20260725
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260724
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -349,7 +349,7 @@ DESCRIPTION:Avatar Aang\, the world's last Airbender\, learns of an ancien
  he wrong hands and threatens to upend the peace they sacrificed everythin
  g to achieve.
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260725
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -364,7 +364,7 @@ DESCRIPTION:Avatar Aang\, the world's last Airbender\, learns of an ancien
  he wrong hands and threatens to upend the peace they sacrificed everythin
  g to achieve.
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261102
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -377,7 +377,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -390,7 +390,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -403,7 +403,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -418,7 +418,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -433,7 +433,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -448,7 +448,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -460,7 +460,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -472,7 +472,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -483,9 +483,9 @@ BEGIN:VEVENT
 CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20270301
-DTSTAMP:20261107T030502Z
-DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20261108T030502Z
+DTSTART;VALUE=DATE:20261229
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Resident Evil (Physical Release)
@@ -498,7 +498,7 @@ DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia
   soon discovers that their very survival depends on them sticking togethe
  r as they navigate their now unrecognizable surroundings.
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260812
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -512,7 +512,7 @@ DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia
   soon discovers that their very survival depends on them sticking togethe
  r as they navigate their now unrecognizable surroundings.
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260901
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -526,7 +526,7 @@ DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia
   soon discovers that their very survival depends on them sticking togethe
  r as they navigate their now unrecognizable surroundings.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -540,7 +540,7 @@ DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
  laskan wilderness. Together\, they are forced into a brutal fight for sur
  vival against the elements.
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -554,7 +554,7 @@ DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
  laskan wilderness. Together\, they are forced into a brutal fight for sur
  vival against the elements.
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -570,7 +570,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -586,7 +586,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -602,7 +602,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -615,7 +615,7 @@ DESCRIPTION:As war and plague devastate 14th-century England\, a humble pe
  asant ignites a rebellion\, uniting an army of commoners to defy the King
  âs might in a desperate fight for justice and survival.
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -628,7 +628,7 @@ DESCRIPTION:As war and plague devastate 14th-century England\, a humble pe
  asant ignites a rebellion\, uniting an army of commoners to defy the King
  âs might in a desperate fight for justice and survival.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -641,7 +641,7 @@ DESCRIPTION:As war and plague devastate 14th-century England\, a humble pe
  asant ignites a rebellion\, uniting an army of commoners to defy the King
  âs might in a desperate fight for justice and survival.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -654,7 +654,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
  rew up in\, discovers she can travel into The Further\, where she possess
  es an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -667,7 +667,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
  rew up in\, discovers she can travel into The Further\, where she possess
  es an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -680,7 +680,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
  rew up in\, discovers she can travel into The Further\, where she possess
  es an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -694,7 +694,7 @@ DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help
  ourney that ends up blowing the whistle on the social network's most guar
  ded secrets.
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -708,7 +708,7 @@ DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help
  ourney that ends up blowing the whistle on the social network's most guar
  ded secrets.
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261123
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -724,7 +724,7 @@ DESCRIPTION:While celebrating their last night together\, high school grad
   home\, Jo and Raissa must race to find a way to leave the island before 
  they forget each other forever.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -740,7 +740,7 @@ DESCRIPTION:While celebrating their last night together\, high school grad
   home\, Jo and Raissa must race to find a way to leave the island before 
  they forget each other forever.
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -756,7 +756,7 @@ DESCRIPTION:While celebrating their last night together\, high school grad
   home\, Jo and Raissa must race to find a way to leave the island before 
  they forget each other forever.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261107T030502Z
+DTSTAMP:20261108T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
