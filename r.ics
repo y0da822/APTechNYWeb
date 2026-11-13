@@ -11,7 +11,7 @@ DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
  hed valley. The impending disaster prompts them to reunite and warn all t
  he other beasts about the desperate situation.
 DTEND;VALUE=DATE:20060330
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20060329
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
  hed valley. The impending disaster prompts them to reunite and warn all t
  he other beasts about the desperate situation.
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
  hed valley. The impending disaster prompts them to reunite and warn all t
  he other beasts about the desperate situation.
 DTEND;VALUE=DATE:20061019
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20061018
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -54,7 +54,7 @@ DESCRIPTION:This fantastical movie inspired by the music of Michael Jackso
  n features imaginative interpretations of hit tracks from the iconic 1987
   album âBadâ.
 DTEND;VALUE=DATE:19881030
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:19881029
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -67,7 +67,7 @@ DESCRIPTION:This fantastical movie inspired by the music of Michael Jackso
  n features imaginative interpretations of hit tracks from the iconic 1987
   album âBadâ.
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -80,7 +80,7 @@ DESCRIPTION:This fantastical movie inspired by the music of Michael Jackso
  n features imaginative interpretations of hit tracks from the iconic 1987
   album âBadâ.
 DTEND;VALUE=DATE:19890111
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:19890110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -93,7 +93,7 @@ DESCRIPTION:Return to the world of Panem 24 years before the events of The
   Hunger Games\, starting on the morning of the reaping of the 50th Hunger
   Games\, also known as the Second Quarter Quell.
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -109,7 +109,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -125,7 +125,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -141,44 +141,12 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Spider-Man: Brand New Day (Physical Release)
 UID:Radarr_movie_8428_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Capcom
-DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
- rown back into combat when the mysterious Chun-Li recruits them for the n
- ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
- But behind this battle royale lies a deadly conspiracy that forces them t
- o face off against each other and the demons of their past. And if they d
- on't\, it's GAME OVER!
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261112T030504Z
-DTSTART;VALUE=DATE:20261014
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Street Fighter (Theatrical Release)
-UID:Radarr_movie_11703_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Capcom
-DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
- rown back into combat when the mysterious Chun-Li recruits them for the n
- ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
- But behind this battle royale lies a deadly conspiracy that forces them t
- o face off against each other and the demons of their past. And if they d
- on't\, it's GAME OVER!
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261112T030504Z
-DTSTART;VALUE=DATE:20261111
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Street Fighter (Digital Release)
-UID:Radarr_movie_11703_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
@@ -188,7 +156,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -203,7 +171,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -218,7 +186,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -234,7 +202,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
  iraling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -250,7 +218,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
  iraling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261207
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -266,7 +234,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
  iraling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20270225
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20270224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -274,51 +242,12 @@ SUMMARY:Clayface (Physical Release)
 UID:Radarr_movie_12403_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Black Bear Pictures
-DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
- d him to discover an unexpected aptitude for cracking safes\, turning his
-  life upside down.
-DTEND;VALUE=DATE:20260522
-DTSTAMP:20261112T030504Z
-DTSTART;VALUE=DATE:20260521
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tuner (Theatrical Release)
-UID:Radarr_movie_12665_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Bear Pictures
-DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
- d him to discover an unexpected aptitude for cracking safes\, turning his
-  life upside down.
-DTEND;VALUE=DATE:20260602
-DTSTAMP:20261112T030504Z
-DTSTART;VALUE=DATE:20260601
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tuner (Digital Release)
-UID:Radarr_movie_12665_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Black Bear Pictures
-DESCRIPTION:A gifted piano tuner's meticulous skills for tuning pianos lea
- d him to discover an unexpected aptitude for cracking safes\, turning his
-  life upside down.
-DTEND;VALUE=DATE:20261106
-DTSTAMP:20261112T030504Z
-DTSTART;VALUE=DATE:20261105
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tuner (Physical Release)
-UID:Radarr_movie_12665_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Troll Court Entertainment
 DESCRIPTION:After Acme products fail him one too many times in his dogged 
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260820
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -331,7 +260,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -344,7 +273,7 @@ DESCRIPTION:After Acme products fail him one too many times in his dogged
  pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
  wyer to sue the Acme Corporation.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -359,7 +288,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -374,7 +303,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -389,7 +318,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\,
  mes through on the radio while heâs flying his old Cessna\, it sparks a h
  unt for the provenance of the sound.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -403,7 +332,7 @@ DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
  laskan wilderness. Together\, they are forced into a brutal fight for sur
  vival against the elements.
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -417,7 +346,7 @@ DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
  laskan wilderness. Together\, they are forced into a brutal fight for sur
  vival against the elements.
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -433,7 +362,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -449,7 +378,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -465,7 +394,7 @@ DESCRIPTION:A former soldier is thrown into a brutal race against time whe
  rayal closing in from every side\, they must survive the chase and delive
  r their cargo to save the life of a little girl.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -478,7 +407,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
  rew up in\, discovers she can travel into The Further\, where she possess
  es an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -491,7 +420,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
  rew up in\, discovers she can travel into The Further\, where she possess
  es an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -504,7 +433,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
  rew up in\, discovers she can travel into The Further\, where she possess
  es an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -519,7 +448,7 @@ DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childr
  uddy is not pleased and cracks begin to appear in this seemingly perfect 
  world.
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -534,7 +463,7 @@ DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childr
  uddy is not pleased and cracks begin to appear in this seemingly perfect 
  world.
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -549,7 +478,7 @@ DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childr
  uddy is not pleased and cracks begin to appear in this seemingly perfect 
  world.
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -563,7 +492,7 @@ DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help
  ourney that ends up blowing the whistle on the social network's most guar
  ded secrets.
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -577,7 +506,7 @@ DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help
  ourney that ends up blowing the whistle on the social network's most guar
  ded secrets.
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261123
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -593,7 +522,7 @@ DESCRIPTION:While celebrating their last night together\, high school grad
   home\, Jo and Raissa must race to find a way to leave the island before 
  they forget each other forever.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -609,7 +538,7 @@ DESCRIPTION:While celebrating their last night together\, high school grad
   home\, Jo and Raissa must race to find a way to leave the island before 
  they forget each other forever.
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -625,7 +554,7 @@ DESCRIPTION:While celebrating their last night together\, high school grad
   home\, Jo and Raissa must race to find a way to leave the island before 
  they forget each other forever.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -639,7 +568,7 @@ DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest
  es as they embark on a desperate quest to rescue Prue's abducted baby bro
  ther from a murder of crows led by a mysterious woman named Alexandra.
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -653,7 +582,7 @@ DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest
  es as they embark on a desperate quest to rescue Prue's abducted baby bro
  ther from a murder of crows led by a mysterious woman named Alexandra.
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -661,46 +590,12 @@ SUMMARY:Wildwood (Digital Release)
 UID:Radarr_movie_12977_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Pinehouse Film
-DESCRIPTION:Working-class An Mi Ok and Choi Ho Seok\, who have been togeth
- er since middle school and are the parents of a taciturn 10-year-old\, ar
- e still reckoning with the fallout from Ho Seokâs firing from his factory
-  job after a violently suppressed labor union strike. The well-off Lee Ye
-  Ji\, a documentary filmmaker\, with her businessman husband\, Sang-woo\,
-  has decided to make a movie about job layoffs and wants to make Mi-Ok an
- d Ho-Seok her main camera subjects.
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261112T030504Z
-DTSTART;VALUE=DATE:20261030
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Possible Love (Theatrical Release)
-UID:Radarr_movie_12985_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Pinehouse Film
-DESCRIPTION:Working-class An Mi Ok and Choi Ho Seok\, who have been togeth
- er since middle school and are the parents of a taciturn 10-year-old\, ar
- e still reckoning with the fallout from Ho Seokâs firing from his factory
-  job after a violently suppressed labor union strike. The well-off Lee Ye
-  Ji\, a documentary filmmaker\, with her businessman husband\, Sang-woo\,
-  has decided to make a movie about job layoffs and wants to make Mi-Ok an
- d Ho-Seok her main camera subjects.
-DTEND;VALUE=DATE:20261106
-DTSTAMP:20261112T030504Z
-DTSTART;VALUE=DATE:20261105
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Possible Love (Digital Release)
-UID:Radarr_movie_12985_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Iconoclast Films
 DESCRIPTION:After a courtroom overdose lands him in rehab\, a lawyer has o
  ne week to save his career and prepare for his own trial\, with the help 
  of a dogged intern.
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -714,7 +609,7 @@ DESCRIPTION:An elderly miser embarks on a supernatural journey after visit
  mas Past\, Present\, and Yet to Come force him to confront his past and f
  ight for a second chance at happiness.
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -727,7 +622,7 @@ DESCRIPTION:Henry\, son of Greg and Pam Focker\, faces family chaos when h
  e decides to marry a strong-willed woman who appears to be his complete m
  ismatch.
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261125
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -740,7 +635,7 @@ DESCRIPTION:Young Bela forms a relationship with a sinister entity in her
  home that looks uncannily like her own mother\, drawing her into a terrif
  ying and increasingly dark world.
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -753,7 +648,7 @@ DESCRIPTION:Young Bela forms a relationship with a sinister entity in her
  home that looks uncannily like her own mother\, drawing her into a terrif
  ying and increasingly dark world.
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -768,7 +663,7 @@ DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman
   made from wicker. In an otherwise conservative town\, this unconventiona
  l romance sparks outrage\, jealousy and chaos.
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -783,7 +678,7 @@ DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman
   made from wicker. In an otherwise conservative town\, this unconventiona
  l romance sparks outrage\, jealousy and chaos.
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -798,7 +693,7 @@ DESCRIPTION:Dating expert Chelsey (Ayesha Curry) is determined to break he
   she wonders if her bad luck might just be the universeâs way of leading 
  her back to her first love.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -813,7 +708,7 @@ DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their dar
  e the unlikely duo closing in\, the crime ring pushes past their limits\,
   putting everything on the line for their most ambitious heist yet.
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -828,7 +723,7 @@ DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywo
  angled in a dangerous web of secrets\, crimes and betrayals that will tes
  t everything he knows about loyalty and survival.
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261125
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -843,7 +738,7 @@ DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywo
  angled in a dangerous web of secrets\, crimes and betrayals that will tes
  t everything he knows about loyalty and survival.
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -857,7 +752,7 @@ DESCRIPTION:After Santaâs magic bag is stolen\, he turns to his naughty li
  hter\, Santa\, and a group of misfits\, Vance will have to pull off the g
  reatest heist of his life to save Christmas.
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261112T030504Z
+DTSTAMP:20261113T030502Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:TENTATIVE
