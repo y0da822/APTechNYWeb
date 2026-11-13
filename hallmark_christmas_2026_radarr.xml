@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hallmark Christmas 2026 — verified TMDB movies</title>
+    <link>https://www.hallmarkchannel.com/christmas</link>
+    <description>Only 2026 Hallmark movies with verified TMDB IDs. Missing films omitted rather than inventing identifiers.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2026 19:39:48 +0000</lastBuildDate>
+    <item>
+      <title>’Tis the Season for Setups (2026)</title>
+      <link>https://www.themoviedb.org/movie/1772765</link>
+      <guid isPermaLink="false">1772765</guid>
+      <description>2026 Hallmark holiday movie — TMDB 1772765.</description>
+      <pubDate>Fri, 16 Oct 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winter Wonderlanes (2026)</title>
+      <link>https://www.themoviedb.org/movie/1773195</link>
+      <guid isPermaLink="false">1773195</guid>
+      <description>2026 Hallmark holiday movie — TMDB 1773195.</description>
+      <pubDate>Fri, 23 Oct 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adopting St. Nick (2026)</title>
+      <link>https://www.themoviedb.org/movie/1773374</link>
+      <guid isPermaLink="false">1773374</guid>
+      <description>2026 Hallmark holiday movie — TMDB 1773374.</description>
+      <pubDate>Sat, 31 Oct 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Danish Christmas (2026)</title>
+      <link>https://www.themoviedb.org/movie/1773368</link>
+      <guid isPermaLink="false">1773368</guid>
+      <description>2026 Hallmark holiday movie — TMDB 1773368.</description>
+      <pubDate>Sun, 01 Nov 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holiday Unplugged (2026)</title>
+      <link>https://www.themoviedb.org/movie/1773357</link>
+      <guid isPermaLink="false">1773357</guid>
+      <description>2026 Hallmark holiday movie — TMDB 1773357.</description>
+      <pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Christmas in Blue Dog Valley (2026)</title>
+      <link>https://www.themoviedb.org/movie/1773330</link>
+      <guid isPermaLink="false">1773330</guid>
+      <description>2026 Hallmark holiday movie — TMDB 1773330.</description>
+      <pubDate>Sat, 21 Nov 2026 20:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
