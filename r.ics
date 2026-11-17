@@ -1,17 +1,17 @@
 BEGIN:VCALENDAR
 NAME:Radarr Movies Calendar
-PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+PRODID:-//radarr.video//Radarr//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
 CATEGORIES:20th Century Fox Animation
-DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
- d movie Ice Age. This time around\, the deep freeze is over\, and the ice
- -covered earth is starting to melt\, which will destroy the trio's cheris
- hed valley. The impending disaster prompts them to reunite and warn all t
- he other beasts about the desperate situation.
-DTEND;VALUE=DATE:20060330
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animated
+  movie Ice Age. This time around\, the deep freeze is over\, and the ice-c
+ overed earth is starting to melt\, which will destroy the trio's cherished
+  valley. The impending disaster prompts them to reunite and warn all the o
+ ther beasts about the desperate situation.
+DTEND;VALUE=DATE:20060329
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20060329
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,13 +20,13 @@ UID:Radarr_movie_1400_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:20th Century Fox Animation
-DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
- d movie Ice Age. This time around\, the deep freeze is over\, and the ice
- -covered earth is starting to melt\, which will destroy the trio's cheris
- hed valley. The impending disaster prompts them to reunite and warn all t
- he other beasts about the desperate situation.
-DTEND;VALUE=DATE:20261114
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animated
+  movie Ice Age. This time around\, the deep freeze is over\, and the ice-c
+ overed earth is starting to melt\, which will destroy the trio's cherished
+  valley. The impending disaster prompts them to reunite and warn all the o
+ ther beasts about the desperate situation.
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,13 +35,13 @@ UID:Radarr_movie_1400_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:20th Century Fox Animation
-DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animate
- d movie Ice Age. This time around\, the deep freeze is over\, and the ice
- -covered earth is starting to melt\, which will destroy the trio's cheris
- hed valley. The impending disaster prompts them to reunite and warn all t
- he other beasts about the desperate situation.
-DTEND;VALUE=DATE:20061019
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Diego\, Manny and Sid return in this sequel to the hit animated
+  movie Ice Age. This time around\, the deep freeze is over\, and the ice-c
+ overed earth is starting to melt\, which will destroy the trio's cherished
+  valley. The impending disaster prompts them to reunite and warn all the o
+ ther beasts about the desperate situation.
+DTEND;VALUE=DATE:20061018
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20061018
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -50,11 +50,11 @@ UID:Radarr_movie_1400_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Ultimate Productions
-DESCRIPTION:This fantastical movie inspired by the music of Michael Jackso
- n features imaginative interpretations of hit tracks from the iconic 1987
-  album âBadâ.
-DTEND;VALUE=DATE:19881030
-DTSTAMP:20261116T030503Z
+DESCRIPTION:This fantastical movie inspired by the music of Michael Jackson
+  features imaginative interpretations of hit tracks from the iconic 1987 a
+ lbum âBadâ.
+DTEND;VALUE=DATE:19881029
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:19881029
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -63,11 +63,11 @@ UID:Radarr_movie_1869_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Ultimate Productions
-DESCRIPTION:This fantastical movie inspired by the music of Michael Jackso
- n features imaginative interpretations of hit tracks from the iconic 1987
-  album âBadâ.
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261116T030503Z
+DESCRIPTION:This fantastical movie inspired by the music of Michael Jackson
+  features imaginative interpretations of hit tracks from the iconic 1987 a
+ lbum âBadâ.
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -76,11 +76,11 @@ UID:Radarr_movie_1869_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Ultimate Productions
-DESCRIPTION:This fantastical movie inspired by the music of Michael Jackso
- n features imaginative interpretations of hit tracks from the iconic 1987
-  album âBadâ.
-DTEND;VALUE=DATE:19890111
-DTSTAMP:20261116T030503Z
+DESCRIPTION:This fantastical movie inspired by the music of Michael Jackson
+  features imaginative interpretations of hit tracks from the iconic 1987 a
+ lbum âBadâ.
+DTEND;VALUE=DATE:19890110
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:19890110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -88,12 +88,40 @@ SUMMARY:Moonwalker (Physical Release)
 UID:Radarr_movie_1869_physical
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Metro-Goldwyn-Mayer
+DESCRIPTION:In the 23rd century\, inhabitants of a domed city freely experi
+ ence all of life's pleasures â but no one is allowed to live past 30. Ci
+ tizens can try for a chance at being "renewed" in a civic ceremony on thei
+ r 30th birthday. Escape is the only other option.
+DTEND;VALUE=DATE:19760623
+DTSTAMP:20261117T030504Z
+DTSTART;VALUE=DATE:19760623
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Logan's Run (Theatrical Release)
+UID:Radarr_movie_4312_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Metro-Goldwyn-Mayer
+DESCRIPTION:In the 23rd century\, inhabitants of a domed city freely experi
+ ence all of life's pleasures â but no one is allowed to live past 30. Ci
+ tizens can try for a chance at being "renewed" in a civic ceremony on thei
+ r 30th birthday. Escape is the only other option.
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261117T030504Z
+DTSTART;VALUE=DATE:20261214
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Logan's Run (Physical Release)
+UID:Radarr_movie_4312_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Lionsgate
-DESCRIPTION:Return to the world of Panem 24 years before the events of The
-  Hunger Games\, starting on the morning of the reaping of the 50th Hunger
-  Games\, also known as the Second Quarter Quell.
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Return to the world of Panem 24 years before the events of The 
+ Hunger Games\, starting on the morning of the reaping of the 50th Hunger G
+ ames\, also known as the Second Quarter Quell.
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,14 +130,14 @@ UID:Radarr_movie_11695_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember himâand the pressure of seeing his old friends move on without 
- himâsparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't 
+ remember himâand the pressure of seeing his old friends move on without 
+ himâsparks a change in Peter Parker he may not have the power to control
+ . But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no on
+ e can even see.
+DTEND;VALUE=DATE:20260729
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -118,14 +146,14 @@ UID:Radarr_movie_8428_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember himâand the pressure of seeing his old friends move on without 
- himâsparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20261007
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't 
+ remember himâand the pressure of seeing his old friends move on without 
+ himâsparks a change in Peter Parker he may not have the power to control
+ . But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no on
+ e can even see.
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -134,14 +162,14 @@ UID:Radarr_movie_8428_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember himâand the pressure of seeing his old friends move on without 
- himâsparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20261203
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't 
+ remember himâand the pressure of seeing his old friends move on without 
+ himâsparks a change in Peter Parker he may not have the power to control
+ . But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no on
+ e can even see.
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,14 +178,14 @@ UID:Radarr_movie_8428_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Capcom
-DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
- rown back into combat when the mysterious Chun-Li recruits them for the n
- ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
- But behind this battle royale lies a deadly conspiracy that forces them t
- o face off against each other and the demons of their past. And if they d
- on't\, it's GAME OVER!
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261116T030503Z
+DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are thr
+ own back into combat when the mysterious Chun-Li recruits them for the nex
+ t World Warrior Tournament: a brutal clash of fists\, fate\, and fury. But
+  behind this battle royale lies a deadly conspiracy that forces them to fa
+ ce off against each other and the demons of their past. And if they don't\
+ , it's GAME OVER!
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -166,14 +194,14 @@ UID:Radarr_movie_11703_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Capcom
-DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
- rown back into combat when the mysterious Chun-Li recruits them for the n
- ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
- But behind this battle royale lies a deadly conspiracy that forces them t
- o face off against each other and the demons of their past. And if they d
- on't\, it's GAME OVER!
-DTEND;VALUE=DATE:20261202
-DTSTAMP:20261116T030503Z
+DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are thr
+ own back into combat when the mysterious Chun-Li recruits them for the nex
+ t World Warrior Tournament: a brutal clash of fists\, fate\, and fury. But
+  behind this battle royale lies a deadly conspiracy that forces them to fa
+ ce off against each other and the demons of their past. And if they don't\
+ , it's GAME OVER!
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -182,13 +210,12 @@ UID:Radarr_movie_11703_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
- d perilous journey home following the Trojan War. Throughout his voyage\,
-  he is forced to confront the whims of gods\, mythological monsters\, and
-  trials that stretch both his cunning and his humanity to the breaking po
- int.
-DTEND;VALUE=DATE:20260716
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long and
+  perilous journey home following the Trojan War. Throughout his voyage\, h
+ e is forced to confront the whims of gods\, mythological monsters\, and tr
+ ials that stretch both his cunning and his humanity to the breaking point.
+DTEND;VALUE=DATE:20260715
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -197,13 +224,12 @@ UID:Radarr_movie_11729_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
- d perilous journey home following the Trojan War. Throughout his voyage\,
-  he is forced to confront the whims of gods\, mythological monsters\, and
-  trials that stretch both his cunning and his humanity to the breaking po
- int.
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long and
+  perilous journey home following the Trojan War. Throughout his voyage\, h
+ e is forced to confront the whims of gods\, mythological monsters\, and tr
+ ials that stretch both his cunning and his humanity to the breaking point.
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -212,13 +238,12 @@ UID:Radarr_movie_11729_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
- d perilous journey home following the Trojan War. Throughout his voyage\,
-  he is forced to confront the whims of gods\, mythological monsters\, and
-  trials that stretch both his cunning and his humanity to the breaking po
- int.
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long and
+  perilous journey home following the Trojan War. Throughout his voyage\, h
+ e is forced to confront the whims of gods\, mythological monsters\, and tr
+ ials that stretch both his cunning and his humanity to the breaking point.
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -227,14 +252,14 @@ UID:Radarr_movie_11729_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:DC Studios
-DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
-  leading man is tragically cut short when a local crime boss's actions le
- ave him horribly disfigured. Abandoned by his team and with nothing left\
- , Matt seeks out a cutting edge treatment that miraculously returns him t
- o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
- iraling him down a destructive path of all-consuming revenge.
-DTEND;VALUE=DATE:20261022
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood 
+ leading man is tragically cut short when a local crime boss's actions leav
+ e him horribly disfigured. Abandoned by his team and with nothing left\, M
+ att seeks out a cutting edge treatment that miraculously returns him to hi
+ s former selfâ¦ but also unexpectedly affects his grip on reality\, spira
+ ling him down a destructive path of all-consuming revenge.
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -243,14 +268,14 @@ UID:Radarr_movie_12403_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:DC Studios
-DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
-  leading man is tragically cut short when a local crime boss's actions le
- ave him horribly disfigured. Abandoned by his team and with nothing left\
- , Matt seeks out a cutting edge treatment that miraculously returns him t
- o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
- iraling him down a destructive path of all-consuming revenge.
-DTEND;VALUE=DATE:20261208
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood 
+ leading man is tragically cut short when a local crime boss's actions leav
+ e him horribly disfigured. Abandoned by his team and with nothing left\, M
+ att seeks out a cutting edge treatment that miraculously returns him to hi
+ s former selfâ¦ but also unexpectedly affects his grip on reality\, spira
+ ling him down a destructive path of all-consuming revenge.
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261207
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -259,14 +284,14 @@ UID:Radarr_movie_12403_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:DC Studios
-DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
-  leading man is tragically cut short when a local crime boss's actions le
- ave him horribly disfigured. Abandoned by his team and with nothing left\
- , Matt seeks out a cutting edge treatment that miraculously returns him t
- o his former selfâ¦ but also unexpectedly affects his grip on reality\, sp
- iraling him down a destructive path of all-consuming revenge.
-DTEND;VALUE=DATE:20270225
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood 
+ leading man is tragically cut short when a local crime boss's actions leav
+ e him horribly disfigured. Abandoned by his team and with nothing left\, M
+ att seeks out a cutting edge treatment that miraculously returns him to hi
+ s former selfâ¦ but also unexpectedly affects his grip on reality\, spira
+ ling him down a destructive path of all-consuming revenge.
+DTEND;VALUE=DATE:20270224
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20270224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -274,53 +299,14 @@ SUMMARY:Clayface (Physical Release)
 UID:Radarr_movie_12403_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Troll Court Entertainment
-DESCRIPTION:After Acme products fail him one too many times in his dogged 
- pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
- wyer to sue the Acme Corporation.
-DTEND;VALUE=DATE:20260821
-DTSTAMP:20261116T030503Z
-DTSTART;VALUE=DATE:20260820
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Coyote vs. Acme (Theatrical Release)
-UID:Radarr_movie_12879_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Troll Court Entertainment
-DESCRIPTION:After Acme products fail him one too many times in his dogged 
- pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
- wyer to sue the Acme Corporation.
-DTEND;VALUE=DATE:20260930
-DTSTAMP:20261116T030503Z
-DTSTART;VALUE=DATE:20260929
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Coyote vs. Acme (Digital Release)
-UID:Radarr_movie_12879_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Troll Court Entertainment
-DESCRIPTION:After Acme products fail him one too many times in his dogged 
- pursuit of the Roadrunner\, Wile E. Coyote decides to hire a billboard la
- wyer to sue the Acme Corporation.
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20261116T030503Z
-DTSTART;VALUE=DATE:20261109
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Coyote vs. Acme (Physical Release)
-UID:Radarr_movie_12879_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:20th Century Studios
-DESCRIPTION:After the world's population has been ravaged by a pandemic\, 
- a man lives a lonesome existence in a Colorado airplane hangar with his d
- og and a dour gunman he has befriended. When a mysterious transmission co
- mes through on the radio while heâs flying his old Cessna\, it sparks a h
- unt for the provenance of the sound.
-DTEND;VALUE=DATE:20260827
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After the world's population has been ravaged by a pandemic\, a
+  man lives a lonesome existence in a Colorado airplane hangar with his dog
+  and a dour gunman he has befriended. When a mysterious transmission comes
+  through on the radio while heâs flying his old Cessna\, it sparks a hun
+ t for the provenance of the sound.
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -329,13 +315,13 @@ UID:Radarr_movie_12912_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:20th Century Studios
-DESCRIPTION:After the world's population has been ravaged by a pandemic\, 
- a man lives a lonesome existence in a Colorado airplane hangar with his d
- og and a dour gunman he has befriended. When a mysterious transmission co
- mes through on the radio while heâs flying his old Cessna\, it sparks a h
- unt for the provenance of the sound.
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After the world's population has been ravaged by a pandemic\, a
+  man lives a lonesome existence in a Colorado airplane hangar with his dog
+  and a dour gunman he has befriended. When a mysterious transmission comes
+  through on the radio while heâs flying his old Cessna\, it sparks a hun
+ t for the provenance of the sound.
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -344,13 +330,13 @@ UID:Radarr_movie_12912_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:20th Century Studios
-DESCRIPTION:After the world's population has been ravaged by a pandemic\, 
- a man lives a lonesome existence in a Colorado airplane hangar with his d
- og and a dour gunman he has befriended. When a mysterious transmission co
- mes through on the radio while heâs flying his old Cessna\, it sparks a h
- unt for the provenance of the sound.
-DTEND;VALUE=DATE:20261202
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After the world's population has been ravaged by a pandemic\, a
+  man lives a lonesome existence in a Colorado airplane hangar with his dog
+  and a dour gunman he has befriended. When a mysterious transmission comes
+  through on the radio while heâs flying his old Cessna\, it sparks a hun
+ t for the provenance of the sound.
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -359,11 +345,11 @@ UID:Radarr_movie_12912_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Punch Palace Productions
-DESCRIPTION:After witnessing his billionaire boss' murder and being framed
-  for the crime\, Cole Reed boards a cargo ship on a one-man crusade to av
- enge his boss' death only to discover an international conspiracy.
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After witnessing his billionaire boss' murder and being framed 
+ for the crime\, Cole Reed boards a cargo ship on a one-man crusade to aven
+ ge his boss' death only to discover an international conspiracy.
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -372,11 +358,11 @@ UID:Radarr_movie_12938_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Punch Palace Productions
-DESCRIPTION:After witnessing his billionaire boss' murder and being framed
-  for the crime\, Cole Reed boards a cargo ship on a one-man crusade to av
- enge his boss' death only to discover an international conspiracy.
-DTEND;VALUE=DATE:20260909
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After witnessing his billionaire boss' murder and being framed 
+ for the crime\, Cole Reed boards a cargo ship on a one-man crusade to aven
+ ge his boss' death only to discover an international conspiracy.
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -385,11 +371,11 @@ UID:Radarr_movie_12938_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Punch Palace Productions
-DESCRIPTION:After witnessing his billionaire boss' murder and being framed
-  for the crime\, Cole Reed boards a cargo ship on a one-man crusade to av
- enge his boss' death only to discover an international conspiracy.
-DTEND;VALUE=DATE:20261212
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After witnessing his billionaire boss' murder and being framed 
+ for the crime\, Cole Reed boards a cargo ship on a one-man crusade to aven
+ ge his boss' death only to discover an international conspiracy.
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -398,12 +384,12 @@ UID:Radarr_movie_12938_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
-DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
- elmont and his combat dog\, Odin\, find themselves stranded deep in the A
- laskan wilderness. Together\, they are forced into a brutal fight for sur
- vival against the elements.
-DTEND;VALUE=DATE:20260924
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After a harrowing plane crash\, Special Forces officer James Be
+ lmont and his combat dog\, Odin\, find themselves stranded deep in the Ala
+ skan wilderness. Together\, they are forced into a brutal fight for surviv
+ al against the elements.
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -412,12 +398,12 @@ UID:Radarr_movie_12940_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
-DESCRIPTION:After a harrowing plane crash\, Special Forces officer James B
- elmont and his combat dog\, Odin\, find themselves stranded deep in the A
- laskan wilderness. Together\, they are forced into a brutal fight for sur
- vival against the elements.
-DTEND;VALUE=DATE:20261111
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After a harrowing plane crash\, Special Forces officer James Be
+ lmont and his combat dog\, Odin\, find themselves stranded deep in the Ala
+ skan wilderness. Together\, they are forced into a brutal fight for surviv
+ al against the elements.
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -426,14 +412,14 @@ UID:Radarr_movie_12940_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Broken Road Productions
-DESCRIPTION:A former soldier is thrown into a brutal race against time whe
- n a critical medical delivery makes him and his unlikely partner the targ
- ets of a ruthless cartel. As the mission spirals into a deadly manhunt\, 
- every detour\, delay\, and bullet pushes them closer to failure. With bet
- rayal closing in from every side\, they must survive the chase and delive
- r their cargo to save the life of a little girl.
-DTEND;VALUE=DATE:20260911
-DTSTAMP:20261116T030503Z
+DESCRIPTION:A former soldier is thrown into a brutal race against time when
+  a critical medical delivery makes him and his unlikely partner the target
+ s of a ruthless cartel. As the mission spirals into a deadly manhunt\, eve
+ ry detour\, delay\, and bullet pushes them closer to failure. With betraya
+ l closing in from every side\, they must survive the chase and deliver the
+ ir cargo to save the life of a little girl.
+DTEND;VALUE=DATE:20260910
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -442,14 +428,14 @@ UID:Radarr_movie_12945_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Broken Road Productions
-DESCRIPTION:A former soldier is thrown into a brutal race against time whe
- n a critical medical delivery makes him and his unlikely partner the targ
- ets of a ruthless cartel. As the mission spirals into a deadly manhunt\, 
- every detour\, delay\, and bullet pushes them closer to failure. With bet
- rayal closing in from every side\, they must survive the chase and delive
- r their cargo to save the life of a little girl.
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20261116T030503Z
+DESCRIPTION:A former soldier is thrown into a brutal race against time when
+  a critical medical delivery makes him and his unlikely partner the target
+ s of a ruthless cartel. As the mission spirals into a deadly manhunt\, eve
+ ry detour\, delay\, and bullet pushes them closer to failure. With betraya
+ l closing in from every side\, they must survive the chase and deliver the
+ ir cargo to save the life of a little girl.
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -458,14 +444,14 @@ UID:Radarr_movie_12945_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Broken Road Productions
-DESCRIPTION:A former soldier is thrown into a brutal race against time whe
- n a critical medical delivery makes him and his unlikely partner the targ
- ets of a ruthless cartel. As the mission spirals into a deadly manhunt\, 
- every detour\, delay\, and bullet pushes them closer to failure. With bet
- rayal closing in from every side\, they must survive the chase and delive
- r their cargo to save the life of a little girl.
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261116T030503Z
+DESCRIPTION:A former soldier is thrown into a brutal race against time when
+  a critical medical delivery makes him and his unlikely partner the target
+ s of a ruthless cartel. As the mission spirals into a deadly manhunt\, eve
+ ry detour\, delay\, and bullet pushes them closer to failure. With betraya
+ l closing in from every side\, they must survive the chase and deliver the
+ ir cargo to save the life of a little girl.
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -474,11 +460,11 @@ UID:Radarr_movie_12945_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Screen Gems
-DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
- rew up in\, discovers she can travel into The Further\, where she possess
- es an ability to bring what lives there back to the real world.
-DTEND;VALUE=DATE:20260820
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Gemma\, a young mother raising her daughter in the house she gr
+ ew up in\, discovers she can travel into The Further\, where she possesses
+  an ability to bring what lives there back to the real world.
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -487,11 +473,11 @@ UID:Radarr_movie_11079_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Screen Gems
-DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
- rew up in\, discovers she can travel into The Further\, where she possess
- es an ability to bring what lives there back to the real world.
-DTEND;VALUE=DATE:20261007
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Gemma\, a young mother raising her daughter in the house she gr
+ ew up in\, discovers she can travel into The Further\, where she possesses
+  an ability to bring what lives there back to the real world.
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -500,11 +486,11 @@ UID:Radarr_movie_11079_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Screen Gems
-DESCRIPTION:Gemma\, a young mother raising her daughter in the house she g
- rew up in\, discovers she can travel into The Further\, where she possess
- es an ability to bring what lives there back to the real world.
-DTEND;VALUE=DATE:20261202
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Gemma\, a young mother raising her daughter in the house she gr
+ ew up in\, discovers she can travel into The Further\, where she possesses
+  an ability to bring what lives there back to the real world.
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -513,13 +499,13 @@ UID:Radarr_movie_11079_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BoulderLight Pictures
-DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childr
- en spend their days singing\, dancing\, and helping Buddy - bright orange
-  unicorn - spread happiness. But when one child refuses to play along\, B
- uddy is not pleased and cracks begin to appear in this seemingly perfect 
- world.
-DTEND;VALUE=DATE:20260829
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childre
+ n spend their days singing\, dancing\, and helping Buddy - bright orange u
+ nicorn - spread happiness. But when one child refuses to play along\, Budd
+ y is not pleased and cracks begin to appear in this seemingly perfect worl
+ d.
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -528,13 +514,13 @@ UID:Radarr_movie_12961_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BoulderLight Pictures
-DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childr
- en spend their days singing\, dancing\, and helping Buddy - bright orange
-  unicorn - spread happiness. But when one child refuses to play along\, B
- uddy is not pleased and cracks begin to appear in this seemingly perfect 
- world.
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childre
+ n spend their days singing\, dancing\, and helping Buddy - bright orange u
+ nicorn - spread happiness. But when one child refuses to play along\, Budd
+ y is not pleased and cracks begin to appear in this seemingly perfect worl
+ d.
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -543,13 +529,13 @@ UID:Radarr_movie_12961_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BoulderLight Pictures
-DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childr
- en spend their days singing\, dancing\, and helping Buddy - bright orange
-  unicorn - spread happiness. But when one child refuses to play along\, B
- uddy is not pleased and cracks begin to appear in this seemingly perfect 
- world.
-DTEND;VALUE=DATE:20261209
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childre
+ n spend their days singing\, dancing\, and helping Buddy - bright orange u
+ nicorn - spread happiness. But when one child refuses to play along\, Budd
+ y is not pleased and cracks begin to appear in this seemingly perfect worl
+ d.
+DTEND;VALUE=DATE:20261208
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -558,10 +544,10 @@ UID:Radarr_movie_12961_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Di Novi Pictures
-DESCRIPTION:The Owens sisters must confront the dark curse that threatens 
- to unravel their family once and for all.
-DTEND;VALUE=DATE:20260910
-DTSTAMP:20261116T030503Z
+DESCRIPTION:The Owens sisters must confront the dark curse that threatens t
+ o unravel their family once and for all.
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260909
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -570,10 +556,10 @@ UID:Radarr_movie_11346_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Di Novi Pictures
-DESCRIPTION:The Owens sisters must confront the dark curse that threatens 
- to unravel their family once and for all.
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20261116T030503Z
+DESCRIPTION:The Owens sisters must confront the dark curse that threatens t
+ o unravel their family once and for all.
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -582,10 +568,10 @@ UID:Radarr_movie_11346_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Di Novi Pictures
-DESCRIPTION:The Owens sisters must confront the dark curse that threatens 
- to unravel their family once and for all.
-DTEND;VALUE=DATE:20261206
-DTSTAMP:20261116T030503Z
+DESCRIPTION:The Owens sisters must confront the dark curse that threatens t
+ o unravel their family once and for all.
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261205
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -593,43 +579,15 @@ SUMMARY:Practical Magic 2 (Physical Release)
 UID:Radarr_movie_11346_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
- of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
- ourney that ends up blowing the whistle on the social network's most guar
- ded secrets.
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261116T030503Z
-DTSTART;VALUE=DATE:20261007
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Social Reckoning (Theatrical Release)
-UID:Radarr_movie_12083_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Columbia Pictures
-DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
- of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
- ourney that ends up blowing the whistle on the social network's most guar
- ded secrets.
-DTEND;VALUE=DATE:20261124
-DTSTAMP:20261116T030503Z
-DTSTART;VALUE=DATE:20261123
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Social Reckoning (Digital Release)
-UID:Radarr_movie_12083_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:DreamWorks Animation
-DESCRIPTION:While celebrating their last night together\, high school grad
- uates and best friends Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali. When they discover
-  that the memories of their entire friendship are the price for returning
-  home\, Jo and Raissa must race to find a way to leave the island before 
- they forget each other forever.
-DTEND;VALUE=DATE:20260917
-DTSTAMP:20261116T030503Z
+DESCRIPTION:While celebrating their last night together\, high school gradu
+ ates and best friends Jo and Raissa stumble upon a mysterious portal that 
+ transports them to the fantastical island of Nakali. When they discover th
+ at the memories of their entire friendship are the price for returning hom
+ e\, Jo and Raissa must race to find a way to leave the island before they 
+ forget each other forever.
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -638,14 +596,14 @@ UID:Radarr_movie_12976_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:DreamWorks Animation
-DESCRIPTION:While celebrating their last night together\, high school grad
- uates and best friends Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali. When they discover
-  that the memories of their entire friendship are the price for returning
-  home\, Jo and Raissa must race to find a way to leave the island before 
- they forget each other forever.
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261116T030503Z
+DESCRIPTION:While celebrating their last night together\, high school gradu
+ ates and best friends Jo and Raissa stumble upon a mysterious portal that 
+ transports them to the fantastical island of Nakali. When they discover th
+ at the memories of their entire friendship are the price for returning hom
+ e\, Jo and Raissa must race to find a way to leave the island before they 
+ forget each other forever.
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -654,14 +612,14 @@ UID:Radarr_movie_12976_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:DreamWorks Animation
-DESCRIPTION:While celebrating their last night together\, high school grad
- uates and best friends Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali. When they discover
-  that the memories of their entire friendship are the price for returning
-  home\, Jo and Raissa must race to find a way to leave the island before 
- they forget each other forever.
-DTEND;VALUE=DATE:20261202
-DTSTAMP:20261116T030503Z
+DESCRIPTION:While celebrating their last night together\, high school gradu
+ ates and best friends Jo and Raissa stumble upon a mysterious portal that 
+ transports them to the fantastical island of Nakali. When they discover th
+ at the memories of their entire friendship are the price for returning hom
+ e\, Jo and Raissa must race to find a way to leave the island before they 
+ forget each other forever.
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -670,12 +628,12 @@ UID:Radarr_movie_12976_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:LAIKA
-DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest 
- filled with enchanted creatures\, loyal allies\, and formidable adversari
- es as they embark on a desperate quest to rescue Prue's abducted baby bro
- ther from a murder of crows led by a mysterious woman named Alexandra.
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest f
+ illed with enchanted creatures\, loyal allies\, and formidable adversaries
+  as they embark on a desperate quest to rescue Prue's abducted baby brothe
+ r from a murder of crows led by a mysterious woman named Alexandra.
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -684,12 +642,12 @@ UID:Radarr_movie_12977_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:LAIKA
-DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest 
- filled with enchanted creatures\, loyal allies\, and formidable adversari
- es as they embark on a desperate quest to rescue Prue's abducted baby bro
- ther from a murder of crows led by a mysterious woman named Alexandra.
-DTEND;VALUE=DATE:20261209
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest f
+ illed with enchanted creatures\, loyal allies\, and formidable adversaries
+  as they embark on a desperate quest to rescue Prue's abducted baby brothe
+ r from a murder of crows led by a mysterious woman named Alexandra.
+DTEND;VALUE=DATE:20261208
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -697,26 +655,13 @@ SUMMARY:Wildwood (Digital Release)
 UID:Radarr_movie_12977_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Iconoclast Films
-DESCRIPTION:After a courtroom overdose lands him in rehab\, a lawyer has o
- ne week to save his career and prepare for his own trial\, with the help 
- of a dogged intern.
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20261116T030503Z
-DTSTART;VALUE=DATE:20261109
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Good Lawyer (Digital Release)
-UID:Radarr_movie_12986_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Paramount Pictures
-DESCRIPTION:An elderly miser embarks on a supernatural journey after visit
- s from the ghost of his former business partner and the Spirits of Christ
- mas Past\, Present\, and Yet to Come force him to confront his past and f
- ight for a second chance at happiness.
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261116T030503Z
+DESCRIPTION:An elderly miser embarks on a supernatural journey after visits
+  from the ghost of his former business partner and the Spirits of Christma
+ s Past\, Present\, and Yet to Come force him to confront his past and figh
+ t for a second chance at happiness.
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -725,11 +670,11 @@ UID:Radarr_movie_12988_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:Henry\, son of Greg and Pam Focker\, faces family chaos when h
- e decides to marry a strong-willed woman who appears to be his complete m
- ismatch.
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Henry\, son of Greg and Pam Focker\, faces family chaos when he
+  decides to marry a strong-willed woman who appears to be his complete mis
+ match.
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261125
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -738,11 +683,11 @@ UID:Radarr_movie_12007_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spin a Black Yarn
-DESCRIPTION:Young Bela forms a relationship with a sinister entity in her 
- home that looks uncannily like her own mother\, drawing her into a terrif
- ying and increasingly dark world.
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261116T030503Z
+DESCRIPTION:7-year-old Bela forms a relationship with a sinister entity in 
+ her home that looks uncannily like her own mother\, drawing her into a ter
+ rifying and increasingly dark world.
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -751,11 +696,11 @@ UID:Radarr_movie_13002_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spin a Black Yarn
-DESCRIPTION:Young Bela forms a relationship with a sinister entity in her 
- home that looks uncannily like her own mother\, drawing her into a terrif
- ying and increasingly dark world.
-DTEND;VALUE=DATE:20261111
-DTSTAMP:20261116T030503Z
+DESCRIPTION:7-year-old Bela forms a relationship with a sinister entity in 
+ her home that looks uncannily like her own mother\, drawing her into a ter
+ rifying and increasingly dark world.
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -764,13 +709,13 @@ UID:Radarr_movie_13002_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Topic Studios
-DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman
- \; smelly\, single and perpetually ridiculed. One day\, fed up with her s
- tuffy\, small-minded neighbours\, she commissions herself a husband to be
-  made from wicker. In an otherwise conservative town\, this unconventiona
- l romance sparks outrage\, jealousy and chaos.
-DTEND;VALUE=DATE:20261022
-DTSTAMP:20261116T030503Z
+DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman\
+ ; smelly\, single and perpetually ridiculed. One day\, fed up with her stu
+ ffy\, small-minded neighbours\, she commissions herself a husband to be ma
+ de from wicker. In an otherwise conservative town\, this unconventional ro
+ mance sparks outrage\, jealousy and chaos.
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -779,13 +724,13 @@ UID:Radarr_movie_13003_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Topic Studios
-DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman
- \; smelly\, single and perpetually ridiculed. One day\, fed up with her s
- tuffy\, small-minded neighbours\, she commissions herself a husband to be
-  made from wicker. In an otherwise conservative town\, this unconventiona
- l romance sparks outrage\, jealousy and chaos.
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261116T030503Z
+DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman\
+ ; smelly\, single and perpetually ridiculed. One day\, fed up with her stu
+ ffy\, small-minded neighbours\, she commissions herself a husband to be ma
+ de from wicker. In an otherwise conservative town\, this unconventional ro
+ mance sparks outrage\, jealousy and chaos.
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -794,13 +739,13 @@ UID:Radarr_movie_13003_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:
-DESCRIPTION:Dating expert Chelsey (Ayesha Curry) is determined to break he
- r so-called âcurseâ of always getting dumped during the holiday season. B
- ut when fate reunites her with her high school flame (Matthew Daddario)\,
-  she wonders if her bad luck might just be the universeâs way of leading 
- her back to her first love.
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Dating expert Chelsey (Ayesha Curry) is determined to break her
+  so-called âcurseâ of always getting dumped during the holiday season.
+  But when fate reunites her with her high school flame (Matthew Daddario)\
+ , she wonders if her bad luck might just be the universeâs way of leadin
+ g her back to her first love.
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -809,13 +754,13 @@ UID:Radarr_movie_13005_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:87North Productions
-DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their dar
- ing heists\, unaware that their growing viral fame has put them in the cr
- osshairs of a veteran FBI agent and a brilliant software engineer. Despit
- e the unlikely duo closing in\, the crime ring pushes past their limits\,
-  putting everything on the line for their most ambitious heist yet.
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261116T030503Z
+DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their dari
+ ng heists\, unaware that their growing viral fame has put them in the cros
+ shairs of a veteran FBI agent and a brilliant software engineer. Despite t
+ he unlikely duo closing in\, the crime ring pushes past their limits\, put
+ ting everything on the line for their most ambitious heist yet.
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -824,13 +769,13 @@ UID:Radarr_movie_13006_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywo
- od\, Cliff Booth returns to a changing Los Angeles. Now working as a fixe
- r in the shadows of the Hollywood studio system\, Cliff finds himself ent
- angled in a dangerous web of secrets\, crimes and betrayals that will tes
- t everything he knows about loyalty and survival.
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywoo
+ d\, Cliff Booth returns to a changing Los Angeles. Now working as a fixer 
+ in the shadows of the Hollywood studio system\, Cliff finds himself entang
+ led in a dangerous web of secrets\, crimes and betrayals that will test ev
+ erything he knows about loyalty and survival.
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261125
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -839,13 +784,13 @@ UID:Radarr_movie_12601_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywo
- od\, Cliff Booth returns to a changing Los Angeles. Now working as a fixe
- r in the shadows of the Hollywood studio system\, Cliff finds himself ent
- angled in a dangerous web of secrets\, crimes and betrayals that will tes
- t everything he knows about loyalty and survival.
-DTEND;VALUE=DATE:20261224
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywoo
+ d\, Cliff Booth returns to a changing Los Angeles. Now working as a fixer 
+ in the shadows of the Hollywood studio system\, Cliff finds himself entang
+ led in a dangerous web of secrets\, crimes and betrayals that will test ev
+ erything he knows about loyalty and survival.
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261223
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -854,12 +799,12 @@ UID:Radarr_movie_12601_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Grey Matter Productions
-DESCRIPTION:After Santaâs magic bag is stolen\, he turns to his naughty li
- st to find Vance\, a thief\, to help him get it back. Along with his daug
- hter\, Santa\, and a group of misfits\, Vance will have to pull off the g
- reatest heist of his life to save Christmas.
-DTEND;VALUE=DATE:20261203
-DTSTAMP:20261116T030503Z
+DESCRIPTION:After Santaâs magic bag is stolen\, he turns to his naughty l
+ ist to find Vance\, a thief\, to help him get it back. Along with his daug
+ hter\, Santa\, and a group of misfits\, Vance will have to pull off the gr
+ eatest heist of his life to save Christmas.
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -868,14 +813,14 @@ UID:Radarr_movie_13008_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Forged Films
-DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
- ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
- eature wreaking havoc on the community. But all is not as it seems\, and 
- perceptions can be misleading. What begins as ignorance plants the seed o
- f disaster\, escalating through human conflict into a tragedy of cosmic p
- roportions.
-DTEND;VALUE=DATE:20260716
-DTSTAMP:20261116T030503Z
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chie
+ f Bum-seok and officer Sung-ae are called to investigate a mysterious crea
+ ture wreaking havoc on the community. But all is not as it seems\, and per
+ ceptions can be misleading. What begins as ignorance plants the seed of di
+ saster\, escalating through human conflict into a tragedy of cosmic propor
+ tions.
+DTEND;VALUE=DATE:20260715
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -884,14 +829,14 @@ UID:Radarr_movie_13765_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Forged Films
-DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
- ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
- eature wreaking havoc on the community. But all is not as it seems\, and 
- perceptions can be misleading. What begins as ignorance plants the seed o
- f disaster\, escalating through human conflict into a tragedy of cosmic p
- roportions.
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20261116T030503Z
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chie
+ f Bum-seok and officer Sung-ae are called to investigate a mysterious crea
+ ture wreaking havoc on the community. But all is not as it seems\, and per
+ ceptions can be misleading. What begins as ignorance plants the seed of di
+ saster\, escalating through human conflict into a tragedy of cosmic propor
+ tions.
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -900,14 +845,14 @@ UID:Radarr_movie_13765_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Forged Films
-DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
- ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
- eature wreaking havoc on the community. But all is not as it seems\, and 
- perceptions can be misleading. What begins as ignorance plants the seed o
- f disaster\, escalating through human conflict into a tragedy of cosmic p
- roportions.
-DTEND;VALUE=DATE:20261210
-DTSTAMP:20261116T030503Z
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chie
+ f Bum-seok and officer Sung-ae are called to investigate a mysterious crea
+ ture wreaking havoc on the community. But all is not as it seems\, and per
+ ceptions can be misleading. What begins as ignorance plants the seed of di
+ saster\, escalating through human conflict into a tragedy of cosmic propor
+ tions.
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261209
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -916,22 +861,22 @@ UID:Radarr_movie_13765_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hallmark Media
-DESCRIPTION:Meg set aside her newscaster aspirations after a disastrous au
- dition experience in college and has been happy as a news producer in her
-  small town of Fern\, Texas. Billy Kane\, her former college crush and au
- dition partner\, is a well-known celebrity host in Hollywood on the brink
-  of losing his career after an on-camera gaffe. At the advice of his publ
- icist\, Billy begrudgingly returns to Texas to lay low and spend the holi
- days with his sister and her family. When Meg and Billy cross paths heâs 
- happy to see her but her feelings are on the frostier side: sheâs still u
- pset he took advantage of her failed audition to get the gig himself. Meg
-  finds herself seeing Billy more than sheâd like since his nephew Graham 
- is in the horse therapy program her dad runs at their ranch. With the ann
- ual Reindeer Roundup holiday event coming up\, Megâs dad gets sidelined a
- fter an injury and enlists Billy to serve has its host\, much to Megâs ch
- agrin.
-DTEND;VALUE=DATE:20261114
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Meg set aside her newscaster aspirations after a disastrous aud
+ ition experience in college and has been happy as a news producer in her s
+ mall town of Fern\, Texas. Billy Kane\, her former college crush and audit
+ ion partner\, is a well-known celebrity host in Hollywood on the brink of 
+ losing his career after an on-camera gaffe. At the advice of his publicist
+ \, Billy begrudgingly returns to Texas to lay low and spend the holidays w
+ ith his sister and her family. When Meg and Billy cross paths heâs happy
+  to see her but her feelings are on the frostier side: sheâs still upset
+  he took advantage of her failed audition to get the gig himself. Meg find
+ s herself seeing Billy more than sheâd like since his nephew Graham is i
+ n the horse therapy program her dad runs at their ranch. With the annual R
+ eindeer Roundup holiday event coming up\, Megâs dad gets sidelined after
+  an injury and enlists Billy to serve has its host\, much to Megâs chagr
+ in.
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -939,23 +884,12 @@ SUMMARY:My Christmas Cowboy (Digital Release)
 UID:Radarr_movie_13790_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:
-DESCRIPTION:One Christmas Eve\, Marty (Hynes)\, whose life is in a bit of 
- a rut\, finds himself wishing he had more time. Thanks to some holiday ma
- gic\, he awakes the next morning to discover it's Christmas Eve â again. 
- Confused at first\, Marty learns to embrace his new normal and begins to 
- truly appreciate the sights\, sounds and people of New York City that pre
- viously went unnoticed. With this gift of time\, he expands his world by 
- learning how to play a new instrument\, picking up new languages and read
- ing...every single book. But when Marty meets Chloe (Mailey)\, a newly ou
- t-of-work journalist having a tough day\, he falls hard for her. The only
-  problem is that when the morning of December 24 comes once again\, she d
- oesn't know who he is. As the Christmas Eves continue to repeat themselve
- s\, Marty makes it his mission to win her over and\, in the process\, fig
- ure out what he needs to do to finally make his way to Christmas Day â ho
- pefully with Chloe by his side.
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261116T030503Z
+CATEGORIES:Hallmark Media
+DESCRIPTION:When a magical wish traps him in an endless Christmas Eve\, a m
+ an makes the most of his extra time while trying to win the heart of a wom
+ an who forgets him each morning.
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261114
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -964,22 +898,22 @@ UID:Radarr_movie_13791_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:
-DESCRIPTION:Claire Bennett is a successful business consultant in Manhatta
- n who unexpectedly inherits her beloved Uncle Lou's Christmas-themed bar\
- , The Tipsy Reindeer\, in upstate New York. When she returns\, Claire dis
- covers the bar comes with high debt â her Uncle Lou was overly generous t
- o people in town while the booming business of Algorithm\, an upscale and
-  trendy new club\, added insult to injury. She intends to turn things aro
- und before Christmas and sell to someone who will preserve her uncle's le
- gacy and then return to her life in the city. Claire meets Zach\, Algorit
- hm's part owner and manager\, who tells her they want to buy The Tipsy Re
- indeer so they can expand. Claire bristles at the proposition and they ag
- ree to face off in a 12 Days of Christmas-inspired series of festive even
- ts to see who can bring in the most business. If Claire wins\, Zach will 
- use his contacts to find the right buyer\, but if Zach emerges victorious
- \, Claire agrees to consider Algorithm's offer.
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Claire Bennett is a successful business consultant in Manhattan
+  who unexpectedly inherits her beloved Uncle Lou's Christmas-themed bar\, 
+ The Tipsy Reindeer\, in upstate New York. When she returns\, Claire discov
+ ers the bar comes with high debt â her Uncle Lou was overly generous to 
+ people in town while the booming business of Algorithm\, an upscale and tr
+ endy new club\, added insult to injury. She intends to turn things around 
+ before Christmas and sell to someone who will preserve her uncle's legacy 
+ and then return to her life in the city. Claire meets Zach\, Algorithm's p
+ art owner and manager\, who tells her they want to buy The Tipsy Reindeer 
+ so they can expand. Claire bristles at the proposition and they agree to f
+ ace off in a 12 Days of Christmas-inspired series of festive events to see
+  who can bring in the most business. If Claire wins\, Zach will use his co
+ ntacts to find the right buyer\, but if Zach emerges victorious\, Claire a
+ grees to consider Algorithm's offer.
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261115
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -988,21 +922,21 @@ UID:Radarr_movie_13792_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:3 Foot Toss
-DESCRIPTION:When Lexi Bell returns home for the holidays\, she faces a bel
- oved family tradition she'd rather avoid: the fiercely competitive Bell B
- owl\, an annual Christmas flag football showdown between her father and u
- ncle that has fueled decades of sibling rivalry. But when an injury sidel
- ines her brother-in-law\, it looks like Lexi's family's losing streak wil
- l remain unbroken. To give them a fighting chance\, she strikes a deal wi
- th Eddie\, a former local football star-turned teacher: Lexi will use her
-  baking know-how to help Eddie best his brother in their annual bake-off 
- if he'll pose as her boyfriend and meet the "eligibility requirement" to 
- play on their team. As they navigate each other's festive family gatherin
- gs\, traditions and celebrations\, what started as a transactional partne
- rship begins to become something more as Lexi and Eddie find themselves f
- eeling less and less like their romantic relationship is just pretend.
-DTEND;VALUE=DATE:20261121
-DTSTAMP:20261116T030503Z
+DESCRIPTION:When Lexi Bell returns home for the holidays\, she faces a belo
+ ved family tradition she'd rather avoid: the fiercely competitive Bell Bow
+ l\, an annual Christmas flag football showdown between her father and uncl
+ e that has fueled decades of sibling rivalry. But when an injury sidelines
+  her brother-in-law\, it looks like Lexi's family's losing streak will rem
+ ain unbroken. To give them a fighting chance\, she strikes a deal with Edd
+ ie\, a former local football star-turned teacher: Lexi will use her baking
+  know-how to help Eddie best his brother in their annual bake-off if he'll
+  pose as her boyfriend and meet the "eligibility requirement" to play on t
+ heir team. As they navigate each other's festive family gatherings\, tradi
+ tions and celebrations\, what started as a transactional partnership begin
+ s to become something more as Lexi and Eddie find themselves feeling less 
+ and less like their romantic relationship is just pretend.
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261120
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1011,22 +945,22 @@ UID:Radarr_movie_13793_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Basset Hound Distribution
-DESCRIPTION:On-set veterinarian Goldie MacKenzie (Cahill) leaves the glamo
- ur of Hollywood behind to buy a family-run veterinary clinic in tight-kni
- t Blue Dog Valley\, arriving just in time for the town's cherished Christ
- mas season. When Dr. Gable\, the clinic's longtime owner\, unexpectedly e
- nds up out of town\, Goldie is hosted by his handsome son Cohen (Walker)\
- , the black sheep of the family because he decided to forego their expect
- ation of becoming a vet. Cohen and Goldie get off on the wrong foot\, but
-  when the folks of Blue Dog Valley cold shoulder "the newcomer\," Cohen t
- eams up with Goldie to win over even the frostiest of community members. 
- Goldie is also aided by the mysterious canine she dubs Blue whose spontan
- eous appearances always seem to guide Goldie to exactly where she needs t
- o be. As Goldie works hard to prove herself to the townspeople when furry
-  and Christmas crises arise\, she finds herself pulled towards the very h
- eart of her new-found home... and a certain black sheep.
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261116T030503Z
+DESCRIPTION:On-set veterinarian Goldie MacKenzie (Cahill) leaves the glamou
+ r of Hollywood behind to buy a family-run veterinary clinic in tight-knit 
+ Blue Dog Valley\, arriving just in time for the town's cherished Christmas
+  season. When Dr. Gable\, the clinic's longtime owner\, unexpectedly ends 
+ up out of town\, Goldie is hosted by his handsome son Cohen (Walker)\, the
+  black sheep of the family because he decided to forego their expectation 
+ of becoming a vet. Cohen and Goldie get off on the wrong foot\, but when t
+ he folks of Blue Dog Valley cold shoulder "the newcomer\," Cohen teams up 
+ with Goldie to win over even the frostiest of community members. Goldie is
+  also aided by the mysterious canine she dubs Blue whose spontaneous appea
+ rances always seem to guide Goldie to exactly where she needs to be. As Go
+ ldie works hard to prove herself to the townspeople when furry and Christm
+ as crises arise\, she finds herself pulled towards the very heart of her n
+ ew-found home... and a certain black sheep.
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261121
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1035,16 +969,16 @@ UID:Radarr_movie_13794_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Redline Entertainment
-DESCRIPTION:The one thing identical twins â quiet and bookish Abigail and 
- globe-trotting event planner Charlie â can agree on is that this first Ch
- ristmas without their mom will be difficult. When they unexpectedly get a
-  last-minute chance to travel to Wales and spend a week running the Story
-  Shoppe\, an AirBnb/bookshop in Hay-on-Wye\, they jump at the opportunity
- . Abigail is particularly excited\, given the townâs role as the backdrop
-  of the bestselling Winterton Chronicles\, her all-time favorite Regency 
- holiday romances.
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20261116T030503Z
+DESCRIPTION:The one thing identical twins â quiet and bookish Abigail and
+  globe-trotting event planner Charlie â can agree on is that this first 
+ Christmas without their mom will be difficult. When they unexpectedly get 
+ a last-minute chance to travel to Wales and spend a week running the Story
+  Shoppe\, an AirBnb/bookshop in Hay-on-Wye\, they jump at the opportunity.
+  Abigail is particularly excited\, given the townâs role as the backdrop
+  of the bestselling Winterton Chronicles\, her all-time favorite Regency h
+ oliday romances.
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261122
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1053,22 +987,22 @@ UID:Radarr_movie_13795_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Propeller Studios
-DESCRIPTION:Determined to unwind from the stresses and loneliness of her e
- veryday life\, Kimberly Carr travels to Canada to spend Christmas with he
- r grandmother\, JoJo\, at her beautiful\, cozy farmhouse. Kimberly's plan
- s for a restorative holiday are turned upside down when she crosses paths
-  with Ben Chambers\, owner of a local tree farm and new Christmas tree de
- livery app called TreeBen. Ben's a dreamer who never looks before he leap
- s while Kimberly is methodical and lives her life based on practicality. 
- But when Ben's app is plagued by an onslaught of issues\, Kimberly uses h
- er tech expertise to help him out and ensure that no one in town is depri
- ved of a Christmas tree... even though she isn't convinced of the need fo
- r the app in such a small town. Kimberly and Ben discover they may have m
- ore in common than they realized. In the process\, Kimberly begins to que
- stion if she's truly happy with her life or if she's ready for a change a
- nd ready for romance.
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Determined to unwind from the stresses and loneliness of her ev
+ eryday life\, Kimberly Carr travels to Canada to spend Christmas with her 
+ grandmother\, JoJo\, at her beautiful\, cozy farmhouse. Kimberly's plans f
+ or a restorative holiday are turned upside down when she crosses paths wit
+ h Ben Chambers\, owner of a local tree farm and new Christmas tree deliver
+ y app called TreeBen. Ben's a dreamer who never looks before he leaps whil
+ e Kimberly is methodical and lives her life based on practicality. But whe
+ n Ben's app is plagued by an onslaught of issues\, Kimberly uses her tech 
+ expertise to help him out and ensure that no one in town is deprived of a 
+ Christmas tree... even though she isn't convinced of the need for the app 
+ in such a small town. Kimberly and Ben discover they may have more in comm
+ on than they realized. In the process\, Kimberly begins to question if she
+ 's truly happy with her life or if she's ready for a change and ready for 
+ romance.
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261126
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1077,22 +1011,22 @@ UID:Radarr_movie_13796_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Neshama Entertainment
-DESCRIPTION:Silvana "Silvy" Gianetti is disillusioned with her job as the 
- executive chef at a swanky restaurant in New York. Growing up in a large 
- and loving Italian-American family\, Silvy is drawn to the food and comfo
- rt of her home. When her beloved Nonna suffers a minor wrist injury\, Sil
- vy is called back home to Boston's Italian North End to prepare the famil
- y's beloved "Feast of the Seven Fishes" Christmas Eve dinner. As she prep
- s for the big feast\, her family is joined by Ethan \, a photographer who
-  is documenting different family traditions around town and who's become 
- close to her Nonna. After a rocky start with Ethan\, things begin to heat
-  up as Silvy grows to appreciate the heart and soul he puts into capturin
- g the magic of the little moments and a romance could be simmering. Every
-  day leading up to Christmas Eve\, Silvy gathers in the kitchen with her 
- Nonna\, mom and aunt to prepare the pasta\, struffoli and other Italian c
- lassics near and dear to Silvy's heart.
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Silvana "Silvy" Gianetti is disillusioned with her job as the e
+ xecutive chef at a swanky restaurant in New York. Growing up in a large an
+ d loving Italian-American family\, Silvy is drawn to the food and comfort 
+ of her home. When her beloved Nonna suffers a minor wrist injury\, Silvy i
+ s called back home to Boston's Italian North End to prepare the family's b
+ eloved "Feast of the Seven Fishes" Christmas Eve dinner. As she preps for 
+ the big feast\, her family is joined by Ethan \, a photographer who is doc
+ umenting different family traditions around town and who's become close to
+  her Nonna. After a rocky start with Ethan\, things begin to heat up as Si
+ lvy grows to appreciate the heart and soul he puts into capturing the magi
+ c of the little moments and a romance could be simmering. Every day leadin
+ g up to Christmas Eve\, Silvy gathers in the kitchen with her Nonna\, mom 
+ and aunt to prepare the pasta\, struffoli and other Italian classics near 
+ and dear to Silvy's heart.
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1101,14 +1035,14 @@ UID:Radarr_movie_13797_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Basset Hound Distribution
-DESCRIPTION:Decades after a childhood letter to Santa goes unanswered\, Ja
- ke has grown into a practical adult who no longer believes in Christmas m
- agic. When Santa finally discovers the lost letter and begins granting Ja
- keâs long-forgotten wishes\, his orderly life is thrown into chaos. With 
- his childhood best friend Julie unexpectedly back in town\, the two work 
- together to manage each new wish while growing closer along the way.
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Decades after a childhood letter to Santa goes unanswered\, Jak
+ e has grown into a practical adult who no longer believes in Christmas mag
+ ic. When Santa finally discovers the lost letter and begins granting Jake
+ âs long-forgotten wishes\, his orderly life is thrown into chaos. With h
+ is childhood best friend Julie unexpectedly back in town\, the two work to
+ gether to manage each new wish while growing closer along the way.
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1117,20 +1051,19 @@ UID:Radarr_movie_13798_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Jaggi Entertainment
-DESCRIPTION:Every Christmas\, a small town honors the memory of a beloved 
- teacher â who once spread joy through her "Secret Norma" gifts â by creat
- ing a whimsical and heartfelt scavenger hunt for one worthy recipient. Wh
- en burned-out art teacher Vanessa visits her widowed brother and niece Es
- ther for the holidays\, she is surprised to be chosen as the next "Secret
-  Norma" recipient. Hoping to bring Esther some Christmas magic\, Vanessa 
- decides to help revive the town's holiday block party. Her handsome elect
- rician neighbor Spencer offers help with the preparations if Vanessa will
-  help him sell his mother Norma's house. As Vanessa solves the riddles of
-  "Secret Norma" and plans the block party\, her passion for teaching art 
- begins to spark along with her feelings for the charming electrician next
-  door.
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Every Christmas\, a small town honors the memory of a beloved t
+ eacher â who once spread joy through her "Secret Norma" gifts â by cre
+ ating a whimsical and heartfelt scavenger hunt for one worthy recipient. W
+ hen burned-out art teacher Vanessa visits her widowed brother and niece Es
+ ther for the holidays\, she is surprised to be chosen as the next "Secret 
+ Norma" recipient. Hoping to bring Esther some Christmas magic\, Vanessa de
+ cides to help revive the town's holiday block party. Her handsome electric
+ ian neighbor Spencer offers help with the preparations if Vanessa will hel
+ p him sell his mother Norma's house. As Vanessa solves the riddles of "Sec
+ ret Norma" and plans the block party\, her passion for teaching art begins
+  to spark along with her feelings for the charming electrician next door.
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261128
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1139,17 +1072,16 @@ UID:Radarr_movie_13799_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hallmark Media
-DESCRIPTION:Lindsey and her extended family head to Walt Disney World to s
- pend a magical Christmas together\, but the dream of a jolly holiday gets
-  quickly dashed when Lindsey discovers her room is next door to Philip\, 
- a disastrous first date she recently had\, whoâs also there on a family t
- rip. As Lindsey and Philipâs paths cross throughout their stay\, the fros
- t starts to thaw as they learn theyâre not so different from each other a
- fter all. Thanks to some Walt Disney World magic\, the holiday wish Linds
- ey made in Cinderella Fountain just might turn their rivalry into romance
- .
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Lindsey and her extended family head to Walt Disney World to sp
+ end a magical Christmas together\, but the dream of a jolly holiday gets q
+ uickly dashed when Lindsey discovers her room is next door to Philip\, a d
+ isastrous first date she recently had\, whoâs also there on a family tri
+ p. As Lindsey and Philipâs paths cross throughout their stay\, the frost
+  starts to thaw as they learn theyâre not so different from each other a
+ fter all. Thanks to some Walt Disney World magic\, the holiday wish Lindse
+ y made in Cinderella Fountain just might turn their rivalry into romance.
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261128
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1158,22 +1090,21 @@ UID:Radarr_movie_13800_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Neshama Entertainment
-DESCRIPTION:Hannah\, who works for a large auction house in New York City\
- , is excited for her best friend Ethan to return home for a visit during 
- Hanukkah and is looking forward to some time off from work That plan is s
- hort-lived when Ethan shares the news that he's convinced the daughter of
-  his wealthy boss to use Hannah's auction house to sell their family's co
- llection of Judaica with the condition that Hannah handles the sale. Comp
- licating her holiday further\, she meets the mysterious Pearl\, who gifts
-  her with an antique menorah that is anything but ordinary as it takes he
- r back to a different times of her life each night of Hanukkah\, with Pea
- rl as her guide. This front row seat to past moments leads Hannah to refl
- ect\, break out of her comfort zone and overcome her fear of failure. Tha
- nks to her trips through the past\, and as she and Ethan spend time toget
- her in the present\, Hannah realizes she has feelings for him she never a
- cknowledged.
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Hannah\, who works for a large auction house in New York City\,
+  is excited for her best friend Ethan to return home for a visit during Ha
+ nukkah and is looking forward to some time off from work That plan is shor
+ t-lived when Ethan shares the news that he's convinced the daughter of his
+  wealthy boss to use Hannah's auction house to sell their family's collect
+ ion of Judaica with the condition that Hannah handles the sale. Complicati
+ ng her holiday further\, she meets the mysterious Pearl\, who gifts her wi
+ th an antique menorah that is anything but ordinary as it takes her back t
+ o a different times of her life each night of Hanukkah\, with Pearl as her
+  guide. This front row seat to past moments leads Hannah to reflect\, brea
+ k out of her comfort zone and overcome her fear of failure. Thanks to her 
+ trips through the past\, and as she and Ethan spend time together in the p
+ resent\, Hannah realizes she has feelings for him she never acknowledged.
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1182,22 +1113,22 @@ UID:Radarr_movie_13801_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Vault Entertainment
-DESCRIPTION:When an early snowstorm sweeps through the Midwest\, punctual\
- , straight-laced "suit" Cassidy Fields is forced to hitch a ride with fre
- e spirited\, music loving Johanna "Jo" Woods in her bother Chase's 18-whe
- eler to the nearest airport to catch another flight. However\, when Jo's 
- flight successfully takes off and Cassidy's is cancelled again at the las
- t minute\, she joins Chase on the road back to Tennessee from Chicago to 
- make it home in time to spend Christmas with her father. Quickly\, Cassid
- y and Chase's connection begins to spark. Through losing the car keys\, s
- topping to partake in a Mrs. Claus parade and a surprise run-in with Jo\,
-  whose plane got grounded mid-flight due to weather\, Cassidy builds bond
- s with both siblings as they all challenge one another's life philosophie
- s. As the trio pushes past every obstacle\, they work to embrace their di
- fferences and find that the fastest way home is when they lean on one ano
- ther for help.
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261116T030503Z
+DESCRIPTION:When an early snowstorm sweeps through the Midwest\, punctual\,
+  straight-laced "suit" Cassidy Fields is forced to hitch a ride with free 
+ spirited\, music loving Johanna "Jo" Woods in her bother Chase's 18-wheele
+ r to the nearest airport to catch another flight. However\, when Jo's flig
+ ht successfully takes off and Cassidy's is cancelled again at the last min
+ ute\, she joins Chase on the road back to Tennessee from Chicago to make i
+ t home in time to spend Christmas with her father. Quickly\, Cassidy and C
+ hase's connection begins to spark. Through losing the car keys\, stopping 
+ to partake in a Mrs. Claus parade and a surprise run-in with Jo\, whose pl
+ ane got grounded mid-flight due to weather\, Cassidy builds bonds with bot
+ h siblings as they all challenge one another's life philosophies. As the t
+ rio pushes past every obstacle\, they work to embrace their differences an
+ d find that the fastest way home is when they lean on one another for help
+ .
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1206,20 +1137,20 @@ UID:Radarr_movie_13802_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:
-DESCRIPTION:When driven corporate attorney Tanya rushes into a charming gi
- ft shop searching for a last-minute White Elephant gift\, she crosses pat
- hs with Jason\, a handsome\, laid-back clerk. Their brief encounter leads
-  Tanya to purchase a beautiful antique glass snowflake which\, unbeknowns
- t to her or Jason\, is a good luck charm that carries a generations-old C
- hristmas tradition. However\, since the ornament is entered into a holida
- y gift exchange rather than gifted with proper intention\, Tanya suddenly
-  finds herself on the receiving end of everyone else's misfortune. After 
- Jason's Aunt Coco explains the snowflake's magical lore\, Tanya reluctant
- ly teams up with Jason to track down the snowflake as it makes its way fr
- om one recipient to the next across Chicago before Christmas Day or she'l
- l be stuck with bad luck until next Christmas.
-DTEND;VALUE=DATE:20261205
-DTSTAMP:20261116T030503Z
+DESCRIPTION:When driven corporate attorney Tanya rushes into a charming gif
+ t shop searching for a last-minute White Elephant gift\, she crosses paths
+  with Jason\, a handsome\, laid-back clerk. Their brief encounter leads Ta
+ nya to purchase a beautiful antique glass snowflake which\, unbeknownst to
+  her or Jason\, is a good luck charm that carries a generations-old Christ
+ mas tradition. However\, since the ornament is entered into a holiday gift
+  exchange rather than gifted with proper intention\, Tanya suddenly finds 
+ herself on the receiving end of everyone else's misfortune. After Jason's 
+ Aunt Coco explains the snowflake's magical lore\, Tanya reluctantly teams 
+ up with Jason to track down the snowflake as it makes its way from one rec
+ ipient to the next across Chicago before Christmas Day or she'll be stuck 
+ with bad luck until next Christmas.
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261204
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1228,12 +1159,12 @@ UID:Radarr_movie_13803_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hallmark Media
-DESCRIPTION:In 1895\, Elizabeth meets Michael\, a teen trespasser at Biltm
- ore House who vanishes. When he returns 20 years later\, a magic hourglas
- s pulls her to the present. She must return home before being found and b
- efore love alters her destiny.
-DTEND;VALUE=DATE:20261206
-DTSTAMP:20261116T030503Z
+DESCRIPTION:In 1895\, Elizabeth meets Michael\, a teen trespasser at Biltmo
+ re House who vanishes. When he returns 20 years later\, a magic hourglass 
+ pulls her to the present. She must return home before being found and befo
+ re love alters her destiny.
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261205
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1242,12 +1173,12 @@ UID:Radarr_movie_12343_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:3 Foot Toss
-DESCRIPTION:Three years after a disastrous marriage\, Amanda unexpectedly 
- gets stranded with her ex-husband Jack in a remote Vermont town\, where a
-  mysterious traveler claiming to be her guardian angel pushes them to con
- front their past.
-DTEND;VALUE=DATE:20261207
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Three years after a disastrous marriage\, Amanda unexpectedly g
+ ets stranded with her ex-husband Jack in a remote Vermont town\, where a m
+ ysterious traveler claiming to be her guardian angel pushes them to confro
+ nt their past.
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261206
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1256,14 +1187,14 @@ UID:Radarr_movie_13804_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hallmark Media
-DESCRIPTION:Emily Church joins her sister Zoe and Zoeâs longtime boyfriend
-  on a Christmas getaway to Pine Grove\, a town famous for its romantic ho
- liday traditions. While helping with Zoeâs proposal plans\, Emily is pair
- ed with skeptical journalist Bert Baxter. As they are drawn into the town
- âs festive celebrations\, unexpected feelings begin to challenge what the
- y both thought they knew about love\, family and Christmas.
-DTEND;VALUE=DATE:20261213
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Emily Church joins her sister Zoe and Zoeâs longtime boyfrien
+ d on a Christmas getaway to Pine Grove\, a town famous for its romantic ho
+ liday traditions. While helping with Zoeâs proposal plans\, Emily is pai
+ red with skeptical journalist Bert Baxter. As they are drawn into the town
+ âs festive celebrations\, unexpected feelings begin to challenge what th
+ ey both thought they knew about love\, family and Christmas.
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261212
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1272,22 +1203,21 @@ UID:Radarr_movie_13805_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:
-DESCRIPTION:Before they can embark on their luxurious Hawaiian holiday\, u
- ptight sports medicine physician Joseph and his daughter Annie must first
-  begrudgingly make a pit stop at a remote campground and deliver a packag
- e from his late father to a mysterious person named Birdie. Their plans a
- re derailed when Joseph accidentally crashes into free-spirited Nora's RV
-  at a rest stop. Things go from bad to worse when they not only fail to f
- ind the elusive Birdie\, but their ancient Winnebago breaks down as well.
-  Forced to spend the next few days at the campground while they wait for 
- replacement parts\, Nora introduces Joseph and Annie to the eccentric cam
- pers who lovingly dub themselves the Nomads. The embers of romance begin 
- to glow as Nora shows Joseph how to embrace the freedom of camp life. Whe
- n the mystery of who Birdie is becomes clearer and the much-awaited parts
-  arrive\, allowing Joseph and Annie to finally make their Hawaiian getawa
- y\,
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20261116T030503Z
+DESCRIPTION:Before they can embark on their luxurious Hawaiian holiday\, up
+ tight sports medicine physician Joseph and his daughter Annie must first b
+ egrudgingly make a pit stop at a remote campground and deliver a package f
+ rom his late father to a mysterious person named Birdie. Their plans are d
+ erailed when Joseph accidentally crashes into free-spirited Nora's RV at a
+  rest stop. Things go from bad to worse when they not only fail to find th
+ e elusive Birdie\, but their ancient Winnebago breaks down as well. Forced
+  to spend the next few days at the campground while they wait for replacem
+ ent parts\, Nora introduces Joseph and Annie to the eccentric campers who 
+ lovingly dub themselves the Nomads. The embers of romance begin to glow as
+  Nora shows Joseph how to embrace the freedom of camp life. When the myste
+ ry of who Birdie is becomes clearer and the much-awaited parts arrive\, al
+ lowing Joseph and Annie to finally make their Hawaiian getaway\,
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261213
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1296,15 +1226,54 @@ UID:Radarr_movie_13806_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Angel Studios
-DESCRIPTION:A star rises over Bethlehem as Christ is born. But when Herod 
- orders the slaughter of the innocents\, Mary and Joseph must protect the 
- child promised to save the world.
-DTEND;VALUE=DATE:20261204
-DTSTAMP:20261116T030503Z
+DESCRIPTION:A star rises over Bethlehem as Christ is born. But when Herod o
+ rders the slaughter of the innocents\, Mary and Joseph must protect the ch
+ ild promised to save the world.
+DTEND;VALUE=DATE:20261203
+DTSTAMP:20261117T030504Z
 DTSTART;VALUE=DATE:20261203
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Zero A.D.: The Birth of Christ (Theatrical Release)
 UID:Radarr_movie_13812_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Columbia Pictures
+DESCRIPTION:World War II\, 1943. Mallory and Miller\, the heroes who destro
+ yed the guns of Navarone\, are sent to Yugoslavia in search of a ghost fro
+ m the past.
+DTEND;VALUE=DATE:19780816
+DTSTAMP:20261117T030504Z
+DTSTART;VALUE=DATE:19780816
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Force 10 from Navarone (Theatrical Release)
+UID:Radarr_movie_9421_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Columbia Pictures
+DESCRIPTION:World War II\, 1943. Mallory and Miller\, the heroes who destro
+ yed the guns of Navarone\, are sent to Yugoslavia in search of a ghost fro
+ m the past.
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261117T030504Z
+DTSTART;VALUE=DATE:20261119
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Force 10 from Navarone (Digital Release)
+UID:Radarr_movie_9421_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Columbia Pictures
+DESCRIPTION:World War II\, 1943. Mallory and Miller\, the heroes who destro
+ yed the guns of Navarone\, are sent to Yugoslavia in search of a ghost fro
+ m the past.
+DTEND;VALUE=DATE:19921123
+DTSTAMP:20261117T030504Z
+DTSTART;VALUE=DATE:19921123
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Force 10 from Navarone (Physical Release)
+UID:Radarr_movie_9421_physical
 END:VEVENT
 END:VCALENDAR
