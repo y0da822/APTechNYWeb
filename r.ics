@@ -11,7 +11,7 @@ DESCRIPTION:This music anthology film features imaginative visual interpret
  rospective montage of Jackson's career and concludes with a performance by
   vocal group Ladysmith Black Mambazo.
 DTEND;VALUE=DATE:19881029
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:19881029
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:This music anthology film features imaginative visual interpret
  rospective montage of Jackson's career and concludes with a performance by
   vocal group Ladysmith Black Mambazo.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DESCRIPTION:This music anthology film features imaginative visual interpret
  rospective montage of Jackson's career and concludes with a performance by
   vocal group Ladysmith Black Mambazo.
 DTEND;VALUE=DATE:19890110
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:19890110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,7 +55,7 @@ DESCRIPTION:In the 23rd century\, inhabitants of a domed city freely experi
  tizens can try for a chance at being "renewed" in a civic ceremony on thei
  r 30th birthday. Escape is the only other option.
 DTEND;VALUE=DATE:19760623
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:19760623
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -69,12 +69,90 @@ DESCRIPTION:In the 23rd century\, inhabitants of a domed city freely experi
  tizens can try for a chance at being "renewed" in a civic ceremony on thei
  r 30th birthday. Escape is the only other option.
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261214
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Logan's Run (Physical Release)
 UID:Radarr_movie_4312_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Les Films Corona
+DESCRIPTION:A mute gunslinger fights in the defense of a group of outlaws a
+ nd a vengeful young widow\, against a group of ruthless bounty hunters.
+DTEND;VALUE=DATE:19681122
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:19681122
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Silence (Theatrical Release)
+UID:Radarr_movie_9314_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Les Films Corona
+DESCRIPTION:A mute gunslinger fights in the defense of a group of outlaws a
+ nd a vengeful young widow\, against a group of ruthless bounty hunters.
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20261201
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Silence (Digital Release)
+UID:Radarr_movie_9314_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Les Films Corona
+DESCRIPTION:A mute gunslinger fights in the defense of a group of outlaws a
+ nd a vengeful young widow\, against a group of ruthless bounty hunters.
+DTEND;VALUE=DATE:20010904
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20010904
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Silence (Physical Release)
+UID:Radarr_movie_9314_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Markiplier Studios
+DESCRIPTION:In a post-apocalyptic future where an event known as "The Quiet
+  Rapture" caused all known stars and habitable planets in the universe to 
+ disappear\, a convict is sent to search an ocean of blood discovered on a 
+ desolate moon\, using a small submarine nicknamed the "Iron Lung".
+DTEND;VALUE=DATE:20260130
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20260130
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Iron Lung (Theatrical Release)
+UID:Radarr_movie_9320_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Markiplier Studios
+DESCRIPTION:In a post-apocalyptic future where an event known as "The Quiet
+  Rapture" caused all known stars and habitable planets in the universe to 
+ disappear\, a convict is sent to search an ocean of blood discovered on a 
+ desolate moon\, using a small submarine nicknamed the "Iron Lung".
+DTEND;VALUE=DATE:20260529
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20260529
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Iron Lung (Digital Release)
+UID:Radarr_movie_9320_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Markiplier Studios
+DESCRIPTION:In a post-apocalyptic future where an event known as "The Quiet
+  Rapture" caused all known stars and habitable planets in the universe to 
+ disappear\, a convict is sent to search an ocean of blood discovered on a 
+ desolate moon\, using a small submarine nicknamed the "Iron Lung".
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20261206
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Iron Lung (Physical Release)
+UID:Radarr_movie_9320_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Legendary Pictures
@@ -87,7 +165,7 @@ DESCRIPTION:Nearly two decades after he seized control of the Imperium\, Pa
  in\, Paul must confront the true cost of power and the fate of those he lo
  ves the most.
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261215
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -100,7 +178,7 @@ DESCRIPTION:Beloved heroes from three distinct universes are set on a deadl
  y collision course and face an existential threat unlike anything they've 
  ever encountered.
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261216
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -113,7 +191,7 @@ DESCRIPTION:Return to the world of Panem 24 years before Katniss Everdeen v
  olunteers in her sister's place\, commencing on the morning of the reaping
   of the 50th Hunger Games\, also known as the Second Quarter Quell.
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -129,7 +207,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no on
  e can even see.
 DTEND;VALUE=DATE:20260729
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -145,7 +223,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no on
  e can even see.
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -161,7 +239,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no on
  e can even see.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -177,7 +255,7 @@ DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are thr
  ce off against each other and the demons of their past. And if they don't\
  , it's GAME OVER!
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -193,7 +271,7 @@ DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are thr
  ce off against each other and the demons of their past. And if they don't\
  , it's GAME OVER!
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -206,54 +284,12 @@ DESCRIPTION:The life of the Virgin Mary from the Crucifixion (33AD) till he
  r miraculous departure/death (44AD). It also describes the early years of 
  the Christian Church community.
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261218
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Queen of Heaven (Theatrical Release)
 UID:Radarr_movie_11711_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long and
-  perilous journey home following the Trojan War. Throughout his voyage\, h
- e is forced to confront the whims of gods\, mythological monsters\, and tr
- ials that stretch both his cunning and his humanity to the breaking point.
-DTEND;VALUE=DATE:20260715
-DTSTAMP:20261124T030502Z
-DTSTART;VALUE=DATE:20260715
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Odyssey (Theatrical Release)
-UID:Radarr_movie_11729_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long and
-  perilous journey home following the Trojan War. Throughout his voyage\, h
- e is forced to confront the whims of gods\, mythological monsters\, and tr
- ials that stretch both his cunning and his humanity to the breaking point.
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261124T030502Z
-DTSTART;VALUE=DATE:20261117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Odyssey (Digital Release)
-UID:Radarr_movie_11729_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long and
-  perilous journey home following the Trojan War. Throughout his voyage\, h
- e is forced to confront the whims of gods\, mythological monsters\, and tr
- ials that stretch both his cunning and his humanity to the breaking point.
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261124T030502Z
-DTSTART;VALUE=DATE:20261117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Odyssey (Physical Release)
-UID:Radarr_movie_11729_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:DC Studios
@@ -264,7 +300,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  s former selfâ¦ but also unexpectedly affects his grip on reality\, spira
  ling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -280,7 +316,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  s former selfâ¦ but also unexpectedly affects his grip on reality\, spira
  ling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -296,7 +332,7 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  s former selfâ¦ but also unexpectedly affects his grip on reality\, spira
  ling him down a destructive path of all-consuming revenge.
 DTEND;VALUE=DATE:20270224
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20270224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -311,7 +347,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\, a
   through on the radio while heâs flying his old Cessna\, it sparks a hun
  t for the provenance of the sound.
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260826
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -326,7 +362,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\, a
   through on the radio while heâs flying his old Cessna\, it sparks a hun
  t for the provenance of the sound.
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -341,7 +377,7 @@ DESCRIPTION:After the world's population has been ravaged by a pandemic\, a
   through on the radio while heâs flying his old Cessna\, it sparks a hun
  t for the provenance of the sound.
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -354,7 +390,7 @@ DESCRIPTION:After witnessing his billionaire boss' murder and being framed
  for the crime\, Cole Reed boards a cargo ship on a one-man crusade to aven
  ge his boss' death only to discover an international conspiracy.
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -367,7 +403,7 @@ DESCRIPTION:After witnessing his billionaire boss' murder and being framed
  for the crime\, Cole Reed boards a cargo ship on a one-man crusade to aven
  ge his boss' death only to discover an international conspiracy.
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -380,7 +416,7 @@ DESCRIPTION:After witnessing his billionaire boss' murder and being framed
  for the crime\, Cole Reed boards a cargo ship on a one-man crusade to aven
  ge his boss' death only to discover an international conspiracy.
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -388,60 +424,12 @@ SUMMARY:Mutiny (Physical Release)
 UID:Radarr_movie_12938_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Broken Road Productions
-DESCRIPTION:A former soldier is thrown into a brutal race against time when
-  a critical medical delivery makes him and his unlikely partner the target
- s of a ruthless cartel. As the mission spirals into a deadly manhunt\, eve
- ry detour\, delay\, and bullet pushes them closer to failure. With betraya
- l closing in from every side\, they must survive the chase and deliver the
- ir cargo to save the life of a little girl.
-DTEND;VALUE=DATE:20260910
-DTSTAMP:20261124T030502Z
-DTSTART;VALUE=DATE:20260910
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Runner (Theatrical Release)
-UID:Radarr_movie_12945_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Broken Road Productions
-DESCRIPTION:A former soldier is thrown into a brutal race against time when
-  a critical medical delivery makes him and his unlikely partner the target
- s of a ruthless cartel. As the mission spirals into a deadly manhunt\, eve
- ry detour\, delay\, and bullet pushes them closer to failure. With betraya
- l closing in from every side\, they must survive the chase and deliver the
- ir cargo to save the life of a little girl.
-DTEND;VALUE=DATE:20261013
-DTSTAMP:20261124T030502Z
-DTSTART;VALUE=DATE:20261013
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Runner (Digital Release)
-UID:Radarr_movie_12945_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Broken Road Productions
-DESCRIPTION:A former soldier is thrown into a brutal race against time when
-  a critical medical delivery makes him and his unlikely partner the target
- s of a ruthless cartel. As the mission spirals into a deadly manhunt\, eve
- ry detour\, delay\, and bullet pushes them closer to failure. With betraya
- l closing in from every side\, they must survive the chase and deliver the
- ir cargo to save the life of a little girl.
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261124T030502Z
-DTSTART;VALUE=DATE:20261117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Runner (Physical Release)
-UID:Radarr_movie_12945_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Screen Gems
 DESCRIPTION:Gemma\, a young mother raising her daughter in the house she gr
  ew up in\, discovers she can travel into The Further\, where she possesses
   an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260819
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -454,7 +442,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she gr
  ew up in\, discovers she can travel into The Further\, where she possesses
   an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -467,7 +455,7 @@ DESCRIPTION:Gemma\, a young mother raising her daughter in the house she gr
  ew up in\, discovers she can travel into The Further\, where she possesses
   an ability to bring what lives there back to the real world.
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -482,7 +470,7 @@ DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childre
  y is not pleased and cracks begin to appear in this seemingly perfect worl
  d.
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260828
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -497,7 +485,7 @@ DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childre
  y is not pleased and cracks begin to appear in this seemingly perfect worl
  d.
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -512,12 +500,48 @@ DESCRIPTION:Inside the colorful world of "It's Buddy!"\, a group of childre
  y is not pleased and cracks begin to appear in this seemingly perfect worl
  d.
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Buddy (Physical Release)
 UID:Radarr_movie_12961_physical
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Di Novi Pictures
+DESCRIPTION:The Owens sisters must confront the dark curse that threatens t
+ o unravel their family once and for all.
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20260909
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Practical Magic 2 (Theatrical Release)
+UID:Radarr_movie_11346_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Di Novi Pictures
+DESCRIPTION:The Owens sisters must confront the dark curse that threatens t
+ o unravel their family once and for all.
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20261013
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Practical Magic 2 (Digital Release)
+UID:Radarr_movie_11346_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Di Novi Pictures
+DESCRIPTION:The Owens sisters must confront the dark curse that threatens t
+ o unravel their family once and for all.
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20261205
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Practical Magic 2 (Physical Release)
+UID:Radarr_movie_11346_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Columbia Pictures
@@ -526,7 +550,7 @@ DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help o
  rney that ends up blowing the whistle on the social network's most guarded
   secrets.
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -540,7 +564,7 @@ DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help o
  rney that ends up blowing the whistle on the social network's most guarded
   secrets.
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -548,11 +572,25 @@ SUMMARY:The Social Reckoning (Digital Release)
 UID:Radarr_movie_12083_digital
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Columbia Pictures
+DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help o
+ f Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous jou
+ rney that ends up blowing the whistle on the social network's most guarded
+  secrets.
+DTEND;VALUE=DATE:20270121
+DTSTAMP:20261125T030502Z
+DTSTART;VALUE=DATE:20270121
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Social Reckoning (Physical Release)
+UID:Radarr_movie_12083_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Focus Features
 DESCRIPTION:A charming\, witty\, and deeply relatable story of love and sis
  terhood.
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -564,7 +602,7 @@ CATEGORIES:Focus Features
 DESCRIPTION:A charming\, witty\, and deeply relatable story of love and sis
  terhood.
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -576,7 +614,7 @@ CATEGORIES:Focus Features
 DESCRIPTION:A charming\, witty\, and deeply relatable story of love and sis
  terhood.
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261215
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -592,7 +630,7 @@ DESCRIPTION:While celebrating their last night together\, high school gradu
  e\, Jo and Raissa must race to find a way to leave the island before they 
  forget each other forever.
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -608,7 +646,7 @@ DESCRIPTION:While celebrating their last night together\, high school gradu
  e\, Jo and Raissa must race to find a way to leave the island before they 
  forget each other forever.
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -624,7 +662,7 @@ DESCRIPTION:While celebrating their last night together\, high school gradu
  e\, Jo and Raissa must race to find a way to leave the island before they 
  forget each other forever.
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -638,7 +676,7 @@ DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest f
   as they embark on a desperate quest to rescue Prue's abducted baby brothe
  r from a murder of crows led by a mysterious woman named Alexandra.
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -652,7 +690,7 @@ DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest f
   as they embark on a desperate quest to rescue Prue's abducted baby brothe
  r from a murder of crows led by a mysterious woman named Alexandra.
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -666,7 +704,7 @@ DESCRIPTION:Prue and her classmate Curtis are drawn into a magical forest f
   as they embark on a desperate quest to rescue Prue's abducted baby brothe
  r from a murder of crows led by a mysterious woman named Alexandra.
 DTEND;VALUE=DATE:20270112
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20270112
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -680,7 +718,7 @@ DESCRIPTION:Thirty-four days before she's sent to prison\, notorious Silico
  t her every move. What begins as an intimate portrait of an enigmatic felo
  n becomes a mind-bending three-year journey into the abyss.
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261016
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -694,7 +732,7 @@ DESCRIPTION:Thirty-four days before she's sent to prison\, notorious Silico
  t her every move. What begins as an intimate portrait of an enigmatic felo
  n becomes a mind-bending three-year journey into the abyss.
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -709,7 +747,7 @@ DESCRIPTION:Henry\, son of Greg and Pam Focker\, aims to marry Olivia\, a s
  \, and her unprecedented rise into his Circle of Trust sparks chaos in the
   family before Jack's 80th birthday party.
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261125
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -724,7 +762,7 @@ DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman\
  de from wicker. In an otherwise conservative town\, this unconventional ro
  mance sparks outrage\, jealousy and chaos.
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -739,27 +777,12 @@ DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman\
  de from wicker. In an otherwise conservative town\, this unconventional ro
  mance sparks outrage\, jealousy and chaos.
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Wicker (Digital Release)
 UID:Radarr_movie_13003_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:
-DESCRIPTION:Dating expert Chelsey (Ayesha Curry) is determined to break her
-  so-called âcurseâ of always getting dumped during the holiday season.
-  But when fate reunites her with her high school flame (Matthew Daddario)\
- , she wonders if her bad luck might just be the universeâs way of leadin
- g her back to her first love.
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261124T030502Z
-DTSTART;VALUE=DATE:20261117
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Second Chance Holiday (Digital Release)
-UID:Radarr_movie_13005_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:87North Productions
@@ -769,7 +792,7 @@ DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their dari
  he unlikely duo closing in\, the crime ring pushes past their limits\, put
  ting everything on the line for their most ambitious heist yet.
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -784,7 +807,7 @@ DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their dari
  he unlikely duo closing in\, the crime ring pushes past their limits\, put
  ting everything on the line for their most ambitious heist yet.
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261208
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -799,10 +822,10 @@ DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywoo
  led in a dangerous web of secrets\, crimes and betrayals that will test ev
  erything he knows about loyalty and survival.
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH (Theatrical Release)
 UID:Radarr_movie_12601_cinemas
 END:VEVENT
@@ -814,10 +837,10 @@ DESCRIPTION:Eight years after the events of Once Upon a Time in... Hollywoo
  led in a dangerous web of secrets\, crimes and betrayals that will test ev
  erything he knows about loyalty and survival.
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261223
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH (Digital Release)
 UID:Radarr_movie_12601_digital
 END:VEVENT
@@ -828,7 +851,7 @@ DESCRIPTION:After Santaâs magic bag is stolen\, he turns to his naughty l
  hter\, Santa\, and a group of misfits\, Vance will have to pull off the gr
  eatest heist of his life to save Christmas.
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261202
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -844,7 +867,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chie
  saster\, escalating through human conflict into a tragedy of cosmic propor
  tions.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -860,7 +883,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chie
  saster\, escalating through human conflict into a tragedy of cosmic propor
  tions.
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -876,7 +899,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chie
  saster\, escalating through human conflict into a tragedy of cosmic propor
  tions.
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261209
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -889,7 +912,7 @@ DESCRIPTION:Returning home for Christmas\, Lexi recruits a former football
  star to pose as her boyfriend for her family's annual flag football rivalr
  y\, but their fake romance soon turns into something real.
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -898,22 +921,12 @@ UID:Radarr_movie_13793_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Basset Hound Distribution
-DESCRIPTION:On-set veterinarian Goldie MacKenzie (Cahill) leaves the glamou
- r of Hollywood behind to buy a family-run veterinary clinic in tight-knit 
- Blue Dog Valley\, arriving just in time for the town's cherished Christmas
-  season. When Dr. Gable\, the clinic's longtime owner\, unexpectedly ends 
- up out of town\, Goldie is hosted by his handsome son Cohen (Walker)\, the
-  black sheep of the family because he decided to forego their expectation 
- of becoming a vet. Cohen and Goldie get off on the wrong foot\, but when t
- he folks of Blue Dog Valley cold shoulder "the newcomer\," Cohen teams up 
- with Goldie to win over even the frostiest of community members. Goldie is
-  also aided by the mysterious canine she dubs Blue whose spontaneous appea
- rances always seem to guide Goldie to exactly where she needs to be. As Go
- ldie works hard to prove herself to the townspeople when furry and Christm
- as crises arise\, she finds herself pulled towards the very heart of her n
- ew-found home... and a certain black sheep.
+DESCRIPTION:After leaving Hollywood to run a veterinary clinic in Blue Dog 
+ Valley\, Goldie struggles to win over the townspeople during Christmas whi
+ le finding unexpected romance with the former owner's son and guidance fro
+ m a mysterious dog.
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -931,10 +944,10 @@ DESCRIPTION:The one thing identical twins â quiet and bookish Abigail and
   of the bestselling Winterton Chronicles\, her all-time favorite Regency h
  oliday romances.
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261122
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Double Booked for the Holidays (Digital Release)
 UID:Radarr_movie_13795_digital
 END:VEVENT
@@ -955,7 +968,7 @@ DESCRIPTION:Determined to unwind from the stresses and loneliness of her ev
  's truly happy with her life or if she's ready for a change and ready for 
  romance.
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261126
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -979,7 +992,7 @@ DESCRIPTION:Silvana "Silvy" Gianetti is disillusioned with her job as the e
  and aunt to prepare the pasta\, struffoli and other Italian classics near 
  and dear to Silvy's heart.
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -995,7 +1008,7 @@ DESCRIPTION:Decades after a childhood letter to Santa goes unanswered\, Jak
  is childhood best friend Julie unexpectedly back in town\, the two work to
  gether to manage each new wish while growing closer along the way.
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1016,7 +1029,7 @@ DESCRIPTION:Every Christmas\, a small town honors the memory of a beloved t
  ret Norma" and plans the block party\, her passion for teaching art begins
   to spark along with her feelings for the charming electrician next door.
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261128
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1034,7 +1047,7 @@ DESCRIPTION:Lindsey and her extended family head to Walt Disney World to sp
  fter all. Thanks to some Walt Disney World magic\, the holiday wish Lindse
  y made in Cinderella Fountain just might turn their rivalry into romance.
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261128
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1057,7 +1070,7 @@ DESCRIPTION:Hannah\, who works for a large auction house in New York City\,
  trips through the past\, and as she and Ethan spend time together in the p
  resent\, Hannah realizes she has feelings for him she never acknowledged.
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1081,7 +1094,7 @@ DESCRIPTION:When an early snowstorm sweeps through the Midwest\, punctual\,
  d find that the fastest way home is when they lean on one another for help
  .
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261129
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1103,7 +1116,7 @@ DESCRIPTION:When driven corporate attorney Tanya rushes into a charming gif
  ipient to the next across Chicago before Christmas Day or she'll be stuck 
  with bad luck until next Christmas.
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261204
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1117,7 +1130,7 @@ DESCRIPTION:In 1895\, Elizabeth meets Michael\, a teen trespasser at Biltmo
  pulls her to the present. She must return home before being found and befo
  re love alters her destiny.
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261205
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1131,7 +1144,7 @@ DESCRIPTION:Three years after a disastrous marriage\, Amanda unexpectedly g
  ysterious traveler claiming to be her guardian angel pushes them to confro
  nt their past.
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261206
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1147,7 +1160,7 @@ DESCRIPTION:Emily Church joins her sister Zoe and Zoeâs longtime boyfrien
  âs festive celebrations\, unexpected feelings begin to challenge what th
  ey both thought they knew about love\, family and Christmas.
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261212
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1170,7 +1183,7 @@ DESCRIPTION:Before they can embark on their luxurious Hawaiian holiday\, up
  ry of who Birdie is becomes clearer and the much-awaited parts arrive\, al
  lowing Joseph and Annie to finally make their Hawaiian getaway\,
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261213
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1194,7 +1207,7 @@ DESCRIPTION:Mari is a fiercely intelligent music historian who manages to g
  \, who inherited her grandmotherâs musical talent\, for Christmas\, and 
  Julian is determined to bring it back home.
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261218
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1217,7 +1230,7 @@ DESCRIPTION:Billie is a workaholic realtor who heads home for Christmas but
  at she wants. When the mysterious Mrs. C leaves her cabin for Billie and H
  utch to breathe new life into\, her answer may come sooner than expected.
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261219
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1240,7 +1253,7 @@ DESCRIPTION:Susie has checked out on dating while Alec is a hopeless romant
  leaf in pursuing romance while Alec discovers love can walk into your life
   when you least expect it.
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261220
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1253,7 +1266,7 @@ DESCRIPTION:A star rises over Bethlehem as Christ is born. But when Herod o
  rders the slaughter of the innocents\, Mary and Joseph must protect the ch
  ild promised to save the world.
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261203
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1266,7 +1279,7 @@ DESCRIPTION:World War II\, 1943. Mallory and Miller\, the heroes who destro
  yed the guns of Navarone\, are sent to Yugoslavia in search of a ghost fro
  m the past.
 DTEND;VALUE=DATE:19780816
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:19780816
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1279,7 +1292,7 @@ DESCRIPTION:World War II\, 1943. Mallory and Miller\, the heroes who destro
  yed the guns of Navarone\, are sent to Yugoslavia in search of a ghost fro
  m the past.
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1292,7 +1305,7 @@ DESCRIPTION:World War II\, 1943. Mallory and Miller\, the heroes who destro
  yed the guns of Navarone\, are sent to Yugoslavia in search of a ghost fro
  m the past.
 DTEND;VALUE=DATE:19921123
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030502Z
 DTSTART;VALUE=DATE:19921123
 SEQUENCE:0
 STATUS:CONFIRMED
