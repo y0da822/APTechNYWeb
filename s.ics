@@ -4,26 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:After the murder of an online influencer\, the team discovers 
- that one of their cameras captured video of a criminal on the Most Wanted
-  list. The team works alongside Special Agent Nina Chase to intercept him
-  before he disappears.
-DTEND:20261117T014200Z
-DTSTAMP:20261124T030502Z
-DTSTART:20261117T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:FBI - 9x07 - Posterity
-UID:NzbDrone_episode_82822
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Angel
 DESCRIPTION:Evanâs mission through the ruined city forces him to confront 
  a violent scavenger leader and the guilt he carried home from war. Escape
   may leave him with a dangerous secret.
 DTEND:20261117T054000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261117T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +22,7 @@ DESCRIPTION:When Torres gets roped into driving a getaway car during a kid
  napping\, he goes undercover to protect the target â staying one wrong mo
  ve away from getting himself\, and everyone in that car\, killed.
 DTEND:20261118T014500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261118T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +35,7 @@ DESCRIPTION:The team is called in when a Navy admiral sacrifices himself t
  o save the life of an AI tech mogul after an assassination attempt by an 
  unstable shooter.
 DTEND:20261118T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261118T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -63,7 +49,7 @@ DESCRIPTION:Past and present collide for Gibbs as he searches for answers
  bond forms between Franks and Lala as the team races to expose a mole aft
  er FBI Agent Casey Bloom is shot.
 DTEND:20261118T034300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261118T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261118T215200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261118T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -83,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261118T224400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261118T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -96,7 +82,7 @@ DESCRIPTION:Goodwin and Charles enlist the help of colleagues. Frost strug
  gles with his financial situation. A husband races against time for a gre
  en card while his wife receives critical care. Archer gets a surprise.
 DTEND:20261119T014400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261119T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +95,7 @@ DESCRIPTION:Firehouse 51 responds when an old rundown RV explodes in a loc
  al neighborhood\, injuring two people. Vasquez and Kidd discover somethin
  g suspicious while investigating the cause.
 DTEND:20261119T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261119T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -122,7 +108,7 @@ DESCRIPTION:Needing to fill gaps in his audit report of Intelligence\, Cha
  rlie Boyden joins the investigation of a mysterious drug dealer known onl
  y as Ghost.
 DTEND:20261119T034100Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261119T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +121,7 @@ DESCRIPTION:When a seemingly random shooting at a shopping centre leaves a
   university student dead\, Darcy and Bateman must unravel her complicated
   past to find her killer.
 DTEND:20261120T014300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261120T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -148,7 +134,7 @@ DESCRIPTION:Rogue and the 113 race to stop a dangerous situation involving
   some of Nashvilleâs most vulnerable citizens\, as The Pharaohâs latest s
  cheme takes a sinister turn.
 DTEND:20261120T024300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261120T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -161,7 +147,7 @@ DESCRIPTION:Grey Sloan is overrun with patients after a nearby hospital cl
  oses its doors\, and hospital leadership clashes with how best to manage 
  the chaos.
 DTEND:20261120T024300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261120T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -175,7 +161,7 @@ DESCRIPTION:Coordinated raids set the Harrigans' empire on fire. With Conr
  ge up as Frankie takes a massive gamble and Eddie bottles it again. Seaso
  n finale.
 DTEND:20261120T084700Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261120T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -187,7 +173,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Dwight battles Turco's rising demands while racing to protect 
  the ranch from Van Heusen's land grab. Tyson gets a life changing offer.
 DTEND:20261120T084000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261120T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -201,7 +187,7 @@ DESCRIPTION:When proof of a conspiracy reaching into the Mayor's office su
  ose in on the truth\, Hondo has to decide how far he's willing to go comp
  letely alone.
 DTEND:20261121T034400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261121T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -215,7 +201,7 @@ DESCRIPTION:Nicodemus and Caiaphas both want the truth from Jesus\, but fo
  als His fate. The disciples realize they are now hunted men\, and guilt d
  rives Judas to make a final\, tragic decision.
 DTEND:20261122T085800Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261122T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -230,7 +216,7 @@ DESCRIPTION:Kayce and Belle go undercover inside a dangerous cult to find
  r own lives might be at risk. Also\, Miles travels to Helena to demonstra
  te that the Marshals are prepared to secure an unprecedented trial.
 DTEND:20261123T014300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261123T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -244,7 +230,7 @@ DESCRIPTION:After Krusty's latest marriage ends in spectacular fashion\, h
  iar face. Can a selfish\, emotionally stunted TV clown forge a new family
   and finally win the love he doesn't deserve?
 DTEND:20261123T012400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261123T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -258,7 +244,7 @@ DESCRIPTION:Dexter encounters a young killer tied to a notorious legacy an
   in the field\, a serial predator keeps New York on edge and a surprising
   arrival threatens to upend Dexter's plans.
 DTEND:20261123T015300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261123T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -271,7 +257,7 @@ DESCRIPTION:Everyone comes home. Not everyone comes back. That's what the
  therapists are gonna tell you\, anyway. Tonight\, the team faces an inqui
  sition sooner than they ever imagined.
 DTEND:20261123T025700Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261123T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -284,7 +270,7 @@ DESCRIPTION:When Colter is hired to locate the owner of a small South Caro
  lina Inn\, the search puts him at odds with rival tracker Luke\, whose re
  ckless methods and questionable morals have put innocent lives at risk.
 DTEND:20261123T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261123T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -297,7 +283,7 @@ DESCRIPTION:Agnes attempts to regain control over the Presidential Dinner\
  , Peggyâs career sparks a rift with William\, and Ada runs into Dr. Harri
  s.
 DTEND:20261123T025500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261123T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -310,17 +296,17 @@ DESCRIPTION:Jenna discovers the desperate orphanage Claire has been protec
  ting\, while Cain hunts whoever is stealing supplies. Jeff considers a te
  rrible weapon as Bing turns teenagers into soldiers.
 DTEND:20261124T054000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261124T050000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Homestead: The Series - 2x04 - The Grindstone of Survival
 UID:NzbDrone_episode_82872
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261125T215200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261125T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -330,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261125T224400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261125T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -343,7 +329,7 @@ DESCRIPTION:As Claireâs illness worsens\, Cain expels the Homesteadâs 
  iders. Jeff and Jenna lead them to a new refuge\, while Evan and Tanya at
  tempt a risky rescue without sacrificing innocent lives.
 DTEND:20261127T054000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261127T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -355,7 +341,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Dwight expands his operation while seeking stronger backing ab
  road. Mitch and Spencer look to score big at the track.
 DTEND:20261127T084000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261127T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -364,18 +350,22 @@ UID:NzbDrone_episode_81207
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:STARZ
+DESCRIPTION:With bodies piling up and a citywide gala underway\, Hondo and
+  the Exiles make their final move against the inside conspiracy hunting S
+ .W.A.T.\; Hondo has to decide exactly what kind of leader he's willing to
+  become to protect the team he built.
 DTEND:20261128T034400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261128T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:S.W.A.T. Exiles - 1x10 - TBA
+SUMMARY:S.W.A.T. Exiles - 1x10 - Hard Exit
 UID:NzbDrone_episode_81963
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20261129T085800Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261129T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -392,7 +382,7 @@ DESCRIPTION:Tasked with wrangling an international fugitive\, the Marshals
  so\, Kayce welcomes horse trainer Shelby Gaines to East Camp to help laun
  ch a new equine therapy program.
 DTEND:20261130T014300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261130T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -405,7 +395,7 @@ DESCRIPTION:When Chief Wiggum learns his son Ralph is a martial arts prodi
  gy\, he scrambles to find money to pay for lessons. Luckily Bart is there
   to help with a scheme to sell stolen sports merchandise.
 DTEND:20261130T012400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261130T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -419,7 +409,7 @@ DESCRIPTION:A familiar face from Dexter's past resurfaces\, challenging hi
  onsibility within the NYPD\, the hunt for the Five Borough Killer intensi
  fies across New York.
 DTEND:20261130T015300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261130T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -433,7 +423,7 @@ DESCRIPTION:Here we see that Natalie's return from walking in the spiderwe
  eighbors\, a change in leadership\, and the pressures of society all bear
  ing down\, you better light your candles.
 DTEND:20261130T025700Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261130T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -447,7 +437,7 @@ DESCRIPTION:When two children and their au pair vanish from a wealthy Mary
  le\, Reenie calls in a family favor while investigating the circumstances
   surrounding the death of Melâs mother.
 DTEND:20261130T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261130T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -461,7 +451,7 @@ DESCRIPTION:Larry tries to figure out a way forward after discovering the
  f between Bertha and Agnes intensifies\, while Georgeâs continued deterio
  ration draws the wrong kind of attention.
 DTEND:20261130T025500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261130T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -475,10 +465,10 @@ DESCRIPTION:When a DEA informant is murdered\, the team must stop the loca
  inous crime: a 16-year-old girl. Meanwhile\, Isobel puts pressure on Magg
  ie to rein in her relationship with OA since his return to 26 Fed.
 DTEND:20261201T014200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261201T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:FBI - 9x08 - 22 Minutes
 UID:NzbDrone_episode_82823
 END:VEVENT
@@ -488,7 +478,7 @@ DESCRIPTION:Jeffâs rescue mission becomes a fiery battle as Burnham prepar
  es to invade. Thayerâs death\, a chemical accident\, and Jennaâs confront
  ation with Cain fracture the north before the war begins.
 DTEND:20261201T054000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261201T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -502,7 +492,7 @@ DESCRIPTION:When a freelance nightcrawler videographer turns up dead\, NCI
  ending the team down a dangerous path toward a conspiracy that reaches fa
  r beyond a routine homicide investigation.
 DTEND:20261202T014500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261202T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -515,7 +505,7 @@ DESCRIPTION:When a Marine sergeantâs car is discovered in New Jersey after
   fleeing Quantico the night before a high-stakes mission\, the team inves
  tigates what couldâve led to his disappearance.
 DTEND:20261202T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261202T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -530,7 +520,7 @@ DESCRIPTION:In 1993\, the investigation of a murdered Marine with a missin
  er member of his Camp Pendleton team in his quest to find out what really
   happened to Lala.
 DTEND:20261202T034300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261202T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -540,7 +530,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20261202T054600Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261202T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -550,7 +540,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261202T215200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261202T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -560,7 +550,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261202T224400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261202T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -570,7 +560,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20261203T012100Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261203T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -580,7 +570,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20261203T034400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261203T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -593,7 +583,7 @@ DESCRIPTION:Darcy and Bateman investigate the death of an inmate in prison
  \, uncovering the drug scheme he was about to expose - and the corruption
   within their own ranks making it work.
 DTEND:20261204T014300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261204T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -607,7 +597,7 @@ DESCRIPTION:When a wealthy real estate investor is murdered\, Walker and C
  elopment project. Baxter faces scrutiny over his connection to the victim
   and his push for a quick conviction.
 DTEND:20261204T014500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261204T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -621,7 +611,7 @@ DESCRIPTION:When a nightclub dancer is assaulted by a VIP\, the squadâs in
  f its own. As the case heads to trial\, Benson and Carisi are divided on 
  how to handle a witnessâ testimony.
 DTEND:20261204T024400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261204T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -634,7 +624,7 @@ DESCRIPTION:Dwight braces for a storm as he fights to keep his operation r
  unning. Van Heusen offers to buy the dinosaur skull\, but Bodhi finds som
  ething damning.
 DTEND:20261204T084000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261204T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -644,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20261206T085800Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261206T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -660,7 +650,7 @@ DESCRIPTION:Charged with protecting an extradited foreign president accuse
  ess alive\, they find themselves caught between a foreign political consp
  iracy\, a deadly cartel and an enemy who always seems one step ahead.
 DTEND:20261207T014300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261207T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -669,8 +659,16 @@ UID:NzbDrone_episode_81979
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
+DESCRIPTION:When Bart and Milhouse crash a bar mitzvah in tuxes and discov
+ er that no adult can resist a kid in formalwear\, they have a wild party-
+ crashing night. At home\, after Marge makes finger puppet shows for Maggi
+ e\, Homer thinks that Marge can become the next superstar performer for b
+ abies. He posts her shows online\, which gets the Simpsons an invitation 
+ to a baby entertainment festival in Texas. There\, in a Texas setting tha
+ t reminds us of the show "Landman\," Marge has a difficult moral decision
+  to make.
 DTEND:20261207T012400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261207T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -680,7 +678,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261207T015300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261207T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -690,7 +688,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261207T025700Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261207T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -705,7 +703,7 @@ DESCRIPTION:When a corporate wilderness retreat takes a dangerous turn in
  reconnects with her estranged sister Charlotte and confronts lingering qu
  estions about Adam.
 DTEND:20261207T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261207T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -715,7 +713,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20261207T025500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261207T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -729,7 +727,7 @@ DESCRIPTION:When an IRS Criminal Investigation agent is executed\, Maggie
  n the task force investigating a small-town church leader with a lengthy 
  rap sheet.
 DTEND:20261208T014200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261208T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -739,7 +737,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
 DTEND:20261208T053500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261208T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -752,7 +750,7 @@ DESCRIPTION:Burnham rallies the south for war as Rick and Tish face judgme
  nt. When Jeffâs promised army fails to arrive\, he must find another way 
  to stop an overwhelming force.
 DTEND:20261208T054000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261208T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -762,7 +760,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
 DTEND:20261208T061000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261208T053500Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -775,7 +773,7 @@ DESCRIPTION:After a U.S. operative is taken hostage\, Director DiNozzo goe
  s back through the case file\, questioning whether he made the right call
  \, but the case isnât quite as closed as it looks.
 DTEND:20261209T014500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261209T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -789,7 +787,7 @@ DESCRIPTION:When a financial consultant to the Navy is found dead after a
  st who shot her. Meanwhile\, Addy pushes Wyatt to go out with a girl he m
  et on the job.
 DTEND:20261209T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261209T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -802,7 +800,7 @@ DESCRIPTION:In the present\, Gibbs reunites with close ally Tobias Fornell
   on a timely mission. In 1993\, a dead lieutenant and stolen GPS at a Nav
  y munitions bunker spur Lala to reconnect with a former flame.
 DTEND:20261209T034300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261209T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -812,7 +810,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20261209T054600Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261209T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -822,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261209T215200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261209T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -832,7 +830,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Canale 5
 DTEND:20261209T224400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261209T215200Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -845,7 +843,7 @@ DESCRIPTION:Over Christmas\, J.D. and Dr. Cox work together on a tricky ca
  se. Meanwhile\, Elliot manages an ER overflowing with patients and a surp
  rising amount of holiday cheer.
 DTEND:20261210T012100Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261210T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -854,31 +852,35 @@ UID:NzbDrone_episode_82653
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
-DESCRIPTION:Gaffney is enveloped in holiday cheer as Dr. Connor Rhodes is 
- recruited by Goodwin to help a young heart patient facing a risky surgery
- .
+DESCRIPTION:Archer helps a neglected vet. Goodwin enlists the expertise of
+  a familiar face when a young patient's medical condition rapidly deterio
+ rates. An unexpected event puts life-saving care in jeopardy.
 DTEND:20261210T014400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261210T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Chicago Med - 12x08 - Last Christmas I Gave You My Heart
+SUMMARY:Chicago Med - 12x08 - Last Christmas I Gave You My Heart...
 UID:NzbDrone_episode_82843
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:After a local church suffers a devastating fire right before C
+ hristmas\, the reverend suspects his estranged son may have had something
+  to do with it. Firehouse 51 looks to help them save their annual banquet
+ .
 DTEND:20261210T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261210T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Chicago Fire - 15x08 - TBA
+SUMMARY:Chicago Fire - 15x08 - Sanctuary
 UID:NzbDrone_episode_82948
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20261210T034100Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261210T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -888,7 +890,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20261210T034400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261210T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -901,7 +903,7 @@ DESCRIPTION:Dwight corners Governor Clark before heading to New York to co
  nfront Quiet Ray. Meanwhile\, Bevilaqua feeds both sides\, triggering a d
  eadly showdown.
 DTEND:20261211T084000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261211T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -915,7 +917,7 @@ DESCRIPTION:Mickey investigates a violent assault that rattles the communi
  aten to derail the case\, and Cassidy is forced to confront a dangerous c
  hapter from her past.
 DTEND:20261212T014300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261212T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -928,7 +930,7 @@ DESCRIPTION:While Station 42 races to save a man buried in a frozen indust
  rial accident\, Sharon finds herself trapped in a desperate life-or-death
   situation that threatens to expose a dangerous secret.
 DTEND:20261212T024300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261212T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -938,7 +940,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20261214T012400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261214T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -948,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261214T015300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261214T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -958,7 +960,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261214T025700Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261214T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -968,7 +970,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20261214T025500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261214T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -982,7 +984,7 @@ DESCRIPTION:Before Maggie and OA return to the city\, they are called in t
  and. Upon the discovery of another victim\, Maggie and OA are drawn deep 
  into a web of corruption and danger.
 DTEND:20261215T014200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261215T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -992,7 +994,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
 DTEND:20261215T053500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261215T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1005,7 +1007,7 @@ DESCRIPTION:Jeffâs nonlethal attack creates one last chance to stop the wa
  r. As Burnham regains control\, the Homesteadâs allies enter his camp una
  rmed and risk everything on truth\, faith\, and peace.
 DTEND:20261215T054000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261215T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1015,7 +1017,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
 DTEND:20261215T061000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261215T053500Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1025,7 +1027,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
 DTEND:20261216T024200Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261216T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1035,7 +1037,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20261216T054600Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261216T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1047,7 +1049,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Dwight's empire is on the brink - but a brutal double-cross sh
  ifts the balance of power\, forcing him towards a dangerous new throne.
 DTEND:20261218T084000Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261218T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1061,7 +1063,7 @@ DESCRIPTION:When a domestic abuse survivor becomes the prime suspect in a
  nflicting loyalties as Cassidy fights to ensure the investigation reveals
   the truth.
 DTEND:20261219T014300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261219T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1074,7 +1076,7 @@ DESCRIPTION:When a dangerous ultimatum threatens Sharon and everything Sta
  tion 42 stands for\, Bode and Manny face an impossible choice that puts t
  he future of Edgewater on the line.
 DTEND:20261219T024300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261219T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1084,7 +1086,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20261221T012400Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261221T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1094,7 +1096,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261221T015300Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261221T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1104,7 +1106,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
 DTEND:20261221T025700Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261221T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -1114,11 +1116,21 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20261221T025500Z
-DTSTAMP:20261124T030502Z
+DTSTAMP:20261125T030501Z
 DTSTART:20261221T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Gilded Age - 4x08 - TBA
 UID:NzbDrone_episode_82838
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DTEND:20261222T053500Z
+DTSTAMP:20261125T030501Z
+DTSTART:20261222T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Only Murders in the Building - 6x05 - Forced Perspective
+UID:NzbDrone_episode_82566
 END:VEVENT
 END:VCALENDAR
